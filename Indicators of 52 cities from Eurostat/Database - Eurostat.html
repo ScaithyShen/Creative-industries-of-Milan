@@ -1,0 +1,5890 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html dir="ltr" lang="en-GB">
+
+<head>
+    <title>Database - Eurostat</title>
+    <meta content="initial-scale=1.0, width=device-width" name="viewport" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="6XK2M_NqFEhF79UhdF43-Zv2t58zbBUp_CYAAKDHjgo" />
+<meta name="google-site-verification" content="in2pBF1QfAtURduPbpP5i-jI0MycWywIlnAImhgFALc" />
+<script type="text/javascript" src="https://ec.europa.eu/eurostat/ruxitagentjs_ICA2Vfjqrux_10235220309135426.js" data-dtconfig="app=e63eebabdf39f376|agentId=750f9e86f170dde4|rcdec=1209600000|featureHash=ICA2Vfjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=m097nmfl|mel=100000|dpvc=1|ssv=4|lastModification=1673203857218|dtVersion=10235220309135426|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/eurostat/ruxitagentjs_ICA2Vfjqrux_10235220309135426.js|reportUrl=/eurostat/rb_39a3e95b-5423-482c-879b-99ef235dffeb|rid=RID_1537504317|rpid=1594001183|domain=europa.eu/eurostat"></script><script type="application/ld+json">
+    {
+		"@context": "https://schema.org",
+		"@type": "GovernmentOrganization",
+		"@id": "https://ec.europa.eu/eurostat/",
+		"name": "Eurostat",
+		"description": "Eurostat is the statistical office of the European Union. Its mission is to provide high quality statistics and data on Europe.",
+		"url": "https://ec.europa.eu/eurostat/",
+		"logo": "https://ec.europa.eu/eurostat/o/estat-theme/images/logo/4x3.png",
+		"image": [
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/1x1.png",
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/4x3.png",
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/16x9.png"
+		],
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Luxembourg",
+			"postalCode": "L-2721",
+			"streetAddress": "5 Rue Alphonse Weicker"
+		},
+		"geo": {
+			"@type": "GeoCoordinates",
+			"latitude": 49.633182,
+			"longitude": 6.169437
+		},
+		"telephone": "+35243011",
+		"foundingDate": "1953",
+		"memberOf": [{
+			"@type": "GovernmentOrganization",
+			"name": "European Commission",
+			"url": "https://ec.europa.eu/"
+		}],
+		"sameAs": [
+			"https://en.wikipedia.org/wiki/Eurostat",
+			"https://twitter.com/EU_Eurostat",
+			"https://www.facebook.com/EurostatStatistics",
+			"https://www.instagram.com/eu_eurostat"
+		]
+    }
+</script>
+
+<link data-senna-track="permanent" href="https://ec.europa.eu/eurostat/o/frontend-theme-font-awesome-web/css/main.css" rel="stylesheet" type="text/css" />
+<script data-senna-track="permanent" src="https://ec.europa.eu/eurostat/combo?browserId=other&minifierType=js&languageId=en_GB&t=1671717380049&/eurostat/o/frontend-js-jquery-web/jquery/jquery.min.js&/eurostat/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&/eurostat/o/frontend-js-jquery-web/jquery/collapsible_search.js&/eurostat/o/frontend-js-jquery-web/jquery/fm.js&/eurostat/o/frontend-js-jquery-web/jquery/form.js&/eurostat/o/frontend-js-jquery-web/jquery/popper.min.js&/eurostat/o/frontend-js-jquery-web/jquery/side_navigation.js" type="text/javascript"></script>
+
+
+<link href="https://ec.europa.eu/eurostat/o/estat-theme/images/favicon.ico" rel="icon" />
+
+
+
+
+
+	
+
+		
+			
+				<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/data/database" rel="canonical" />
+			
+		
+
+	
+
+		
+			
+				<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/fr/data/database" hreflang="fr-FR" rel="alternate" />
+			
+			
+
+	
+
+		
+			
+				<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/data/database" hreflang="en-GB" rel="alternate" />
+			
+			
+
+	
+
+		
+			
+				<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/de/data/database" hreflang="de-DE" rel="alternate" />
+			
+			
+
+	
+
+		
+			
+				<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/data/database" hreflang="x-default" rel="alternate" />
+			
+			
+
+	
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://ec.europa.eu/eurostat/o/estat-theme/css/clay.css?browserId=other&amp;themeId=ESTATtheme_WAR_estattheme&amp;minifierType=css&amp;languageId=en_GB&amp;t=1672757296000" id="liferayAUICSS" rel="stylesheet" type="text/css" />
+
+
+
+<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/o/frontend-css-web/main.css?browserId=other&amp;themeId=ESTATtheme_WAR_estattheme&amp;minifierType=css&amp;languageId=en_GB&amp;t=1670915250917" id="liferayPortalCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<link data-senna-track="temporary" href="https://ec.europa.eu/eurostat/combo?browserId=other&amp;minifierType=&amp;themeId=ESTATtheme_WAR_estattheme&amp;languageId=en_GB&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz:%2Fcss%2Fmain.css&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_templateSearch:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fcss%2Fmain.css&amp;t=1672757296000" id="37b1ebc4" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return false;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 108.0;
+			},
+
+			getRevision: function() {
+				return '537.36';
+			},
+			getVersion: function() {
+				return '108.0';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return true;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return true;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return true;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return true;
+			},
+			isSafari: function() {
+				return true;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return true;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			null
+
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 1648576000
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '5';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/eurostat/group/main/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/eurostat/web/main/data/database';
+				},
+				getLayoutURL: function() {
+					return 'https://ec.europa.eu/eurostat/web/main/data/database';
+				},
+				getParentLayoutId: function() {
+					return '534';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'en-GB';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fec\x2eeuropa\x2eeu\x2feurostat\x2fdata\x2fdatabase';
+			},
+			getCDNBaseURL: function() {
+				return 'https://ec.europa.eu';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '10199';
+			},
+			getCompanyId: function() {
+				return '10159';
+			},
+			getDefaultLanguageId: function() {
+				return 'en_GB';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'en_GB';
+			},
+			getParentGroupId: function() {
+				return '10186';
+			},
+			getPathContext: function() {
+				return '/eurostat';
+			},
+			getPathImage: function() {
+				return '/eurostat/image';
+			},
+			getPathJavaScript: function() {
+				return '/eurostat/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/eurostat/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://ec.europa.eu/eurostat/o/estat-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/eurostat/o/estat-theme';
+			},
+			getPlid: function() {
+				return '12464';
+			},
+			getPortalURL: function() {
+				return 'https://ec.europa.eu';
+			},
+			getRealUserId: function() {
+				return '10163';
+			},
+			getScopeGroupId: function() {
+				return '10186';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '10186';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://ec.europa.eu/eurostat/group/main/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '10186';
+			},
+			getURLControlPanel: function() {
+				return '/eurostat/group/control_panel?refererPlid=12464';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fec\x2eeuropa\x2eeu\x2feurostat\x2fweb\x2fmain\x2fhome';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '10163';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+
+			isStagedPortlet: function() {
+				
+					
+						return false;
+					
+				
+			},
+
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=ESTATtheme_WAR_estattheme&colorSchemeId=01&minifierType=js&languageId=en_GB&t=1672741324645';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/eurostat/combo/?browserId=other&minifierType=&languageId=en_GB&t=1670915251720&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/eurostat/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/eurostat/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=ESTATtheme_WAR_estattheme&colorSchemeId=01&minifierType=js&languageId=en_GB&t=1670915251720';
+			},
+			getPortletRootPath: function() {
+				return '/eurostat/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=en_GB&t=1670915251720';
+			}
+		};
+
+		Liferay.authToken = 'QiRH2xOZ';
+
+		
+
+		Liferay.currentURL = '\x2feurostat\x2fweb\x2fmain\x2fdata\x2fdatabase';
+		Liferay.currentURLEncoded = '\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase';
+	// ]]>
+</script>
+
+<script src="https://ec.europa.eu/eurostat/o/js_loader_config?t=1671717380022" type="text/javascript"></script>
+<script data-senna-track="permanent" src="https://ec.europa.eu/eurostat/combo?browserId=other&minifierType=js&languageId=en_GB&t=1670915251720&/o/frontend-js-web/loader/config.js&/o/frontend-js-web/loader/loader.js&/o/frontend-js-web/aui/aui/aui.js&/o/frontend-js-web/aui/aui-base-html5-shiv/aui-base-html5-shiv.js&/o/frontend-js-web/liferay/browser_selectors.js&/o/frontend-js-web/liferay/modules.js&/o/frontend-js-web/liferay/aui_sandbox.js&/o/frontend-js-web/misc/svg4everybody.js&/o/frontend-js-web/aui/arraylist-add/arraylist-add.js&/o/frontend-js-web/aui/arraylist-filter/arraylist-filter.js&/o/frontend-js-web/aui/arraylist/arraylist.js&/o/frontend-js-web/aui/array-extras/array-extras.js&/o/frontend-js-web/aui/array-invoke/array-invoke.js&/o/frontend-js-web/aui/attribute-base/attribute-base.js&/o/frontend-js-web/aui/attribute-complex/attribute-complex.js&/o/frontend-js-web/aui/attribute-core/attribute-core.js&/o/frontend-js-web/aui/attribute-observable/attribute-observable.js&/o/frontend-js-web/aui/attribute-extras/attribute-extras.js&/o/frontend-js-web/aui/base-base/base-base.js&/o/frontend-js-web/aui/base-pluginhost/base-pluginhost.js&/o/frontend-js-web/aui/classnamemanager/classnamemanager.js&/o/frontend-js-web/aui/datatype-xml-format/datatype-xml-format.js&/o/frontend-js-web/aui/datatype-xml-parse/datatype-xml-parse.js&/o/frontend-js-web/aui/dom-base/dom-base.js&/o/frontend-js-web/aui/dom-core/dom-core.js&/o/frontend-js-web/aui/dom-screen/dom-screen.js&/o/frontend-js-web/aui/dom-style/dom-style.js&/o/frontend-js-web/aui/event-base/event-base.js&/o/frontend-js-web/aui/event-custom-base/event-custom-base.js&/o/frontend-js-web/aui/event-custom-complex/event-custom-complex.js&/o/frontend-js-web/aui/event-delegate/event-delegate.js&/o/frontend-js-web/aui/event-focus/event-focus.js&/o/frontend-js-web/aui/event-hover/event-hover.js&/o/frontend-js-web/aui/event-key/event-key.js&/o/frontend-js-web/aui/event-mouseenter/event-mouseenter.js&/o/frontend-js-web/aui/event-mousewheel/event-mousewheel.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="https://ec.europa.eu/eurostat/combo?browserId=other&minifierType=js&languageId=en_GB&t=1670915251720&/o/frontend-js-web/aui/event-outside/event-outside.js&/o/frontend-js-web/aui/event-resize/event-resize.js&/o/frontend-js-web/aui/event-simulate/event-simulate.js&/o/frontend-js-web/aui/event-synthetic/event-synthetic.js&/o/frontend-js-web/aui/intl/intl.js&/o/frontend-js-web/aui/io-base/io-base.js&/o/frontend-js-web/aui/io-form/io-form.js&/o/frontend-js-web/aui/io-queue/io-queue.js&/o/frontend-js-web/aui/io-upload-iframe/io-upload-iframe.js&/o/frontend-js-web/aui/io-xdr/io-xdr.js&/o/frontend-js-web/aui/json-parse/json-parse.js&/o/frontend-js-web/aui/json-stringify/json-stringify.js&/o/frontend-js-web/aui/node-base/node-base.js&/o/frontend-js-web/aui/node-core/node-core.js&/o/frontend-js-web/aui/node-event-delegate/node-event-delegate.js&/o/frontend-js-web/aui/node-event-simulate/node-event-simulate.js&/o/frontend-js-web/aui/node-focusmanager/node-focusmanager.js&/o/frontend-js-web/aui/node-pluginhost/node-pluginhost.js&/o/frontend-js-web/aui/node-screen/node-screen.js&/o/frontend-js-web/aui/node-style/node-style.js&/o/frontend-js-web/aui/oop/oop.js&/o/frontend-js-web/aui/plugin/plugin.js&/o/frontend-js-web/aui/pluginhost-base/pluginhost-base.js&/o/frontend-js-web/aui/pluginhost-config/pluginhost-config.js&/o/frontend-js-web/aui/querystring-stringify-simple/querystring-stringify-simple.js&/o/frontend-js-web/aui/queue-promote/queue-promote.js&/o/frontend-js-web/aui/selector-css2/selector-css2.js&/o/frontend-js-web/aui/selector-css3/selector-css3.js&/o/frontend-js-web/aui/selector-native/selector-native.js&/o/frontend-js-web/aui/selector/selector.js&/o/frontend-js-web/aui/widget-base/widget-base.js&/o/frontend-js-web/aui/widget-htmlparser/widget-htmlparser.js&/o/frontend-js-web/aui/widget-skin/widget-skin.js&/o/frontend-js-web/aui/widget-uievents/widget-uievents.js&/o/frontend-js-web/aui/yui-throttle/yui-throttle.js&/o/frontend-js-web/aui/aui-base-core/aui-base-core.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="https://ec.europa.eu/eurostat/combo?browserId=other&minifierType=js&languageId=en_GB&t=1670915251720&/o/frontend-js-web/aui/aui-base-lang/aui-base-lang.js&/o/frontend-js-web/aui/aui-classnamemanager/aui-classnamemanager.js&/o/frontend-js-web/aui/aui-component/aui-component.js&/o/frontend-js-web/aui/aui-debounce/aui-debounce.js&/o/frontend-js-web/aui/aui-delayed-task-deprecated/aui-delayed-task-deprecated.js&/o/frontend-js-web/aui/aui-event-base/aui-event-base.js&/o/frontend-js-web/aui/aui-event-input/aui-event-input.js&/o/frontend-js-web/aui/aui-form-validator/aui-form-validator.js&/o/frontend-js-web/aui/aui-node-base/aui-node-base.js&/o/frontend-js-web/aui/aui-node-html5/aui-node-html5.js&/o/frontend-js-web/aui/aui-selector/aui-selector.js&/o/frontend-js-web/aui/aui-timer/aui-timer.js&/o/frontend-js-web/liferay/dependency.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/language.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/util.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portal.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js&/o/frontend-js-web/liferay/form.js&/o/frontend-js-web/liferay/form_placeholders.js&/o/frontend-js-web/liferay/icon.js&/o/frontend-js-web/liferay/menu.js&/o/frontend-js-web/liferay/notice.js&/o/frontend-js-web/liferay/poller.js" type="text/javascript"></script>
+
+
+
+
+	
+
+	<script data-senna-track="temporary" src="https://ec.europa.eu/eurostat/o/js_bundle_config?t=1671717404712" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/json">
+{
+    "utility" : "cck"
+}
+</script>
+
+<script defer src="https://europa.eu/webtools/load.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+	window._paq = window._paq || [];
+	href = window.location.href
+		.toLowerCase()
+		.split('?')[0]
+		.replace('/eurostat/en/', '/eurostat/')
+		.replace('/eurostat/fr/', '/eurostat/')
+		.replace('/eurostat/de/', '/eurostat/');
+	_paq.push(['setCustomUrl', href]);
+	
+	_paq.push(['setCustomVariable', 1, 'liferay-site', 'Guest', 'page']);
+	
+</script>
+<script type="application/json">
+{
+    "utility" : "analytics",
+    "siteID" : 59,
+    "sitePath" : ["ec.europa.eu\/eurostat"],
+    "siteSection" : "liferay",
+	"lang" : "en-GB"
+}
+</script>
+<!-- End Piwik Code -->
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://ec.europa.eu/eurostat/o/estat-theme/css/main.css?browserId=other&amp;themeId=ESTATtheme_WAR_estattheme&amp;minifierType=css&amp;languageId=en_GB&amp;t=1672757296000" id="liferayThemeCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz_ .portlet-content {
+
+}
+#portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz header {
+background-color: #f56426;
+}
+
+#portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz  {
+background-color: #ffba82;
+}
+
+#portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz div.journal-content-article {
+font-weight : bold;
+text-align:center;
+padding: 10px;
+color: #d44211;
+}
+
+#portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz div.journal-content-article a {
+font-weight : bold;
+}
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_ .portlet-content {
+
+}
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+    background: url("https://ec.europa.eu/eurostat/web/main/data/images/ui-bg_glass_75_dadada_1x400.png") repeat-x scroll 50% 50% #dadada !important;
+    border: 1px solid #999999 !important;
+    color: #212121 !important;
+    font-weight: normal;
+}
+
+ul.ui-autocomplete a:hover {
+	color: #5d5e68 !important;
+}
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_estatsearchportlet_WAR_estatsearchportlet_ .portlet-content {
+
+}
+span.fa.fa-code {
+              padding-top: 3px;
+       }
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_eurostat_navigation_menu_instance_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<link data-senna-track="permanent" href="https://ec.europa.eu/eurostat/combo?browserId=other&minifierType=css&languageId=en_GB&t=1670915255932&/o/change-tracking-change-lists-indicator-theme-contributor/change_tracking_change_lists_indicator.css" rel="stylesheet" type = "text/css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
+
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/regular.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/solid.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/fontawesome.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/footer.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/tools.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/sitemap.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/moment.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/ecl-eu.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/toggler.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            ECL.autoInit();
+            $("input, a[id]").on("focus", function () {
+                //When a link with an id gets focus, store that information in a cookie variable
+                writeCookieWithExpireValueAndPath('lastFocus', $(this).attr('id'), 60, '/eurostat');
+            });
+            $("a:not([id])a:not([href$='#'])a:not([href^='javascript'])").on("focus", function () {
+                //When a (not fake) link without an id gets focus, delete the cookie
+                deleteCookie('lastFocus');
+            });
+            var lastLink = readCookie('lastFocus');
+            if (lastLink != "") {
+                $("input, a[id]").each(function () {
+                    if ($(this).attr('id') == lastLink) $(this).focus();
+                });
+            }
+        });
+    </script>
+    <script type="text/javascript" src="https://ec.europa.eu/eurostat/o/estat-theme/js/jquery.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme/js/jquery.jcarousel.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"></script>
+</head>
+
+<body class=" controls-visible default yui3-skin-sam guest-site signed-out public-page site">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="Quick Links" class="quick-access-nav" id="vfgr_quickAccessNav">
+		<h1 class="hide-accessible">Navigation</h1>
+
+		<ul>
+			
+				<li><a href="#main-content">Skip to Content</a></li>
+			
+
+			
+		</ul>
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="pt-0" id="wrapper">
+
+
+
+
+
+
+<header class="ecl-site-header" data-ecl-auto-init="SiteHeader" data-ecl-has-menu>
+    <script type="application/json">
+        {   
+            "utility": "globan",
+            "theme": "dark", 
+            "logo": true,
+            "link": true,
+            "lang": "en",
+            "mode": false,
+            "zindex" : 40
+        }
+    </script>
+    <div class="ecl-site-header__header">
+        <div class="ecl-site-header__container ecl-container">
+            <div class="ecl-site-header__top"><a href="https://ec.europa.eu/eurostat/web/main/home"
+                    class="ecl-link ecl-link--standalone ecl-site-header__logo-link" aria-label="Eurostat"><img
+                        alt="Home (Eurostat)" class="ecl-site-header__logo-image ecl-site-header__logo-image-mobile"
+                        src="https://ec.europa.eu/eurostat/o/estat-theme/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000" /><img alt="Home (Eurostat)"
+                        class="ecl-site-header__logo-image ecl-site-header__logo-image-desktop"
+                        src="https://ec.europa.eu/eurostat/o/estat-theme/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000" /></a>
+                <div class="ecl-site-header__action">
+                        <div class="ecl-site-header__login-container"><a
+                                class="ecl-button ecl-button--ghost ecl-site-header__login-toggle"
+                                href="https://ec.europa.eu/eurostat/c/portal/login?p_l_id=12464"><svg class="ecl-icon ecl-icon--s ecl-site-header__icon"
+                                    focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#log-in"></use>
+                                </svg>
+Log in                            </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+        <a id="language-selector" class="ecl-button ecl-button--ghost ecl-site-header-standardised__language-selector"
+                href="/component-library/example" data-ecl-language-selector
+                aria-label="Select your language" aria-controls="language-list-overlay">
+                <span class="ecl-site-header__language-icon">
+                        <svg class="ecl-icon ecl-icon--s ecl-site-header__icon" focusable="false" aria-hidden="true">
+                                <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#language">
+                                </use>
+                        </svg>
+                        <span class="ecl-site-header__language-code">en</span>
+                </span>
+                English
+        </a>
+
+
+        <div class="ecl-language-list ecl-language-list--overlay" data-ecl-language-list-overlay
+                aria-labelledby="ecl-language-list__title" role="dialog" hidden id="language-list-overlay">
+                <div class="ecl-language-list__container ecl-container">
+                        <div class="ecl-row">
+                                <div class="ecl-language-list__close ecl-col-12 ecl-col-l-8 ecl-offset-l-2"><button
+                                                class="ecl-button ecl-button--ghost ecl-language-list__close-button"
+                                                type="submit" data-ecl-language-list-close><span
+                                                        class="ecl-button__container"><span class="ecl-button__label"
+                                                                data-ecl-label="true">Close</span><svg
+                                                                class="ecl-icon ecl-icon--s ecl-button__icon ecl-button__icon--after"
+                                                                focusable="false" aria-hidden="true" data-ecl-icon>
+                                                                <use
+                                                                        xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#close">
+                                                                </use>
+                                                        </svg></span></button></div>
+                                <div class="ecl-language-list__title ecl-col-12 ecl-col-l-8 ecl-offset-l-2"
+                                        id="ecl-language-list__title">
+                                        <svg class="ecl-icon ecl-icon--m ecl-language-list__title-icon"
+                                                focusable="false" aria-hidden="true">
+                                                <use
+                                                        xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#generic-lang">
+                                                </use>
+                                        </svg>
+Select your language                                </div>
+                        </div>
+                        <div class="ecl-row ecl-language-list__eu">
+                                <div class="ecl-language-list__category ecl-col-12 ecl-col-l-8 ecl-offset-l-2">
+Languages                                </div>
+                                <div class="ecl-language-list__column ecl-col-12 ecl-col-l-8 ecl-offset-l-2">
+                                        <ul class="ecl-language-list__list">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://ec.europa.eu/eurostat/c/portal/update_language?p_l_id=12464&amp;redirect=%2Feurostat%2Fweb%2Fmain%2Fdata%2Fdatabase" class="form  " data-fm-namespace="" id="fm" method="post" name="fm" >
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="formDate"    name="formDate"     type="hidden" value="1673243418711"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="languageId"    name="languageId" onChange="changeLanguage();"   title="Language (Changing the value of this field reloads the page.)" type="hidden" value=""   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+                                                                        <li class="ecl-language-list__item"><a
+                                                                                        href="#"
+                                                                                        onclick="document.getElementById('languageId').value='de-DE';submitForm(document.fm)"
+                                                                                        class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                                        lang="de"
+                                                                                        hreflang="de"
+                                                                                        rel="alternate">
+Deutsch                                                                                </a></li>
+                                                                        <li
+                                                                                class="ecl-language-list__item ecl-language-list__item--is-active">
+                                                                                <a href="#"
+                                                                                        class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-after ecl-language-list__link"
+                                                                                        lang="en"
+                                                                                        hreflang="en"
+                                                                                        rel="alternate"><span
+                                                                                                class="ecl-link__label">
+English                                                                                        </span><svg
+                                                                                                class="ecl-icon ecl-icon--xs ecl-link__icon"
+                                                                                                focusable="false"
+                                                                                                aria-hidden="true">
+                                                                                                <use
+                                                                                                        xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#check">
+                                                                                                </use>
+                                                                                        </svg></a>
+                                                                        </li>
+                                                                        <li class="ecl-language-list__item"><a
+                                                                                        href="#"
+                                                                                        onclick="document.getElementById('languageId').value='fr-FR';submitForm(document.fm)"
+                                                                                        class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                                        lang="fr"
+                                                                                        hreflang="fr"
+                                                                                        rel="alternate">
+français                                                                                </a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+</form>
+
+
+
+                                        </ul>
+                                </div>
+                        </div>
+                        <div class="ecl-row ecl-language-list__non-eu">
+                                <div class="ecl-language-list__category ecl-col-12 ecl-col-l-8 ecl-offset-l-2">
+Automatic translations                                </div>
+                                <div class="ecl-language-list__column ecl-col-12 ecl-col-l-8 ecl-offset-l-2">
+                                        <ul class="ecl-language-list__list"
+                                                style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'bg');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="bg" hreflang="bg" rel="alternate">
+български                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'es');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="es" hreflang="es" rel="alternate">
+español                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'cs');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="cs" hreflang="cs" rel="alternate">
+čeština                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'da');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="da" hreflang="da" rel="alternate">
+dansk                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'et');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="et" hreflang="et" rel="alternate">
+eesti                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'el');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="el" hreflang="el" rel="alternate">
+ελληνικά                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'ga');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="ga" hreflang="ga" rel="alternate">
+Gaeilge                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'hr');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="hr" hreflang="hr" rel="alternate">
+hrvatski                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'it');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="it" hreflang="it" rel="alternate">
+italiano                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'lv');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="lv" hreflang="lv" rel="alternate">
+latviešu                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'lt');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="lt" hreflang="lt" rel="alternate">
+lietuvių                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'hu');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="hu" hreflang="hu" rel="alternate">
+magyar                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'mt');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="mt" hreflang="mt" rel="alternate">
+Malti                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'nl');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="nl" hreflang="nl" rel="alternate">
+Nederlands                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'pl');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="pl" hreflang="pl" rel="alternate">
+polski                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'pt');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="pt" hreflang="pt" rel="alternate">
+português                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'ru');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="ru" hreflang="ru" rel="alternate">
+pусский                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'ro');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="ro" hreflang="ro" rel="alternate">
+română                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'sk');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="sk" hreflang="sk" rel="alternate">
+slovenčina                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'sl');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="sl" hreflang="sl" rel="alternate">
+slovenščina                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'fi');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="fi" hreflang="fi" rel="alternate">
+suomi                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'sv');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="sv" hreflang="sv" rel="alternate">
+svenska                                                        </a></li>
+                                                <li class="ecl-language-list__item"><a
+                                                                href="javascript:changeLanguageInParameter('/eurostat/web/main/data/database', 'uk');"
+                                                                class="ecl-link ecl-link--standalone ecl-language-list__link"
+                                                                lang="uk" hreflang="uk" rel="alternate">
+Українська                                                        </a></li>
+                                        </ul>
+                                </div>
+                        </div>
+                </div>
+        </div>
+
+                    <div class="ecl-site-header__search-container"><a
+                            class="ecl-button ecl-button--ghost ecl-site-header__search-toggle" href="#"
+                            data-ecl-search-toggle="true" aria-controls="search-form-id" aria-expanded="false"><svg
+                                class="ecl-icon ecl-icon--s" focusable="false" aria-hidden="true">
+                                <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#search"></use>
+                            </svg>
+Search                        </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_estatsearchportlet_WAR_estatsearchportlet_  portlet-static portlet-static-end portlet-barebone  " id="p_p_id_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_">
+		<span id="p_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://ec.europa.eu/eurostat/o/estat-search-portlet/resources/js/jquery-ui.min.css?browserId=other&amp;themeId=ESTATtheme_WAR_estattheme&amp;minifierType=css&amp;languageId=en_GB&amp;t=1672395298000" />
+<script type="text/javascript" src="https://ec.europa.eu/eurostat/o/estat-search-portlet/resources/js/jquery-ui.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672395298000"></script>
+<script type="text/javascript" src="https://ec.europa.eu/eurostat/o/estat-search-portlet/resources/js/bootstrap-dropdown.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672395298000"></script>
+
+    <!-- START MOCK UP-->
+    	<!-- <form action="http://ec.europa.eu/eurostat/home?p_auth=dkF8NiuB&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=1&p_p_state=maximized&p_p_mode=view&_estatsearchportlet_WAR_estatsearchportlet_action=search" method="get"> -->
+		
+		
+		
+		
+    	<form method="get" action="https://ec.europa.eu/eurostat/web/main/search/-/search/estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J?p_auth=QiRH2xOZ" class="form-search-portlet _estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_ ecl-search-form ecl-site-header__search" name="search-form-id-_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_" role="search" data-ecl-search-form  id="search-form-id-_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_">
+		
+		<input name="p_auth" type="hidden" value="QiRH2xOZ" />
+    	
+		
+			
+			<script type="text/javascript">
+			window.addEventListener("DOMContentLoaded", function(){
+				if(screen.width < 576){
+					$(".portlet-boundary_estatsearchportlet_WAR_estatsearchportlet_ .form-label-group > label, .ecl-site-header__search .form-label-group > label").text("Enter search term");
+				}
+			});
+			</script>
+			
+		
+		<h2 class="hide-accessible">Search by keyword</h2>
+    	
+   		
+			<!-- copy paste from header -->
+			<!-- start -->
+			<!-- <input type="text" placeholder="Search the Eurostat website + all products" value="" title="Enter search term" name="text" id="keywords" class="main-search-field field lfr-search-keywords"> -->
+				<div class="form-label-group ecl-form-group">
+					<input id="input-search-_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_" class="main-search-field search-query _estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_ ecl-text-input ecl-text-input--m ecl-search-form__text-input" name="text"  type="text" placeholder="Enter search term" value="">
+					<label for="input-search-_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_">Enter search term</label>
+				</div>
+				<button class="ecl-button ecl-button--search ecl-search-form__button _estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_" type="submit" aria-label="Search">
+					<span class="ecl-button__label" data-ecl-label="true">Search</span>
+						<svg class="ecl-icon ecl-icon--xs ecl-button__icon ecl-button__icon--after" focusable="false" aria-hidden="true" data-ecl-icon><use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#search"></use></svg>
+					</span>
+				</button>
+				<!-- end -->
+		
+			<input hidden="true" name="_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_collection" value="" />
+			<input hidden="true" name="_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_theme" value="" />
+			<script type="text/javascript">
+					jQuery.extend(jQuery.expr[':'], {
+						focusable: function(el, index, selector){
+						return $(el).is('a, button, :input, [tabindex]');
+						}
+					});
+					showFilters = 'Expand filters';
+					hideFilters = 'Collapse filters';
+					navStatusOpen = screen.width >= 768 ? true : false;
+					/* Set the width of the sidebar to 250px and the left margin of the page content to 250px */
+					function openNav() {
+					  if(screen.width >= 768){
+						$("#facets").css("width", "30%");
+						$("#search-results-container").css("width", "69.9%");
+						$("#search-results-container").css("padding-left", "3%");
+					  } else {
+						$("#facets").css("width", "100%");
+						$("#search-results-container").css("width", "0%");
+						$("#search-results-container .search-results .result").css("box-shadow", "none");
+						$('#closebtn-xs').css("display", "inline-block");
+						$('#icon-filter-xs').css("display", "inline-block");
+					  	$("#search-results-container").css("max-height", "0");
+					  }
+					  $("#facets").css("max-height", "inherit");
+					  navStatusOpen = true;
+					  $('#openbtn').css("display", "none");
+					  $('#closebtn').css("display", "inline-block");
+					  $(".fa.fa-filter").prop('title', "Collapse filters");
+					  $('#facets').find(':focusable').removeAttr('tabindex');
+					}
+		
+					/* Set the width of the sidebar to 0 and the left margin of the page content to 0 */
+					function closeNav() {
+					  if(screen.width >= 768){
+						$("#search-results-container").css("padding-left", "0");
+					  }  
+					  $("#search-results-container .search-results .result").css("box-shadow", "0 0 3px #999"); 						  
+					  $("#search-results-container").css("max-height", "inherit");
+					  $("#search-results-container").css("width", "99.8%");
+					  $("#facets").css("width", "0%"); 
+					  navStatusOpen = false;
+					  $('#openbtn').css("display", "inline-block");
+					  $('#closebtn').css("display", "none");
+					  $("#facets").css("max-height", "0px");
+					  $(".fa.fa-filter").prop('title', "Expand filters");
+					  $('#facets').find(':focusable').attr('tabindex', -1);
+					}
+					
+					/* open or close depending on the status of the sidebar */
+					function manageNav() {
+						if(navStatusOpen){
+							closeNav();
+							$(".icon-filter").prop('title', showFilters);
+						} else {
+							openNav();
+							$(".icon-filter").prop('title', hideFilters);
+						}
+					}
+			
+					var collections = new Map();
+					
+						collections.set("dataset", "Datasets");
+					
+						collections.set("CAT_CATALO", "Leaflets and other brochures");
+					
+						collections.set("CAT_DATFOC", "Data in focus");
+					
+						collections.set("CAT_EURNEW", "News articles");
+					
+						collections.set("CAT_MAN", "Manuals and guidelines");
+					
+						collections.set("CAT_PREREL", "Euro indicators");
+					
+						collections.set("CAT_STATBK", "Statistical books/Pocketbooks");
+					
+						collections.set("CAT_METWP", "Statistical working papers");
+					
+						collections.set("CAT_STAFOC", "Statistics in Focus");
+					
+						collections.set("CAT_DEDSEC", "Thematic sections");
+					
+						collections.set("CAT_STATRP", "Statistical reports");
+					
+						collections.set("CAT_DIGPUB", "Interactive publications");
+					
+						collections.set("CAT_FLAGPUB", "Flagship publications");
+					
+						collections.set("CAT_KEYFIG", "Key Figures");
+					
+
+					$[ "ui" ][ "autocomplete" ].prototype["_renderItem"] = function( ul, item) {
+						return $("<li></li>")
+							.css("display", "flex")
+							.css("flex", "auto")
+							//.css("background-color", liColor)
+							.data("item.autocomplete", item )
+							.append( $( "<div></div>" )
+								.css("display", "flex")
+								.css("flex", "auto")
+								.append( $( "<div></div>" )
+									//.css("display", "flex")
+									.css("flex", "auto")
+									.css("flex-direction", "column")
+									.css("display", "block")
+									.css("width", "1px")
+									.css("padding-right", "20px")
+									.css("max-height", "none")
+									.append( $( "<a></a>" )
+										.html(item.suggest != null ? item.suggest.highlightPhrase : item.label ) 
+									)
+								)
+								.append( $( "<div></div>" )
+									.css("display", "flex")
+									.css("flex", "0 1 auto")
+									.css("align-self", "center")
+									.append( $( "<span></span>" )
+										//.css("font-size", "1.3rem")
+										.css("font-family", "arial, sans-serif")
+										.css("font-weight", "normal")
+										.css("color", "#0e47cb")
+										//.css("font-style", "italic")
+										.css("text-transform", "uppercase")
+										.html(collections.get(item.type) != null ?  
+												collections.get(item.type) 
+												: item.type == 'collection' ? 
+													'Products'
+												: item.type == 'theme' ? 
+													'Theme'
+												: item.type) 
+									) 
+								)
+							)
+							.appendTo( ul );
+					};
+					$(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").autocomplete({
+						minLength: 3,
+						source: function(request, response) {
+							$.getJSON("https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_action=autocomplete", { text: request.term }, response);
+						},	
+						open: function() {
+							$(this).autocomplete("widget").css("width", $(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").outerWidth(true) + $(".ecl-search-form__button._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").outerWidth(true));
+						},  
+						focus: function(event, ui) {
+							event.preventDefault();
+						},
+						select: function( event, ui ) {
+							if(ui.item.type=='collection'){
+								$("input[name='_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_collection']").val(ui.item.code);
+								$(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").val("");
+							} else if(ui.item.type=='theme'){
+								$("input[name='_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_theme']").val(ui.item.code);
+								$(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").val("");
+							} else {
+								$(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").val(ui.item.suggest.highlightPhrase.replace(/(<([^>]+)>)/ig,""));
+								
+								//$("input[name*='collection']").val(ui.item.type);	
+							}
+							event.preventDefault();
+							$(".form-search-portlet._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").submit();
+						},
+						change: function( event, ui ) {
+							  if(ui.item != null){
+							  	$(".main-search-field._estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_").val(ui.item.suggest.highlightPhrase.replace(/(<([^>]+)>)/ig,""));
+							  }
+							  event.preventDefault();
+						},
+						/*response: function(event, ui) {
+					        if (!ui.content.length) {
+					            var noResult = { value:"",label:"no_results_found" };
+					            ui.content.push(noResult);
+					        }
+					    }*/
+					});
+			</script>
+		</form>
+        
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-barebone portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="ecl-site-header__banner">
+    <div class="ecl-container">
+        <div class="ecl-site-header__site-name">Site name</div>
+    </div>
+</div>
+<nav class="ecl-menu ecl-menu--group1" data-ecl-menu="" data-ecl-auto-init="Menu" aria-expanded="false">
+    <div class="ecl-menu__overlay" data-ecl-menu-overlay></div>
+    <div class="ecl-container ecl-menu__container">
+        <a class="ecl-link ecl-link--standalone ecl-menu__open" href="/component-library/example" data-ecl-menu-open>
+            <svg class="ecl-icon ecl-icon--s" focusable="false" aria-hidden="true">
+                <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#hamburger"></use>
+            </svg>Menu</a>
+        <section class="ecl-menu__inner" data-ecl-menu-inner="">
+            <header class="ecl-menu__inner-header">
+                <button class="ecl-menu__close ecl-button ecl-button--text" type="submit" data-ecl-menu-close="">
+                    <span class="ecl-menu__close-container ecl-button__container">
+                        <svg class="ecl-icon ecl-icon--s ecl-button__icon ecl-button__icon--before" focusable="false"
+                            aria-hidden="true" data-ecl-icon="">
+                            <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#close-filled">
+                            </use>
+                        </svg>
+                        <span class="ecl-button__label" data-ecl-label="true">Close</span>
+                    </span>
+                </button>
+                <div class="ecl-menu__title">Menu</div>
+                <button data-ecl-menu-back type="submit" class="ecl-menu__back ecl-button ecl-button--text">
+                    <span class="ecl-button__container">
+                        <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-270 ecl-button__icon ecl-button__icon--before"
+                            focusable="false" aria-hidden="true" data-ecl-icon="">
+                            <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                            </use>
+                        </svg>
+                        <span class="ecl-button__label" data-ecl-label="">Back</span>
+                    </span>
+                </button>
+            </header>
+            <ul class="ecl-menu__list">
+                        <li class="ecl-menu__item menu-indent1">
+                            <a href="https://ec.europa.eu/eurostat/web/main/home" class="ecl-menu__link"
+                                data-ecl-menu-link="">Home</a>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--current ecl-menu__item--has-children menu-indent1 ecl-menu__item--col3"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/data" class="ecl-menu__link ecl-menu__link--current"
+                                data-ecl-menu-link="">
+                                Data
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col1
+                            indent--2 icol--1>
+                            <span class="column-title">Explore data</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem ecl-menu__subitem--current menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/database"
+                        class="ecl-menu__sublink ecl-menu__sublink--current">Database
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/statistical-themes"
+                        class="ecl-menu__sublink">Statistical themes
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/stats-finder-a-z"
+                        class="ecl-menu__sublink">Stats finder A-Z
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/experimental-statistics"
+                        class="ecl-menu__sublink">Experimental statistics
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--6>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/data-visualisations"
+                        class="ecl-menu__sublink">Data visualisations
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--7>
+                    <a href="https://ec.europa.eu/eurostat/web/education-corner/overview"
+                        class="ecl-menu__sublink">Education corner
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col2
+                            indent--2 icol--1>
+                            <span class="column-title">Advanced tools and services</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/web-services"
+                        class="ecl-menu__sublink">Web services / API
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/bulkdownload"
+                        class="ecl-menu__sublink">Bulk data download
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/gisco/overview"
+                        class="ecl-menu__sublink">Geographical information (GISCO)
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/microdata/overview"
+                        class="ecl-menu__sublink">Microdata
+                    </a>
+            </li>
+    </ul>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col2
+                                        iCol--6
+                                        start--6
+                                        end--7>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col2
+                                        iCol--7
+                                        start--6
+                                        end--7>
+                                    </li>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col3
+                            indent--2 icol--1>
+                            <span class="column-title">Quality and European statistics</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/quality/overview"
+                        class="ecl-menu__sublink">Quality: ESS standards, guidelines, monitoring
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/metadata"
+                        class="ecl-menu__sublink">Metadata
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/sdmx-infospace/welcome"
+                        class="ecl-menu__sublink">Data and metadata exchange (SDMX)
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/data-validation"
+                        class="ecl-menu__sublink">Data validation
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--6>
+                    <a href="https://ec.europa.eu/eurostat/cros/"
+                        class="ecl-menu__sublink">Research and methodology
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--7>
+                    <a href="https://ec.europa.eu/eurostat/web/main/data/link-to-evaluation"
+                        class="ecl-menu__sublink">Evaluation
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+    </ul>
+                            </div>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--has-children menu-indent1 ecl-menu__item--col0"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/news" class="ecl-menu__link"
+                                data-ecl-menu-link="">
+                                News
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--1>
+                    <a href="https://ec.europa.eu/eurostat/web/main/news/news-articles"
+                        class="ecl-menu__sublink">News articles
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/news/euro-indicators"
+                        class="ecl-menu__sublink">Euro indicators
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/news/podcasts"
+                        class="ecl-menu__sublink">Podcasts
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/news/events"
+                        class="ecl-menu__sublink">Events
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/news/release-calendar"
+                        class="ecl-menu__sublink">Release calendar
+                    </a>
+            </li>
+    </ul>
+                            </div>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--has-children menu-indent1 ecl-menu__item--col2"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/publications" class="ecl-menu__link"
+                                data-ecl-menu-link="">
+                                Publications
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col1
+                            indent--2 icol--1>
+                            <span class="column-title">Collections</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/flagship-publications"
+                        class="ecl-menu__sublink">Flagship
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/interactive-publications"
+                        class="ecl-menu__sublink">Interactive
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/key-figures"
+                        class="ecl-menu__sublink">Key figures
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/manuals-and-guidelines"
+                        class="ecl-menu__sublink">Manuals and guidelines
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--6>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/statistical-working-papers"
+                        class="ecl-menu__sublink">Statistical working papers
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--7>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/statistical-reports"
+                        class="ecl-menu__sublink">Statistical reports
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--8>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/leaflets"
+                        class="ecl-menu__sublink">Leaflets
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col2
+                            indent--2 icol--1>
+                            <span class="column-title"></span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Main_Page"
+                        class="ecl-menu__sublink ecl-link--icon-after">Statistics Explained
+                        <svg class="ecl-icon ecl-icon--2xs ecl-menu__sublink-icon ecl-link__icon"
+                            focusable="false" aria-hidden="true">
+                            <use
+                                xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#external">
+                            </use>
+                        </svg>
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/link-to-release-calendar"
+                        class="ecl-menu__sublink">Release calendar
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/style-guides"
+                        class="ecl-menu__sublink">Style guides
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/publications/publication-order"
+                        class="ecl-menu__sublink">Order of publications
+                    </a>
+            </li>
+    </ul>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col2
+                                        iCol--6
+                                        start--6
+                                        end--8>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col2
+                                        iCol--7
+                                        start--6
+                                        end--8>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col2
+                                        iCol--8
+                                        start--6
+                                        end--8>
+                                    </li>
+                    </ul>
+                </li>
+    </ul>
+                            </div>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--has-children menu-indent1 ecl-menu__item--full"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/about-us" class="ecl-menu__link"
+                                data-ecl-menu-link="">
+                                About us
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col1
+                            indent--2 icol--1>
+                            <span class="column-title">Our organisation</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/who-we-are"
+                        class="ecl-menu__sublink">Who we are
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/who-does-what"
+                        class="ecl-menu__sublink">Who does what
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/how-to-find-us"
+                        class="ecl-menu__sublink">How to find us
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col1 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/history"
+                        class="ecl-menu__sublink">History
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col2
+                            indent--2 icol--1>
+                            <span class="column-title">Our policies</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/policies/co-ordination-role"
+                        class="ecl-menu__sublink">Co-ordination role
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/policies/communication-dissemination"
+                        class="ecl-menu__sublink">Communication and dissemination
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/cros/"
+                        class="ecl-menu__sublink">Research and methodology
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/policies/link-to-quality"
+                        class="ecl-menu__sublink">Quality
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--6>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/policies/copyright"
+                        class="ecl-menu__sublink">Copyright notice
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col2 indent--3 icol--7>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/policies/evaluation"
+                        class="ecl-menu__sublink">Evaluation
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col3
+                            indent--2 icol--1>
+                            <span class="column-title">Our partners</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/european-statistical-system/overview"
+                        class="ecl-menu__sublink">European Statistical System
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col3 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/our-partners/cooperation"
+                        class="ecl-menu__sublink">International Cooperation
+                    </a>
+            </li>
+    </ul>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col3
+                                        iCol--4
+                                        start--4
+                                        end--7>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col3
+                                        iCol--5
+                                        start--4
+                                        end--7>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col3
+                                        iCol--6
+                                        start--4
+                                        end--7>
+                                    </li>
+                                    <li class="ecl-menu__subitem menu-indent2 menu-hidden"
+                                        data-ecl-menu-subitem-rvp
+                                         data-ecl-menu-subitem--col3
+                                        iCol--7
+                                        start--4
+                                        end--7>
+                                    </li>
+                    </ul>
+                </li>
+                <li class="menu-border">
+                    <ul class="submenu-list">
+                        <li class="ecl-menu__subitem menu-indent1" data-ecl-menu-subitem-rvp data-ecl-menu-subitem--col4
+                            indent--2 icol--1>
+                            <span class="column-title">Working with us</span>
+                        </li>
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col4 indent--3 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/job-opportunities"
+                        class="ecl-menu__sublink">Job opportunities
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col4 indent--3 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/calls-for-tenders/overview"
+                        class="ecl-menu__sublink">Calls for tenders
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col4 indent--3 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/grants"
+                        class="ecl-menu__sublink">Grants
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col4 indent--3 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/public-consultations"
+                        class="ecl-menu__sublink">Public consultations
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent2"
+                data-ecl-menu-subitem-rvp  data-ecl-menu-subitem--col4 indent--3 icol--6>
+                    <a href="https://ec.europa.eu/eurostat/web/main/about-us/link-to-events"
+                        class="ecl-menu__sublink">Events
+                    </a>
+            </li>
+    </ul>
+                    </ul>
+                </li>
+    </ul>
+                            </div>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--has-children menu-indent1 ecl-menu__item--col0"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/contact-us" class="ecl-menu__link"
+                                data-ecl-menu-link="">
+                                Contact us
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--1>
+                    <a href="https://ec.europa.eu/eurostat/web/main/contact-us/user-support"
+                        class="ecl-menu__sublink">User support
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/contact-us/press-services"
+                        class="ecl-menu__sublink">Press services
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/contact-us/institutional-support"
+                        class="ecl-menu__sublink">Institutional services
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/contact-us/visits"
+                        class="ecl-menu__sublink">Visit us
+                    </a>
+            </li>
+    </ul>
+                            </div>
+                        </li>
+                        <li class="ecl-menu__item ecl-menu__item--has-children menu-indent1 ecl-menu__item--col0"
+                            data-ecl-menu-item="" data-ecl-has-children="" aria-haspopup=""
+                            aria-expanded="false">
+
+                            <a href="https://ec.europa.eu/eurostat/web/main/help" class="ecl-menu__link"
+                                data-ecl-menu-link="">
+                                Help
+                            </a>
+                            <button class="ecl-button ecl-button--primary ecl-menu__button-caret"
+                                type="button" data-ecl-menu-caret=""
+                                aria-label="Access menu sub-items">
+                                <span class="ecl-button__container">
+                                    <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                                        focusable="false" aria-hidden="true" data-ecl-icon="">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                        </use>
+                                    </svg>
+                                </span>
+                            </button>
+                            <div class="ecl-menu__mega" data-ecl-menu-mega="">
+    <ul class="ecl-menu__sublist">
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--1>
+                    <a href="https://ec.europa.eu/eurostat/web/main/help/website-guide"
+                        class="ecl-menu__sublink">Website guide
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--2>
+                    <a href="https://ec.europa.eu/eurostat/web/main/help/products-and-tools"
+                        class="ecl-menu__sublink">Products and tools
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--3>
+                    <a href="https://ec.europa.eu/eurostat/web/main/help/services"
+                        class="ecl-menu__sublink">Services
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--4>
+                    <a href="https://ec.europa.eu/eurostat/web/main/help/faq"
+                        class="ecl-menu__sublink">Frequently asked questions
+                    </a>
+            </li>
+            <li class="ecl-menu__subitem menu-indent1"
+                data-ecl-menu-subitem-rvp  indent--2 icol--5>
+                    <a href="https://ec.europa.eu/eurostat/web/main/help/accessibility"
+                        class="ecl-menu__sublink">Accessibility
+                    </a>
+            </li>
+    </ul>
+                            </div>
+                        </li>
+            </ul>
+        </section>
+    </div>
+</nav>
+
+
+	
+	
+	
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</header>
+        <section id="content" class="ecl-container">
+
+            <div id="breadcrumb-container" class="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav aria-label="" id="breadcrumbs-defaultScreen">
+	
+
+		
+
+		
+    <script type="text/javascript">
+        //ECL hack
+        var breadcrumb = document.querySelectorAll('#breadcrumb-container nav')[0];
+        breadcrumb.setAttribute("class", "ecl-breadcrumb");
+        breadcrumb.setAttribute("aria-label", "You are here");
+        breadcrumb.setAttribute("data-ecl-breadcrumb", "true");
+        breadcrumb.setAttribute("data-ecl-auto-init", "Breadcrumb");
+    </script>
+    <ol class="ecl-breadcrumb__container">
+        <li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="static">
+            <a href="https://ec.europa.eu/eurostat/web/main/home"
+                class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link">Home</a>
+            <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-90 ecl-breadcrumb__icon" focusable="false"
+                aria-hidden="true" role="presentation">
+                <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                </use>
+            </svg>
+        </li>
+        <li class="ecl-breadcrumb__segment ecl-breadcrumb__segment--ellipsis" data-ecl-breadcrumb-ellipsis><button
+                class="ecl-button ecl-button--ghost ecl-breadcrumb__ellipsis" type="button"
+                data-ecl-breadcrumb-ellipsis-button aria-label="Click to expand">…</button><svg
+                class="ecl-icon ecl-icon--xs ecl-icon--rotate-90 ecl-breadcrumb__icon" focusable="false"
+                aria-hidden="true" role="presentation">
+                <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow"></use>
+            </svg></li>
+                    <li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="expandable" aria-hidden="false">
+                            <a href="https://ec.europa.eu/eurostat/web/main/data"
+                                class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link">Data</a>
+                        <svg class="ecl-icon ecl-icon--xs ecl-icon--rotate-90 ecl-breadcrumb__icon" focusable="false"
+                            aria-hidden="true" role="presentation">
+                            <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                            </use>
+                        </svg>
+                    </li>
+                    <li class="ecl-breadcrumb__segment ecl-breadcrumb__current-page"
+                        data-ecl-breadcrumb-item="static" aria-current="page">
+                        Database
+                    </li>
+    </ol>
+
+	
+</nav>            </div>
+            <h1 class="hide-accessible" role="heading" aria-level="1">Database</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-2" id="main-content" role="main">
+	<div class="portlet-layout row">
+		<div class="portlet-column portlet-column-first col-md-3" id="column-1">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_  portlet-static portlet-static-end portlet-decorate portlet-site-map " id="p_p_id_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl_">
+		<span id="p_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Data</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<ul class="child-pages">
+    			            <li class="expanded" data-menuitem="mi12464">
+    			                <a class="switch" href="#" aria-label="expand/collapse">
+    			                    <span style="display: none;">expand/collapse</span>
+    			                </a>
+	        <a class="current expanded"
+			href="https://ec.europa.eu/eurostat/web/main/data/database"
+		
+        >Database
+        </a>
+		<ul class="child-pages">
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/database/information"
+		
+        >Information
+        </a>
+                		</li>
+		</ul>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/statistical-themes"
+		
+        >Statistical themes
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/stats-finder-a-z"
+		
+        >Stats finder A-Z
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="http://ec.europa.eu/eurostat/web/experimental-statistics"
+		
+        >Experimental statistics
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/data-visualisations"
+		
+        >Data visualisations
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/education-corner/overview"
+		
+        >Education corner
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/bulkdownload"
+		
+        >Bulk download
+        </a>
+                		</li>
+    			            <li class="expandable" data-menuitem="mi6997241">
+    			                <a class="switch" href="#" aria-label="expand/collapse">
+    			                    <span style="display: none;">expand/collapse</span>
+    			                </a>
+	    	<a class="expandable"
+			href="https://ec.europa.eu/eurostat/web/main/data/web-services"
+		
+        >Web Services
+        </a>
+		<ul class="child-pages">
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/query-builder/about-this-service"
+		
+        >Query Builder
+        </a>
+                		</li>
+		</ul>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/gisco/overview"
+		
+        >GISCO:Geographical Information and maps
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/microdata/overview"
+		
+        >Microdata
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/quality/overview"
+		
+        >Quality
+        </a>
+                		</li>
+    			            <li class="expandable" data-menuitem="mi758773">
+    			                <a class="switch" href="#" aria-label="expand/collapse">
+    			                    <span style="display: none;">expand/collapse</span>
+    			                </a>
+	    	<a class="expandable"
+			href="https://ec.europa.eu/eurostat/web/main/data/metadata"
+		
+        >Metadata
+        </a>
+		<ul class="child-pages">
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/metadata/covid-19-support-for-statisticians"
+		
+        >COVID-19: support for statisticians
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/metadata/metadata-structure"
+		
+        >ESS Reference Metadata Reporting Standards
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/classifications"
+		
+        >Classifications
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/metadata/code-lists"
+		
+        >Code lists
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=LEX_MANUAL&StrLanguageCode=EN"
+		target="_blank"
+        >Legislation and methodology
+		    <i class="icon-external-link"></i>
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=CONCEPTS&StrLanguageCode=EN"
+		target="_blank"
+        >Concepts and definitions
+		    <i class="icon-external-link"></i>
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=NAT_METH&StrLanguageCode=EN&IntPcKey=&StrLayoutCode=HIERARCHIC"
+		target="_blank"
+        >National metadata
+		    <i class="icon-external-link"></i>
+        </a>
+                		</li>
+		</ul>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="http://ec.europa.eu/eurostat/web/sdmx-infospace/welcome"
+		
+        >SDMX InfoSpace
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/data-validation"
+		
+        >Data validation
+        </a>
+                		</li>
+    			            <li>
+	    	<a class=""
+			href="https://ec.europa.eu/eurostat/web/main/data/link-to-evaluation"
+		
+        >Evaluation
+        </a>
+                		</li>
+		</ul>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+		</div>
+
+		<div class="portlet-column col-md-9" id="column-2">
+			<div class="portlet-dropzone portlet-column-content" id="layout-column_column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">New data navigation tree</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="10109-14085786" data-fragments-editor-item-type="fragments-editor-mapped-item" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="14085784" data-analytics-asset-title="New data navigation tree" data-analytics-asset-type="web-content">
+			
+
+			<p><i class="estat-icon-new"></i>&nbsp; Explore <a href="https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en" target="_blank">Eurostat’s new data navigation tree</a> using the Data Browser <i class="estat-icon-data-browser"></i>.</p>
+		</div>
+
+		
+
+	
+
+
+
+
+							
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_NavTreeportletprod_WAR_NavTreeportletprod_  portlet-static portlet-static-end portlet-decorate  " id="p_p_id_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_">
+		<span id="p_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Database</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		<!-- NavTree Display Portlet start -->
+
+
+
+<script>
+  window.jQuery || document.write('<script language="Javascript" type="text/javascript" src="/eurostat/o/NavTree-portlet-prod/js/external/jquery/jquery.js"><\/script>')
+</script>
+<script language="Javascript" type="text/javascript" src="https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/js/jquery-ui.min.js"></script>
+<script language="Javascript" type="text/javascript" src="https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/js/ajax.js"></script>
+<link rel="stylesheet" href="https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/js/jquery-ui.min.css" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--[if IE 7]>
+  <link rel="stylesheet" href="https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/css/fonts/font-awesome-ie7.min.css">
+<![endif]-->
+<link REL="StyleSheet" href="https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/css/NavTree1.css" type="text/css" />
+<div class="class01">
+<!-- TODO: use resourceURL -->
+
+
+<form id='NavTree' name='NavTree' method='POST' action='https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view' class='form-search' data-senna-off='true'>
+<INPUT TYPE="hidden" name="p" value="d" /><INPUT TYPE="hidden" name="nextActionId" value="0" />
+<!-- NavTree header start -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+	label {
+		display: inline-block;
+		width: 5em;
+	}
+	.ui-widget-content { background: repeat-x scroll 50% top #FFFFFF; }
+	.ui-dialog .ui-dialog-content {	background: none repeat scroll 0 0 rgba(0, 0, 0, 0); border: 0 none; overflow: visible; padding: 0.5em 1em; position: relative; }    
+	ul.ui-autocomplete a:hover {color:white;}
+    ul.ui-autocomplete {width: 80%; }
+	ul.ui-autocomplete td { }
+	ul.ui-autocomplete table { width: 100%; }
+	ul.ui-autocomplete td.id { width: 20%; text-align:left; }
+	ul.ui-autocomplete td.nodeTitle { text-align:left;}
+	.occurrences { white-space: nowrap; width: 27%; text-align:right; font-style:italic; /* IE. 8. */ margin-top:0px\9; /* IE. 8. */ /* IE. 7. */ *margin-top:-20px; /* IE. 7. */ }
+	.searchTitle { color: blue; }
+	.resultLabel { font-style:italic; }
+	.paginationButton { color: #37A2D1; }
+	.centerText { text-align:center; }
+</style>
+
+<script type="text/javascript">
+	
+	 $(function() {
+		$( document ).tooltip();
+		});
+		
+	$(function() {
+			$("#dialog").dialog({
+				autoOpen: false,
+				modal: true,
+				width: 1024,
+				buttons: {
+					'Close the window': function() {
+						$(this).dialog("close");
+					}
+				}
+			});
+		    $(document).on("click",".dialogify",function(e){
+				e.preventDefault();
+				$("#dialog").html("");
+				$("#dialog").dialog("option", "title", "Loading...").dialog("open");
+				$("#dialog").load(this.href, function() {
+					$(this).dialog("option", "title", $(this).find("h5").text());
+					$(this).find("h5").remove();
+					$(this).dialog("option", "position", {my: "center",at: "center",of: window});
+				});
+			});
+		});
+		if (navigator.appName === 'Microsoft Internet Explorer')
+		{
+			$('a input.button').click(function()
+			{
+				window.location = $(this).closest('a').attr('href');
+			});
+		}
+</script>
+
+<div id="dialog"></div>
+<!-- To use enhanced functionalities, please login or register -->
+
+	<ul class="nav nav-pills" style="margin-bottom: 0px;">
+	<li>
+	
+	</li>
+</ul>
+
+<span style="float: right; color: red">
+	
+</span>
+
+
+
+<!-- Search field -->
+	
+
+<!-- NavTree header end -->
+
+
+	
+	
+
+
+	
+
+<script language='Javascript' type='text/javascript' src='https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/js/registerEvent.js'></script>
+<script language='Javascript' type='text/javascript' src='https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/NavTreeTranslationsServlet?language=en'></script>
+<script language='Javascript' type='text/javascript' src='https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/js/manageTree.js'></script>
+<script language='Javascript' type='text/javascript'>
+  serverApi_displayLoadingTree('tree_ad6419bb-ee1c-405e-adf2-bb8268029d30', 'https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_data-senna-off=true&_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_action=loadTree', 'Loading...', 'The navigation tree is loading...', '6700C8C06978B998A79A803F5C00C4FB', '/eurostat/o/NavTree-portlet-prod', '\/eurostat\/o\/NavTree-portlet-prod\/images', 'null', 'NavTree', 'https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ&p_p_lifecycle=0&p_p_state=pop_up&p_p_mode=view&_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_nodeInfoService=true') ;
+  sendAjaxRequest('https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_data-senna-off=true&_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_action=loadTree', processAjaxResponse_loadInitialJsonDef);
+</script>
+<div id='tree_ad6419bb-ee1c-405e-adf2-bb8268029d30' class='treeFont'>
+  <img src='https://ec.europa.eu/eurostat/o/NavTree-portlet-prod/images/loading.gif' alt='Loading...' title='Loading...' border='0' />The navigation tree is loading...
+</div>
+
+
+<noscript>
+  <p class="treeFont" style="color: red; margin: 25px;">
+  The javascript feature of your browser needs to be enabled in order to access to the full feature enabled navigation tree.<br/>
+  But a non javascript version of the tree exists, even if the proposed features are reduced. You can access the non javascript navigation tree by clicking
+  
+	
+  
+  <a class='inline-link' href="https://ec.europa.eu/eurostat/web/main/data/database?p_p_id=NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_p=h&amp;p_auth=QiRH2xOZ">here</a>.<br/>
+  </p>
+</noscript>
+</form>
+<script language='Javascript' type='text/javascript'>
+var NavTreeHasChanged=false;
+function NavTreeOnFieldChange() {
+    NavTreeHasChanged=true;
+ }
+function doPageReload() {
+    document.forms['NavTree'].submit();
+ }
+</script>
+
+</div>
+<!-- NavTree Display Portlet end -->
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+</div>
+		</div>
+	</div>
+</div>
+
+<form action="#" class="hide" id="hrefFm" method="post" name="hrefFm" aria-hidden="true"><span></span><button hidden type="submit"/>Hidden</button></form>        </section>
+
+<aside class="estat-feedback-form">
+    <div class="ecl-container">
+        <!-- alerts -->
+        <div id="ff-alerts" hidden>
+            <div class="ecl-message ecl-message--success" data-ecl-message role="alert" data-ecl-auto-init="Message">
+                <svg class="ecl-icon ecl-icon--m ecl-message__icon" focusable="false" aria-hidden="true">
+                    <use
+                        xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#success">
+                    </use>
+                </svg>
+                <div class="ecl-message__content">
+                    <button id="ff-close" class="ecl-button ecl-button--ghost ecl-message__close" type="button"
+                        data-ecl-message-close>
+                        <span class="ecl-button__container">
+                            <span class="ecl-button__label" data-ecl-label="true">
+Close                            </span>
+                            <svg class="ecl-icon ecl-icon--s ecl-button__icon ecl-button__icon--after" focusable="false"
+                                aria-hidden="true" data-ecl-icon>
+                                <use
+                                    xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#close-filled">
+                                </use>
+                            </svg>
+                        </span>
+                    </button>
+                    <div class="ecl-message__title">
+Your feedback was sent                    </div>
+                    <div class="ecl-message__description ff-useful-yes" hidden>
+Thank you for your feedback.                    </div>
+                    <div class="ecl-message__description ff-useful-no" hidden>
+We are sorry to hear that.                         <a href="#estat-feedback-form" id="ff-report-issue" class="ecl-link"
+                            aria-label="You can report the issue here.">
+You can report the issue here.                        </a>
+                    </div>
+                    <div class="ecl-message__description ff-useful-form" hidden>
+Thank you for the information. We will investigate the issue.                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- feedback form header -->
+        <section id="feedback-form-wrapper" class="ecl-row">
+            <div class="ff-useful ecl-col-12 ecl-col-m-6">
+                <p class="ecl-u-type-paragraph-m ecl-u-d-inline-block ecl-u-ma-xs">
+Was this page useful?                </p>
+                <span>
+                    <button id="ff-useful-yes" class="ecl-button ecl-button--secondary ecl-u-mh-2xs" type="button">
+Yes                        <span aria-hidden="true" class="hide">✓</span>
+                    </button>
+                    <button id="ff-useful-no" class="ecl-button ecl-button--secondary ecl-u-mh-2xs" type="button">
+No                        <span aria-hidden="true" class="hide">✓</span>
+                    </button>
+                </span>
+            </div>
+            <div class="ecl-col-12 ecl-col-m-6 ecl-expandable ecl-u-type-align-right" data-ecl-expandable="true"
+                data-ecl-auto-init="Expandable">
+                <button id="ff-expandable" class="ecl-button ecl-button--secondary ecl-expandable__toggle" type="button"
+                    aria-controls="estat-feedback-form-body" data-ecl-expandable-toggle
+                    data-ecl-label-expanded="Is there an issue with this page?"
+                    data-ecl-label-collapsed="Is there an issue with this page?" aria-expanded="false">
+                    <span class="ecl-button__container">
+                        <span class="ecl-button__label" data-ecl-label="true">
+Is there an issue with this page?                        </span>
+                        <svg class="ecl-icon ecl-icon--fluid ecl-icon--rotate-180 ecl-button__icon ecl-button__icon--after"
+                            focusable="false" aria-hidden="true" data-ecl-icon>
+                            <use
+                                xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                            </use>
+                        </svg>
+                    </span>
+                </button>
+                <!-- feedback form body -->
+                <div id="estat-feedback-form-body" class="ecl-expandable__content ecl-u-pa-m ecl-u-type-align-left"
+                    hidden>
+                    <p class="ecl-u-type-paragraph-m">All fields are required.</p>
+                    <div class="ecl-form-group">
+                        <input type="hidden" name="useful" value="no" autocomplete="off" />
+                        <input type="hidden" name="token" value="jJpAYdmzhj6og1pB/ZyHDMbLemFHBf0y7C+bxAhJrVObVzI009QqMUkMnyWZZXz5wMbGyHG/Od8JhD7jJX19UnFS1lQiFqT3S/hr" />
+                        <input type="hidden" name="language" value="en_GB">
+
+                        <label aria-hidden="true" hidden>
+                            <input aria-hidden="true" type="radio" name="ff-radio" value="spam">Click this radio
+                            box.</label>
+
+                        <!-- issue type (select) -->
+                        <label for="ff-issue-type" class="ecl-form-label">
+What type of issue would you like to report?                        </label>
+                        <div class="ecl-select__container ecl-select__container--l">
+                            <select class="ecl-select" id="ff-issue-type" required>
+                                <option value="" selected="selected">
+Select type                                </option>
+                                <option value="technical-problem">
+There is a technical problem with this page                                </option>
+                                <option value="no-information">
+I cannot find the information I am looking for                                </option>
+                                <option value="other">
+Other                                </option>
+                            </select>
+                            <div class="ecl-select__icon">
+                                <svg class="ecl-icon ecl-icon--s ecl-icon--rotate-180 ecl-select__icon-shape"
+                                    focusable="false" aria-hidden="true">
+                                    <use
+                                        xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#corner-arrow">
+                                    </use>
+                                </svg>
+                            </div>
+                        </div>
+
+                        <label aria-hidden="true" for="ff-name" class="ecl-form-label ecl-u-sr-only">Enter your
+                            name</label>
+                        <input aria-hidden="true" name="ff-name" class="ecl-text-input ecl-text-input--m ecl-u-sr-only"
+                            type="text" placeholder="Enter your name" tabindex="-1" />
+
+                        <!-- issue description (textarea) -->
+                        <label class="ecl-form-label" for="ff-issue-desc">
+Please describe the issue                        </label>
+                        <div class="ecl-help-block">
+Please do not include any personal information                        </div>
+                        <textarea id="ff-issue-desc" class="ecl-text-area ecl-text-area--l" rows="4"
+                            placeholder="Please do not include any personal information" maxlength="300"
+                            required></textarea>
+                        <div class="ecl-u-type-paragraph-s" aria-live="polite">
+                            <span id="ff-issue-desc-counter">300</span>
+/300 characters remaining                        </div>
+
+                        <div aria-hidden="true" class="ecl-checkbox ecl-u-sr-only">
+                            <input name="ff-terms" class="ecl-checkbox__input" type="checkbox" id="ff-terms"
+                                tabindex="-1" />
+                            <label for="ff-terms" class="ecl-checkbox__label">
+                                <span class="ecl-checkbox__box">
+                                    <svg class="ecl-icon ecl-icon--m ecl-checkbox__icon" focusable="false"
+                                        aria-hidden="true">
+                                        <use
+                                            xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/icons.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#check">
+                                        </use>
+                                    </svg>
+                                </span>
+                                <span class="ecl-checkbox__text">I accept the terms &amp; conditions.</span>
+                            </label>
+                        </div>
+
+                        <!-- submit -->
+                        <button id="ff-submit" class="ecl-button ecl-button--primary ecl-u-mv-m" type="submit"
+                            aria-disabled="true">
+Submit                        </button>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</aside>
+<footer class="ecl-site-footer">
+    <div class="ecl-container ecl-site-footer__container">
+        <div class="ecl-site-footer__row">
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section">
+                    <div class="ecl-site-footer__title">
+                        <a href="https://ec.europa.eu/eurostat/web/main/home" class="ecl-link ecl-link--standalone ecl-site-footer__title-link">
+                            <img src="https://ec.europa.eu/eurostat/o/estat-theme/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"
+                                class="ecl-site-footer__logo-image-mobile" alt="Home (Eurostat)" />
+                            <img src="https://ec.europa.eu/eurostat/o/estat-theme/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000"
+                                class="ecl-site-footer__logo-image-desktop" alt="Home (Eurostat)" />
+                        </a>
+                    </div>
+                    <div class="ecl-site-footer__description">
+This site is managed by <a href='https://ec.europa.eu/eurostat/web/main/home' class='ecl-link'>Eurostat</a> and is an official website of the European Union                    </div>
+                </div>
+            </div>
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+Need help?                    </h2>
+                    <ul class="ecl-site-footer__list">
+                        <li class="ecl-site-footer__list-item"><a href="https://ec.europa.eu/eurostat/web/main/sitemap"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Sitemap                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://ec.europa.eu/eurostat/web/main/contact-us"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Contact us                            </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+Follow us                    </h2>
+                    <ul class="ecl-site-footer__list follow-us">
+                        <li class="ecl-site-footer__list-item"><a aria-label="Twitter"
+                                href="https://twitter.com/EU_Eurostat"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/brands.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#square-twitter"></use>
+                                </svg>
+                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a aria-label="Facebook"
+                                href="https://www.facebook.com/EurostatStatistics/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/brands.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#square-facebook"></use>
+                                </svg>
+                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a aria-label="Instagram"
+                                href="https://www.instagram.com/eu_eurostat/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/brands.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#square-instagram"></use>
+                                </svg>
+                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a aria-label="LinkedIn"
+                                href="https://www.linkedin.com/company/eurostat/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/brands.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#linkedin"></use>
+                                </svg>
+                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a aria-label="Youtube"
+                                href="https://youtube.com/c/Eurostat-EC"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/brands.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#square-youtube"></use>
+                                </svg>
+                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a aria-label="RSS"
+                                href="https://ec.europa.eu/eurostat/web/rss/about-rss"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link ecl-link--no-visited">
+                                <svg role="img" class="ecl-icon ecl-icon--xl" focusable="false" aria-hidden="true">
+                                    <use xlink:href="https://ec.europa.eu/eurostat/o/estat-theme/images/icons/sprites/solid.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000#square-rss"></use>
+                                </svg>
+                            </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="ecl-site-footer__row">
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section"><a href="https://european-union.europa.eu/index_en"
+                        class="ecl-link ecl-link--standalone ecl-site-footer__logo-link"><img alt="European Union logo"
+                            title="European Union" class="ecl-site-footer__logo-image-mobile"
+                            src="https://ec.europa.eu/eurostat/o/estat-theme/images/logo/standard-version/positive/logo-eu--en.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000" /><img
+                            alt="European Union logo" title="European Union" class="ecl-site-footer__logo-image-desktop"
+                            src="https://ec.europa.eu/eurostat/o/estat-theme/images/logo/standard-version/positive/logo-eu--en.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000" /></a>
+                    <div class="ecl-site-footer__description">
+Discover more on <a
+                            href='https://european-union.europa.eu/index_en' class='ecl-link'> europa.eu </a>                    </div>
+                </div>
+            </div>
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+Contact the EU                    </h2>
+                    <ul class="ecl-site-footer__list">
+                        <li class="ecl-site-footer__list-item">
+                            <a href="tel:0080067891011" class="ecl-link ecl-link--standalone ecl-site-footer__link">
+                                Call us 00 800 6 7 8 9 10 11
+                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item">
+<a
+                                href='https://european-union.europa.eu/contact-eu/call-us_en'
+                                class='ecl-link ecl-link--standalone ecl-site-footer__link'> Use other telephone options </a>                        </li>
+                        <li class="ecl-site-footer__list-item">
+<a
+                                href='https://european-union.europa.eu/contact-eu/write-us_en'
+                                class='ecl-link ecl-link--standalone ecl-site-footer__link'> Write us via our contact form </a>                        </li>
+                        <li class="ecl-site-footer__list-item">
+<a
+                                href='https://european-union.europa.eu/contact-eu/meet-us_en'
+                                class='ecl-link ecl-link--standalone ecl-site-footer__link'> Meet us at one of the EU centres </a>                        </li>
+                    </ul>
+                </div>
+                <div class="ecl-site-footer__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+Social media                    </h2>
+                    <ul class="ecl-site-footer__list">
+                        <li class="ecl-site-footer__list-item">
+<a
+                                href='https://european-union.europa.eu/contact-eu/social-media-channels_en'
+                                class='ecl-link ecl-link--standalone ecl-site-footer__link'> Search for EU social media channels </a>                    </ul>
+                </div>
+                <div class="ecl-site-footer__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+Legal                    </h2>
+                    <ul class="ecl-site-footer__list">
+                        <li class="ecl-site-footer__list-item">
+                            <a href="https://european-union.europa.eu/languages-our-websites_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Languages on our websites                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://european-union.europa.eu/privacy-policy_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Privacy policy                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://european-union.europa.eu/privacy-policy_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Legal notice                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://european-union.europa.eu/cookies_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Cookies                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://european-union.europa.eu/web-accessibility-policy_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Accessibility                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ecl-site-footer__column">
+                <div class="ecl-site-footer__section ecl-footer-standardised__section">
+                    <h2 class="ecl-site-footer__title ecl-site-footer__title--separator">
+EU institutions                    </h2>
+                    <ul class="ecl-site-footer__list">
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://www.europarl.europa.eu/portal/en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Parliament                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="http://www.consilium.europa.eu/en/european-council/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Council                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="http://www.consilium.europa.eu/en/home/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Council of the European Union                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://ec.europa.eu/commission/index_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Commission                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="http://curia.europa.eu/jcms/jcms/j_6/en/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Court of Justice of the European Union (CJEU)                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://www.ecb.europa.eu/home/html/index.en.html"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Central Bank (ECB)                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a href="http://www.eca.europa.eu/en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Court of Auditors (ECA)                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://eeas.europa.eu/headquarters/headquarters-homepage_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European External Action Service (EEAS)                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="http://www.eesc.europa.eu/?i=portal.en.home"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Economic and Social Committee (EESC)                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a href="http://cor.europa.eu/en/"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Committee of the Regions (CoR)                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a href="https://www.eib.org/en/index.htm"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Investment Bank (EIB)                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://www.ombudsman.europa.eu/en/home"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Ombudsman                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://secure.edps.europa.eu/EDPSWEB/edps/EDPS?lang=en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Data Protection Supervisor (EDPS)                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a href="https://edpb.europa.eu/edpb_en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+The European Data Protection Board                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a href="https://epso.europa.eu/en"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+European Personnel Selection Office                            </a>
+                        </li>
+                        <li class="ecl-site-footer__list-item"><a href="https://op.europa.eu/en/home"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Publications Office of the European Union                            </a></li>
+                        <li class="ecl-site-footer__list-item"><a
+                                href="https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles_en?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC&amp;f%5B1%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC&amp;f%5B2%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/EU_JU"
+                                class="ecl-link ecl-link--standalone ecl-site-footer__link">
+Agencies                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+</footer>    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		
+
+			
+
+			
+		
+	
+
+	Liferay.BrowserSelectors.run();
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2feurostat\x2fweb\x2fmain\x2fdata\x2fdatabase';
+		Liferay.currentURLEncoded = '\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				
+
+				
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function() {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function(event) {
+		if (window.Analytics) {
+			Analytics.send('posted', 'Comment', {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text
+			});
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+?)\/([^&]+)/;
+
+	function handleDownloadClick(event) {
+		if (event.target.nodeName.toLowerCase() === 'a' && window.Analytics) {
+			var anchor = event.target;
+			var match = pathnameRegexp.exec(anchor.pathname);
+
+			var fileEntryId =
+				anchor.dataset.analyticsFileEntryId ||
+				(anchor.parentElement &&
+					anchor.parentElement.dataset.analyticsFileEntryId);
+
+			if (fileEntryId && match) {
+				var getParameterValue = function(parameterName) {
+					var result = null;
+
+					anchor.search
+						.substr(1)
+						.split('&')
+						.forEach(function(item) {
+							var tmp = item.split('=');
+
+							if (tmp[0] === parameterName) {
+								result = decodeURIComponent(tmp[1]);
+							}
+						});
+
+					return result;
+				};
+
+				Analytics.send('documentDownloaded', 'Document', {
+					groupId: match[1],
+					fileEntryId: fileEntryId,
+					preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+					title: decodeURIComponent(match[3].replace(/\+/gi, ' ')),
+					version: getParameterValue('version')
+				});
+			}
+		}
+	}
+
+	var onDestroyPortlet = function() {
+		document.body.removeEventListener('click', handleDownloadClick);
+	};
+
+	Liferay.once('destroyPortlet', onDestroyPortlet);
+
+	var onPortletReady = function() {
+		document.body.addEventListener('click', handleDownloadClick);
+	};
+
+	Liferay.once('portletReady', onPortletReady);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function(event) {
+		if (window.Analytics) {
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score
+			});
+		}
+	};
+
+	var onDestroyPortlet = function() {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function(data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url
+			});
+		}
+	};
+
+	var onDestroyPortlet = function() {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	function showDialog(uri, title, namespace, refreshOnClose) {
+		Liferay.Util.openWindow({
+			dialog: {
+				centered: true,
+				constrain: true,
+				cssClass: 'sharing-dialog',
+				destroyOnHide: true,
+				modal: true,
+				height: 540,
+				width: 600,
+				on: {
+					visibleChange: function(event) {
+						if (refreshOnClose && !event.newVal) {
+							Liferay.Portlet.refresh('#p_p_id' + namespace);
+						}
+					}
+				}
+			},
+			id: 'sharingDialog',
+			title: Liferay.Util.escapeHTML(title),
+			uri: uri
+		});
+	}
+
+	var Sharing = {};
+
+	Liferay.provide(
+		Sharing,
+		'share',
+		function(classNameId, classPK, title, namespace, refreshOnClose) {
+			var sharingParameters = {
+				classNameId: classNameId,
+				classPK: classPK
+			};
+
+			var sharingURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://ec.europa.eu/eurostat/group/main/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_SharingPortlet&p_p_lifecycle=0&p_p_state=pop_up&_com_liferay_sharing_web_portlet_SharingPortlet_mvcRenderCommandName=%2Fsharing%2Fshare&p_p_auth=sqxnDv4e',
+				sharingParameters
+			);
+
+			showDialog(sharingURL.toString(), title, namespace, refreshOnClose);
+		},
+		['liferay-util-window']
+	);
+
+	Liferay.provide(
+		Sharing,
+		'manageCollaborators',
+		function(classNameId, classPK, namespace, refreshOnClose) {
+			var manageCollaboratorsParameters = {
+				classNameId: classNameId,
+				classPK: classPK
+			};
+
+			var manageCollaboratorsURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://ec.europa.eu/eurostat/group/main/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_ManageCollaboratorsPortlet&p_p_lifecycle=0&p_p_state=pop_up&_com_liferay_sharing_web_portlet_ManageCollaboratorsPortlet_mvcRenderCommandName=%2Fsharing%2Fmanage_collaborators&p_p_auth=ZdupZRXL',
+				manageCollaboratorsParameters
+			);
+
+			showDialog(
+				manageCollaboratorsURL.toString(),
+				'Manage Collaborators',
+				namespace,
+				refreshOnClose
+			);
+		},
+		['liferay-util-window']
+	);
+
+	Liferay.Sharing = Sharing;
+})();
+	if (Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				attributeName: 'data-href',
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl_',
+			portletId: 'com_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3dcom_liferay_site_navigation_site_map_web_portlet_SiteNavigationSiteMapPortlet_INSTANCE_Ky13bqSfZSwl\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 1,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_2kx1mRYMO1ya\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 2,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ_',
+			portletId: 'NavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3dNavTreeportletprod_WAR_NavTreeportletprod_INSTANCE_nPqeVbPXRmWQ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_4sc8QiQ36jlz\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_ecl_navigation_menu_instance\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J_',
+			portletId: 'estatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J',
+			refreshURL: '\x2feurostat\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d12464\x26p_p_id\x3destatsearchportlet_WAR_estatsearchportlet_INSTANCE_bHVzuvn1SZ8J\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Feurostat\x252Fweb\x252Fmain\x252Fdata\x252Fdatabase',
+			refreshURLData: {}
+		}
+	);
+Liferay.Loader.require('metal-dom/src/all/dom', function(metalDomSrcAllDom) {
+(function(){
+var dom = metalDomSrcAllDom;
+(function() {var $ = AUI.$;var _ = AUI._;
+	var focusInPortletHandler = dom.delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			dom.addClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+
+	var focusOutPortletHandler = dom.delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			dom.removeClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+})();})();
+});AUI().use('liferay-menu', 'liferay-notice', 'aui-base', 'liferay-form', 'liferay-session', 'liferay-poller', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	Liferay.Form.register(
+		{
+			id: 'fm'
+
+			
+				, fieldRules: [
+
+					
+
+				]
+			
+
+			
+
+			, validateOnBlur: true
+		}
+	);
+
+	var onDestroyPortlet = function(event) {
+		if (event.portletId === '') {
+			delete Liferay.Form._INSTANCES['fm'];
+		}
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	
+
+	Liferay.fire(
+		'formReady',
+		{
+			formName: 'fm'
+		}
+	);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fec\x2eeuropa\x2eeu\x2feurostat\x2fweb\x2fmain\x2fhome',
+					sessionLength: 900,
+					sessionTimeoutOffset: 70,
+					warningLength: 0
+				}
+			);
+
+			
+		})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://ec.europa.eu/eurostat/o/estat-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1672757296000" type="text/javascript"></script>
+
+<!-- Piwik: force Piwik to consider links to document library as downloads and add results count in case of search -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var links = document.getElementsByTagName("a"); 
+	for (var i = 0; i < links.length; i++) { 
+    	var href = links[i].getAttribute("href");
+    	if (href != null && href.includes("/eurostat/documents/")) {
+			//ec.europa.eu/eurostat/documents/3217494/13389103/KS-HA-21-001-EN-N.pdf/1358b0d3-a9fe-2869-53a0-37b59b413ddd?t=1631630029904
+			//ec.europa.eu/eurostat/documents/3217494/13389103/KS-HA-21-001-EN-N.pdf/1358b0d3-a9fe-2869-53a0-37b59b413ddd
+			//remove all parameters from URL if any
+			href = href.toLowerCase().split('?')[0];
+			//remove UUID from URL if any
+			href = href.replace(/\/\b[a-f\d]{8}\b-[a-f\d]{4}\b-[a-f\d]{4}\b-[a-f\d]{4}\b-[a-f\d]{12}\b/,'');
+			links[i].setAttribute("onClick", "if(typeof _paq !== 'undefined') { _paq.push(['trackLink', '"+href+"', 'download']); }");
+		}
+	}
+	
+	if (document.querySelectorAll) {
+		var applicationJsonScripts = document.querySelectorAll("script[type='application/json']");
+		for (var i = 0; i < applicationJsonScripts.length; i++) {
+			var json = {};
+			try {
+				json = JSON.parse(applicationJsonScripts[i].innerHTML);
+			} catch (e) {
+			}
+			if (json["search"]) {
+				var search = json["search"];
+				//var countText = document.querySelector("#search-results-container > div.result-top > ul > li > a > h2");
+				var countText = document.getElementById('result-count');
+				if (countText) {
+					//var count = parseInt(countText.textContent);
+					var count = countText.textContent.trim().replace(' results', '');
+					if (count) {
+						search["count"] = parseInt(count);
+					}
+				} else {
+					//var noResultsText = document.querySelector("#search-results-container > div > h2");
+					//if (noResultsText) {
+					search["count"] = 0;
+					//}
+				}
+				if (search["count"] != null) {
+					applicationJsonScripts[i].innerHTML = JSON.stringify(json);
+				}
+			}
+		}
+	}
+</script>
+<!-- End Piwik Code -->
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-tooltip-support-web@2.0.5/index', function(frontendJsTooltipSupportWeb205Index) {
+(function(){
+var TooltipSupport = frontendJsTooltipSupportWeb205Index;
+(function() {
+try {
+TooltipSupport.default()
+}
+catch (err) {
+console.error(err);
+}
+})();})();
+});
+// ]]>
+</script>
+    <!-- inject:js -->
+    <!-- endinject -->
+
+</body>
+
+</html>
+		
+	
+
