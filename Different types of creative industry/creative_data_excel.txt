@@ -1,0 +1,3509 @@
+FID,Location,Type,Name_of_Co,Multinatio
+0, ,Fashion Design,Dior,Y
+1, ,Fashion Design,Dior,Y
+2, ,Fashion Design,DIor,Y
+3, ,Fashion Design,Dior,Y
+4, ,Fashion Design,H&M,Y
+5, ,Craft,Rocca 1794,Y
+6, ,Fashion Design,Chanel,Y
+7, ,Fashion Design,Asnaghi Giacinto Snc,Y
+8, ,Fashion Design,Ader,"Y
+Y"
+9, ,Fashion Design,Patagonia,Y
+10, ,Art,Museum,N
+11, ,Art,Gallary,N
+12, ,Art,Museum,N
+13, ,Craft,Antonio Patriarca,Y
+14, ,Art,Gallary,N
+15, ,Art,Gallary,N
+16, ,Craft,Moroni Gomma,N
+17, ,Film,Cinema,N
+18, ,Art,Gallary,N
+19, ,Art,Gallary,N
+20, ,Fashion Design,Outlet Matia's,Y
+21, ,Art,Gallary,N
+22, ,Fashion Design,SEEDS Le Nouveau Né Milano,Y
+23, ,Fashion Design,Babi Butti Srl,N
+24, ,Fashion Design,Gas Bijoux,Y
+25, ,Craft,Faliero Sarti,N
+26, ,Art,Gallary,N
+27, ,Fashion Design,Amina Rubinacci S.R.L.,N
+28, ,Fashion Design,Libero Milano,N
+29, ,Art,Showroom,N
+30, ,Fashion Design,Mes Demoiselles... Paris,Y
+31, ,Craft,Glasses,N
+32, ,Fashion Design,L'OCCITANE EN PROVENCE,Y
+33, ,Fashion Design,Cloth,N
+34, ,Art,Showroom,N
+35, ,FD,Cloth,N
+36, ,FD,Cloth,N
+37, ,FD,Cloth,N
+38, ,FD,Cloth,N
+39, ,FD,Cloth,N
+40, ,Art,Gallary,N
+41, ,Art,Gallary,N
+42, ,FD,Reart,N
+43, ,IT,Vodafone,Y
+44, ,Art,Theator,N
+45, ,Art,Theator,N
+46, ,Craft,Città Del Sole,Y
+47, ,FD,Cloth,N
+48, ,FD,Cloth,N
+49, ,Craft,Giolina and Angelo,N
+50, ,Craft,Jewel,N
+51, ,FD,Memphis – Galleria Post Design,N
+52, ,FD,Showroom,N
+53, ,Art,Museum,N
+54, ,FD,Cloth,N
+55, ,FD,Lanieri,Y
+56, ,FD,Cloth,N
+57, ,FD,Cloth,N
+58, ,Craft,Thun Coffee,Y
+59, ,Art,Gallary,N
+60, ,Art,Gallary,N
+61, ,Art,Gallary,N
+62, ,FD,Vivienne Westwood,Y
+63, ,FD,Cloth,N
+64, ,FD,Belsire,Y
+65, ,Craft,THUN Shop Milano MiTHUN,Y
+66, ,FD,Outlet Matia's,Y
+67, ,Arch,Cults Milano Srl,N
+68, ,IT,Negozio WindTre,Y
+69, ,FD,BallereTTe,N
+70, ,FD,Cloth,N
+71, ,FD,Cloth,N
+72, ,FD,Cloth,N
+73, ,IT,Game,N
+74, ,FD,Cloth,N
+75, ,FD,Salewa Store Milano,Y
+76, ,Craft,Perfume,N
+77, ,FD,Cloth,N
+78, ,Art,Gallary,N
+79, ,IT,Vodafone,Y
+80, ,FD,Nike,Y
+81, ,Art,Gallary,N
+82, ,FD,CLoth,N
+83, ,FD,Cloth,N
+84, ,FD,Cloth,N
+85, ,FD,Decathlon Store,Y
+86, ,FD,Cloth,N
+87, ,IT,Watch,N
+88, ,FD,Flying Tiger Copenhagen,Y
+89, ,FD,Cloth,N
+90, ,Art,Museum,N
+91, ,FD,Cloth,N
+92, ,FD,Cloth,"N
+N"
+93, ,FD,Cloth,N
+94, ,Craft,Jewel,N
+95, ,Art,Gallary,N
+96, ,Craft,Jewel,N
+97, ,IT,Negozio WindTre,Y
+98, ,Art,Gallary,N
+99, ,Art,Gallary,N
+100, ,Film,Film,N
+101, ,IT,Mobile,N
+102, ,Craft,Torriani La Bottega Del Carnevale,N
+103, ,FD,Carla G. Milano,Y
+104, ,FD,Carl Hansen & S?n Flagship Store,N
+105, ,FD,Rizieri,N
+106, ,Craft,Fabriano Boutique,Y
+107, ,FD,Cloth,N
+108, ,Craft,Craft,N
+109, ,FD,Cloth,N
+110, ,Art,Gallary,N
+111, ,FD,Golden Goose Milano Cusani,Y
+112, ,FD,Cloth,N
+113, ,FD,Vintage Delirium,N
+114, ,FD,Cloth,N
+115, ,FD,Cloth,N
+116, ,FD,Cloth,N
+117, ,FD,Cloth,N
+118, ,Craft,Jewel,N
+119, ,Craft,Perfume,N
+120, ,Art,Gallary,N
+121, ,Craft,Mac,Y
+122, ,Craft,Perfume,N
+123, ,FD,Cloth,N
+124, ,Craft,Jewel,N
+125, ,FD,Perfume,Y
+126, ,FD,Cloth,N
+127, ,IT,Computer,N
+128, ,Craft,Jewel,N
+129, ,FD,Cloth,N
+130, ,FD,Cloth,N
+131, ,Art,Museum,N
+132, ,FD,Acne Studios Piazza del Carmine,Y
+133, ,FD,ASH,Y
+134, ,FD,COS,Y
+135, ,Craft,Mandarina Duck,Y
+136, ,FD,Boutique Pietro Brunelli,Y
+137, ,FD,Manebí,Y
+138, ,Craft,Jewel,N
+139, ,FD,Cloth,N
+140, ,FD,Aesop Brera,N
+141, ,Art,Gallary,N
+142, ,FD,Cloth,N
+143, ,FD,Sagester Srl,Y
+144, ,Art,Gallary,N
+145, ,Craft,Jewel,N
+146, ,FD,Musto Milano Srl,Y
+147, ,Craft,Watch,Y
+148, ,Craft,L'Erbolario,Y
+149, ,FD,Cloth,N
+150, ,Craft,L'Erbolario,Y
+151, ,Art,Gallary,N
+152, ,Art,Museum,N
+153, ,Art,Gallary,N
+154, ,FD,Cloth,N
+155, ,Craft,Miasuki,Y
+156, ,Craft,TAOCI,N
+157, ,FD,Cloth,N
+158, ,FD,Cloth,N
+159, ,Art,Gallary,N
+160, ,FD,Perfume,N
+161, ,Craft,Toy,N
+162, ,FD,Rick Owens,Y
+163, ,FD,Cloth,N
+164, ,Craft,Jewel,N
+165, ,Art,Gallary,N
+166, ,FD,Cloth,N
+167, ,Art,Gallary,N
+168, ,Art,Gallary,N
+169, ,FD,Cloth,N
+170, ,FD,Hermès Showroom Maison,Y
+171, ,FD,Elisabetta Franchi,Y
+172, ,FD,Save my bag,Y
+173, ,FD,ottod'Ame Milano,N
+174, ,FD,7 for All Mankind Milan,N
+175, ,Art,Gallary,N
+176, ,FD,Dirk Bikkembergs,Y
+177, ,Art,Gallary,N
+178, ,FD,Drexcode - Headquarter - Noleggio Moda Online,Y
+179, ,FD,Moschino,Y
+180, ,FD,Prada Milano Spiga,Y
+181, ,FD,Cloth,N
+182, ,FD,Cloth,N
+183, ,FD,Cloth,N
+184, ,Art,Gallary,N
+185, ,FD,Porsche Design Italia,Y
+186, ,FD,Cloth,N
+187, ,FD,Cloth,N
+188, ,FD,Cloth,N
+189, ,Craft,Craft,N
+190, ,FD,Cloth,N
+191, ,FD,Cloth,N
+192, ,Craft,Craft,N
+193, ,Art,Gallary,N
+194, ,FD,Dolce & Gabbana,Y
+195, ,FD,LONGCHAMP,Y
+196, ,FD,Cloth,N
+197, ,FD,Michael Kors Milan Spiga,Y
+198, ,FD,Cloth,N
+199, ,FD,Dsquared2 Flagship Store,Y
+200, ,FD,JILSANDER,Y
+201, ,Craft,Jewel,N
+202, ,Craft,Jewel,N
+203, ,FD,Giambattista Valli Paris,Y
+204, ,FD,Chanel,Y
+205, ,FD,Paciotti,Y
+206, ,FD,Stuart Weitzman,Y
+207, ,FD,Doriani Cashmere,Y
+208, ,Art,Museum,N
+209, ,Art,Museum,N
+210, ,FD,CAMPER Milan Montenapoleone Store,Y
+211, ,FD,Santoni Milan Store,Y
+212, ,FD,Ralph Lauren,Y
+213, ,FD,Cloth,N
+214, ,FD,Cloth,N
+215, ,Craft,Jewel,N
+216, ,Craft,Furniture,N
+217, ,FD,Zanellato Boutique | Milan,Y
+218, ,FD,LOUIS VUITTON Milano Monte Napoleone,Y
+219, ,FD,Zara,Y
+220, ,FD,Woolrich Flagship Store,Y
+221, ,FD,Moreschi,Y
+222, ,FD,COS,Y
+223, ,Craft,PHILIPP PLEIN,Y
+224, ,FD,Nero Giardini,Y
+225, ,Craft,Jewel,N
+226, ,FD,Cloth,N
+227, ,FD,Moncler,Y
+228, ,FD,Tory Burch,Y
+229, ,Craft,Jewel,N
+230, ,Craft,Jewel,N
+231, ,Craft,Jewel,N
+232, ,FD,Boss,Y
+233, ,FD,Tiffany & Co,Y
+234, ,FD,Cloth,N
+235, ,FD,Watch,N
+236, ,Craft,Jewel,N
+237, ,Craft,Jewel,N
+238, ,FD,Cloth,N
+239, ,FD,Saint Laurent Via Sant'Andrea Store,Y
+240, ,Craft,Miu Miu,Y
+241, ,FD,Fay,Y
+242, ,Craft,Orciani,N
+243, ,FD,Roger Vivier,Y
+244, ,FD,Bottega Veneta Milano Maison S. Andrea,Y
+245, ,FD,Cloth,N
+246, ,FD,Cloth,N
+247, ,FD,Cloth,N
+248, ,FD,Cloth,N
+249, ,FD,Cloth,"N
+N"
+250, ,FD,Cloth,N
+251, ,FD,Jimmy Choo,Y
+252, ,FD,Casadei,Y
+253, ,Craft,Damiani - Boutique Milano,Y
+254, ,Craft,Venini,N
+255, ,Craft,Van Cleef & Arpels,N
+256, ,FD,Marni Milano,Y
+257, ,FD,La Perla,Y
+258, ,FD,Zhor Parfums,Y
+259, ,FD,Paul & Shark,Y
+260, ,Craft,Cartier,Y
+261, ,FD,Brioni,N
+262, ,FD,Thom Browne,Y
+263, ,Craft,Jewel,N
+264, ,FD,BALENCIAGA,Y
+265, ,FD,VALENTINO,Y
+266, ,FD,Cloth,N
+267, ,FD,Cloth,N
+268, ,FD,Salvatore Ferragamo Man,Y
+269, ,FD,Acqua Di Parma Boutique Barberia,Y
+270, ,FD,Cloth,N
+271, ,FD,Cloth,N
+272, ,Art,Museum,N
+273, ,FD,Goyard Milan Store,Y
+274, ,FD,Barrett Milano,N
+275, ,FD,Cloth,N
+276, ,FD,Cloth,N
+277, ,Craft,Craft,N
+278, ,Craft,DAAD Dantone Luxury Boutique,N
+279, ,Craft,Il Bisonte Milano,Y
+280, ,FD,Cloth,N
+281, ,"FD
+FD",Cloth,N
+282, ,FD,Cloth,N
+283, ,Art,Thearto,N
+284, ,FD,Cloth,N
+285, ,FD,DMAG outlet,Y
+286, ,FD,Piquadro,Y
+287, ,Craft,APM Monaco Milano,Y
+288, ,Art,Theator,N
+289, ,FD,VERSACE,Y
+290, ,FD,Bottega Veneta Milano BV Home,N
+291, ,FD,Rolex,Y
+292, ,Craft,Jewel,N
+293, ,FD,Cloth,N
+294, ,FD,Pinko,Y
+295, ,FD,Cloth,N
+296, ,FD,Cloth,N
+297, ,FD,Cloth,N
+298, ,FD,Paul Smith,Y
+299, ,Craft,TWINSET Milano Manzoni,Y
+300, ,FD,Patrizia Pepe,Y
+301, ,FD,Cloth,N
+302, ,FD,Jacadi Paris,Y
+303, ,FD,Gutteridge,Y
+304, ,FD,Bata,Y
+305, ,FD,Sephora,Y
+306, ,FD,MAC,Y
+307, ,FD,GEOX,Y
+308, ,FD,Lacoste,Y
+309, ,Art,Theator,N
+310, ,FD,Canetta Store,N
+311, ,FD,Musto Footwear Srl,Y
+312, ,FD,IMPERIAL,Y
+313, ,FD,Kiko,Y
+314, ,FD,Carpisa,Y
+315, ,IT,TIM,Y
+316, ,FD,Triumph,Y
+317, ,FD,Cvg,N
+318, ,FD,Antonia,Y
+319, ,Craft,Jewel,N
+320, ,Art,Theator,N
+321, ,Craft,Jewel,N
+322, ,Art,Museum,N
+323, ,FD,E. Marinella,N
+324, ,FD,Atelier Emé Milan,Y
+325, ,FD,Cloth,N
+326, ,FD,Cloth,N
+327, ,Craft,Souviour,N
+328, ,FD,Cloth,N
+329, ,FD,Elena Mirò,Y
+330, ,FD,Valextra Flagship Store,N
+331, ,FD,Cloth,N
+332, ,Craft,Craft,N
+333, ,FD,Cloth,N
+334, ,Art,Gallary,N
+335, ,FD,SUPERGLAMOUROUS,N
+336, ,FD,Masel,N
+337, ,FD,Cloth,N
+338, ,Art,Gallary,N
+339, ,Craft,Jewel,N
+340, ,FD,MAC,Y
+341, ,FD,Santa Margherita 7,N
+342, ,Craft,Craft,N
+343, ,Art,Museum,N
+344, ,Art,Museum,N
+345, ,FD,Magazzini Firme Outlet,Y
+346, ,FD,Cloth,N
+347, ,FD,Cloth,N
+348, ,FD,Cloth,N
+349, ,Craft,Craft,N
+350, ,FD,Alviero Martini Prima Classe,Y
+351, ,Craft,Jewel,N
+352, ,Craft,Maschio Gioielli,Y
+353, ,FD,Cloth,N
+354, ,FD,Larusmiani,N
+355, ,FD,Gucci,Y
+356, ,FD,Hogan,Y
+357, ,FD,Etro Boutique,Y
+358, ,Craft,Salvatore Ferragamo Milan,Y
+359, ,FD,Moncler,Y
+360, ,FD,Watch,Y
+361, ,Craft,Jewel,N
+362, ,FD,Boutique Dodo,Y
+363, ,FD,TIMBERLAND,Y
+364, ,FD,Cloth,N
+365, ,FD,Cloth,N
+366, ,FD,Cloth,N
+367, ,FD,Alexander McQueen,Y
+368, ,FD,ASPESI,Y
+369, ,FD,DMAG outlet,Y
+370, ,FD,Coccinelle,N
+371, ,FD,Cloth,N
+372, ,Craft,Craft,N
+373, ,FD,Cloth,N
+374, ,FD,Ermenegildo Zegna,Y
+375, ,FD,Loro Piana,Y
+376, ,Craft,MONTBLANC Milan,Y
+377, ,FD,Emilio Pucci,N
+378, ,FD,Swatch,Y
+379, ,Craft,Craft,N
+380, ,FD,Cloth,N
+381, ,FD,Cloth,N
+382, ,FD,Cloth,N
+383, ,FD,Loewe,Y
+384, ,FD,COACH,Y
+385, ,FD,Giada,Y
+386, ,FD,TOD's,Y
+387, ,FD,VERSACE,Y
+388, ,Art,Museum,N
+389, ,FD,Rolex,Y
+390, ,FD,Omega,Y
+391, ,FD,Abercrombie & Fitch,Y
+392, ,FD,Stone Island Store,Y
+393, ,FD,Ray-Ban San Babila,Y
+394, ,Craft,Brosway Store,Y
+395, ,FD,Boggi Milano,Y
+396, ,Art,Theator,N
+397, ,FD,Diesel store,Y
+398, ,FD,Camicissima,N
+399, ,Art,Museum,N
+400, ,FD,Geox Retail Store,Y
+401, ,FD,Cloth,N
+402, ,FD,Cloth,N
+403, ,Craft,Nano Bleu,Y
+404, ,FD,Swatch,Y
+405, ,FD,Kiko,Y
+406, ,Craft,Swarovski,Y
+407, ,FD,Cloth,N
+408, ,FD,Superga 165,Y
+409, ,FD,Pronovias,Y
+410, ,FD,Brooks Brothers,Y
+411, ,FD,VERSACE COLLECTION,Y
+412, ,FD,Samsonite Flagship,Y
+413, ,FD,Bose Store,Y
+414, ,FD,Zara,Y
+415, ,FD,Calzedonia,Y
+416, ,FD,United Colors of Benetton,Y
+417, ,FD,Max Mara,Y
+418, ,FD,MARELLA Milano Corso Vittorio,Y
+419, ,FD,Perfume,N
+420, ,FD,Fueguia 1833 Milano,Y
+421, ,FD,Plinio Visona' - Italia 1959,N
+422, ,FD,Cloth,N
+423, ,FD,Heaven 1914 Milano Watches,Y
+424, ,Art,Gallary,N
+425, ,Craft,Jewel,N
+426, ,Craft,Swarovski,Y
+427, ,FD,TOD's,Y
+428, ,FD,CHANEL Milano Galleria,Y
+429, ,Art,Gallary,N
+430, ,FD,Versace,Y
+431, ,FD,Gucci,Y
+432, ,FD,Luisa Spagnoli,Y
+433, ,FD,Bric's,Y
+434, ,FD,Borsalino,Y
+435, ,Craft,Jewel,N
+436, ,Craft,Jewel,N
+437, ,FD,Moncler,Y
+438, ,FD,Prada Milano Galleria Donna,Y
+439, ,Craft,Shop Rebecca,Y
+440, ,FD,Tiffany & Co.,Y
+441, ,Craft,YNOT?,Y
+442, ,FD,Ferrari Store,Y
+443, ,FD,K-Way 9 Milano,Y
+444, ,IT,Leica Store,Y
+445, ,FD,Camicissima,N
+446, ,Arch,Sculpture & Design,N
+447, ,Craft,dmail,Y
+448, ,IT,Apple,Y
+449, ,FD,Bralux,Y
+450, ,FD,Celio,Y
+451, ,FD,Adidas,Y
+452, ,FD,Coccinelle,Y
+453, ,FD,Suitcase,N
+454, ,Craft,Lasmas,N
+455, ,FD,Urban Outfitters,Y
+456, ,Fiilm,Cineam,N
+457, ,Craft,Craft,N
+458, ,FD,Piumelli Outlet,Y
+459, ,FD,Andrew's Ties,Y
+460, ,FD,& Other Stories,Y
+461, ,FD,Absolut Joy and Sexy Woman Jeans,Y
+462, ,FD,Furla Store,Y
+463, ,FD,Gucci,Y
+464, ,FD,CHRISTIAN LOUBOUTIN,Y
+465, ,IT,Unieuro,N
+466, ,FD,Pinko,Y
+467, ,FD,Cloth,N
+468, ,FD,LOUIS VUITTON,Y
+469, ,FD,Salvatore Ferragamo,Y
+470, ,FD,Cloth,N
+471, ,FD,Cloth,N
+472, ,FD,Cloth,N
+473, ,FD,Watch,N
+474, ,Craft,Unger 1875 Clotilde Silva,N
+475, ,Craft,Craft,N
+476, ,FD,TWINSET,Y
+477, ,FD,Cloth,N
+478, ,FD,Cloth,N
+479, ,FD,HM,Y
+480, ,FD,Cloth,N
+481, ,FD,Cloth,N
+482, ,FD,Profumeria DOUGLAS,Y
+483, ,Craft,Craft,N
+484, ,FD,Al Bazar,N
+485, ,FD,Luca Shoes srl,N
+486, ,FD,COS,Y
+487, ,FD,Geox,Y
+488, ,Film,Cineam,N
+489, ,FD,Victoria's Secret,Y
+490, ,FD,Stradivarius,Y
+491, ,FD,Oysho,N
+492, ,IT,WIND,Y
+493, ,FD,Cloth,N
+494, ,FD,Cloth,N
+495, ,FD,Antica Cuoieria,Y
+496, ,FD,Carhartt WIP Store,Y
+497, ,IT,TIM,Y
+498, ,Craft,Craft,N
+499, ,FD,Cloth,N
+500, ,Art,Museum,N
+501, ,Craft,Jewel,N
+502, ,FD,Faashion,N
+503, ,FD,Perfume,N
+504, ,Art,Theator,N
+505, ,Art,Gallary,N
+506, ,FD,Cloth,N
+507, ,FD,Nicole Spose,Y
+508, ,Art,Gallary,N
+509, ,FD,Cloth,N
+510, ,FD,Cloth,N
+511, ,FD,Cloth,N
+512, ,IT,Phone,N
+513, ,FD,Cloth,N
+514, ,FD,Cloth,N
+515, ,FD,Cloth,N
+516, ,FD,Wedding,N
+517, ,Arch,Arch,N
+518, ,FD,Cloth,N
+519, ,FD,Cloth,N
+520, ,IT,Phone,N
+521, ,Arch,Arch,N
+522, ,FD,Cloth,N
+523, ,Art,Art,N
+524, ,IT,TIM,Y
+525, ,Craft,Craft,N
+526, ,Craft,Craft,N
+527, ,FD,Cloth,N
+528, ,FD,Dolly Noire Store,Y
+529, ,FD,Cloth,N
+530, ,FD,Cloth,N
+531, ,FD,Carhartt WIP,Y
+532, ,Art,Art,N
+533, ,Craft,Kim Supplies Scout,Y
+534, ,FD,Carlo Pignatelli,N
+535, ,Craft,Craft,N
+536, ,FD,Kiko,Y
+537, ,FD,Biffi B-Contemporary,Y
+538, ,FD,Cloth,N
+539, ,FD,Cloth,N
+540, ,FD,Cloth,N
+541, ,FD,Martino Midali,N
+542, ,FD,Cloth,N
+543, ,FD,Doppelganger,Y
+544, ,Craft,Craft,N
+545, ,Art,Theator,N
+546, ,FD,Tessuti Raponi Milano,N
+547, ,Craft,Mama Schwaz Store,Y
+548, ,Art,Museum,N
+549, ,Craft,Craft,N
+550, ,FD,Lui & Lei Di Chen Maolei,Y
+551, ,FD,iuter store,Y
+552, ,FD,Propaganda Store,N
+553, ,FD,Cloth,N
+554, ,FD,Cloth,N
+555, ,FD,Cloth,N
+556, ,Craft,Craft,N
+557, ,FD,Cloth,N
+558, ,FD,Cloth,N
+559, ,FD,Cloth,N
+560, ,FD,Cloth,N
+561, ,Music,Music,N
+562, ,FD,Cloth,N
+563, ,FD,Cloth,N
+564, ,FD,Cloth,N
+565, ,Art,Art,N
+566, ,Art,Pilates,N
+567, ,Publish,Publish,N
+568, ,FD,Sport,N
+569, ,FD,Sport,N
+570, ,Art,Photo,N
+571, ,FD,Ylang Ylang - Perfumery - Wellness Center,Y
+572, ,Publish,Publish,N
+573, ,Art,Gallary,N
+574, ,Craft,Craft,N
+575, ,FD,Cloth,N
+576, ,FD,Perfume,N
+577, ,Art,Pilates,N
+578, ,FD,Intimissimi,N
+579, ,FD,Intimissimi,N
+580, ,Craft,Jewel,N
+581, ,FD,Cloth,N
+582, ,FD,Cloth,N
+583, ,FD,Cloth,N
+584, ,FD,Cloth,N
+585, ,FD,Cloth,N
+586, ,Art,Theator,N
+587, ,Music,Music,N
+588, ,FD,Cloth,N
+589, ,IT,WIND,Y
+590, ,Art,Museum,N
+591, ,Craft,Craft,N
+592, ,Art,Gallary,N
+593, ,FD,Tommy Hilfiger,Y
+594, ,FD,Cloth,N
+595, ,FD,Cloth,N
+596, ,FD,Cloth,N
+597, ,IT,Camera,N
+598, ,FD,Cloth,N
+599, ,Craft,Craft,N
+600, ,Craft,Craft,N
+601, ,FD,Cloth,N
+602, ,Art,Gallary,N
+603, ,FD,Cloth,N
+604, ,FD,Sport,N
+605, ,FD,Cloth,N
+606, ,FD,Cloth,N
+607, ,FD,Cloth,N
+608, ,Advertising,Advertising,N
+609, ,FD,TOD's,Y
+610, ,FD,Winwood Fashion,Y
+611, ,FD,HOMAND,Y
+612, ,Art,Gallary,N
+613, ,Advertising,Advertising,N
+614, ,Craft,Jewel,N
+615, ,FD,Cloth,N
+616, ,FD,Cloth,N
+617, ,FD,Cloth,N
+618, ,Craft,Craft,N
+619, ,Art,Culture Center,N
+620, ,Art,Photo,N
+621, ,FD,Cloth,N
+622, ,Publish,Publish,N
+623, ,Art,Museum,N
+624, ,Art,Museum,N
+625, ,Art,Gallary,N
+626, ,FD,Cloth,N
+627, ,FD,Cloth,N
+628, ,FD,Cloth,N
+629, ,FD,FRANZI 1864 S.r.l.,N
+630, ,FD,Eligo Milano,Y
+631, ,FD,Armani Casa,Y
+632, ,FD,GaGà Milano Store,Y
+633, ,Craft,Jewel,N
+634, ,FD,Cloth,N
+635, ,Craft,Jewel,N
+636, ,FD,Jeckerson Store,Y
+637, ,Craft,Moschino Love,N
+638, ,Art,Theator,N
+639, ,Craft,Jewel,N
+640, ,Craft,Jewel,N
+641, ,Arch,Arch,N
+642, ,Art,Gallary,N
+643, ,Art,Bosoni,Y
+644, ,FD,Cloth,N
+645, ,FD,Cloth,N
+646, ,Art,Fazioli,Y
+647, ,FD,Design,N
+648, ,FD,Suitsupply,Y
+649, ,FD,Subdued,Y
+650, ,FD,Cloth,N
+651, ,Craft,Stone,N
+652, ,FD,Ma Maison Srl,Y
+653, ,FD,Cloth,N
+654, ,FD,Mazzolari Milano,Y
+655, ,Art,Culture Center,N
+656, ,FD,Mia Bag,Y
+657, ,FD,MUJI ITALIA,Y
+658, ,FD,Guess Flagship Store,Y
+659, ,FD,Florsheim Milano,Y
+660, ,FD,Cloth,N
+661, ,FD,Cloth,N
+662, ,Craft,LEGO Store,Y
+663, ,FD,Cloth,N
+664, ,FD,Pinko,Y
+665, ,FD,AllSaints,Y
+666, ,Craft,Disney store,Y
+667, ,Craft,Lauren By Ralph Lauren,Y
+668, ,FD,Calvin klein,Y
+669, ,FD,Cloth,N
+670, ,Craft,Jewel,N
+671, ,FD,Cloth,N
+672, ,FD,Cloth,N
+673, ,Craft,Jewel,N
+674, ,FD,Cloth,N
+675, ,FD,Cloth,N
+676, ,FD,Cloth,N
+677, ,Craft,Jewel,N
+678, ,Craft,Jewel,N
+679, ,Craft,Jewel,N
+680, ,IT,WIND,Y
+681, ,Art,Museum,N
+682, ,FD,Cloth,N
+683, ,Craft,Craft,N
+684, ,FD,Cloth,N
+685, ,FD,Cloth,N
+686, ,FD,Cloth,N
+687, ,FD,Michele Lopriore,Y
+688, ,FD,Cloth,N
+689, ,FD,Perfume,N
+690, ,Craft,Craft,N
+691, ,FD,Cloth,N
+692, ,Art,Photo,N
+693, ,FD,Alcott,Y
+694, ,FD,Motivi,Y
+695, ,FD,Falconeri,Y
+696, ,FD,Intimissimi Uomo,Y
+697, ,FD,Carpisa,Y
+698, ,FD,Gutteridge,Y
+699, ,FD,Nadnie,N
+700, ,IT,Oregon,N
+701, ,FD,LUSH,Y
+702, ,FD,Claudie Pierlot,N
+703, ,FD,Football Team,N
+704, ,FD,Libero,Y
+705, ,FD,Yamamay,Y
+706, ,FD,Cisalfa Sport,Y
+707, ,Craft,Craft,N
+708, ,Art,Gallary,N
+709, ,FD,Mirade bags & shoes,Y
+710, ,FD,Wycon Cosmetics,Y
+711, ,FD,Brandy & Melville,Y
+712, ,FD,Excelsior,Y
+713, ,FD,AVERY Perfume Gallery,Y
+714, ,FD,Tiffany & Co,Y
+715, ,FD,Crisafulli Eyewear Ottica Occhiali,N
+716, ,Publish,P,N
+717, ,Publish,P,N
+718, ,FD,Mango,Y
+719, ,FD,Pull & Bear,Y
+720, ,FD,Sephora,Y
+721, ,FD,Foot Locker,Y
+722, ,FD,Intrend Milano,Y
+723, ,Art,Museum,N
+724, ,FD,Del Mare 1911,Y
+725, ,FD,Paul Taylor,Y
+726, ,FD,The North Face Store Milan,Y
+727, ,FD,Cloth,N
+728, ,FD,VANS Store Milan,Y
+729, ,FD,Inter Store Milano,Y
+730, ,FD,Oysho,N
+731, ,IT,Vodafone,Y
+732, ,FD,HM,Y
+733, ,FD,Sisley,Y
+734, ,FD,Urban Outfitters,Y
+735, ,Craft,Accessorize,Y
+736, ,FD,NYX Italia,Y
+737, ,FD,Michael Kors,Y
+738, ,FD,Pinko Boutique Milano,Y
+739, ,FD,Liu Jo,Y
+740, ,FD,The Highline Outlet,Y
+741, ,FD,TIMBERLAND Milan - San Carlo,Y
+742, ,FD,North Sails,Y
+743, ,FD,Cloth,N
+744, ,FD,Cloth,N
+745, ,FD,Cloth,N
+746, ,FD,Fendi Fendi,Y
+747, ,Craft,Craft,N
+748, ,Craft,Arclinea Flagship store,Y
+749, ,Craft,Giorgetti Store,Y
+750, ,Craft,Salvioni Milano Durini,N
+751, ,FD,Technogym,Y
+752, ,Arch,Arch,N
+753, ,FD,Lola,Y
+754, ,FD,Margherita,N
+755, ,Craft,Molteni & C Dada Flagship,Y
+756, ,FD,Boggi Milano - Temporaneamente Chiuso,N
+757, ,Craft,Craft,N
+758, ,FD,L' Arabesque,Y
+759, ,Craft,Imaginarium,N
+760, ,FD,HM,Y
+761, ,FD,Facis,Y
+762, ,Arch,Design,N
+763, ,Craft,Marazzi Showroom,N
+764, ,FD,Cloth,N
+765, ,FD,Libero,Y
+766, ,FD,Corneliani,Y
+767, ,IT,Hinto,Y
+768, ,Craft,B&B Italia Spa,Y
+769, ,FD,Conti Confetteria,N
+770, ,FD,Miracle Store,Y
+771, ,Art,Art,N
+772, ,FD,Matchless London Store Milano,Y
+773, ,FD,Valextra Outlet,N
+774, ,Craft,Agapanthus Gioielli,N
+775, ,FD,Naturino Store,N
+776, ,FD,Nava Design - MH Way Store,Y
+777, ,Publish,Publish,N
+778, ,Arch,Arch,N
+779, ,IT,IT,N
+780, ,Arch,Arch,N
+781, ,IT,IT,N
+782, ,Art,Art,N
+783, ,FD,Cloth,N
+784, ,FD,Orologeria Gioielleria Sangalli dal 1900,Y
+785, ,FD,CC-TAPIS,Y
+786, ,Arch,Arch,N
+787, ,Craft,ASPESi1910,N
+788, ,Art,Design,N
+789, ,FD,Merceria Guffanti della C.G.C.,Y
+790, ,Craft,Vigano' Alta Moda/Viganò Milano1919 - bottega,N
+791, ,Craft,La Nuova Ora Srl,N
+792, ,Craft,Laboratorio Orologeria Duomo,Y
+793, ,Art,Museum,N
+794, ,Arch,Design,N
+795, ,Art,Museum,N
+796, ,IT,GameStop,N
+797, ,FD,United Colors of Benetton,Y
+798, ,Craftq,Watch,N
+799, ,FD,Laluna (S.N.C.),Y
+800, ,FD,Cloth,N
+801, ,FD,Enrico Broggi,Y
+802, ,FD,Rolex,Y
+803, ,FD,One Block Down,Y
+804, ,Art,Dance,N
+805, ,Craft,Eleven Village Store Milano,Y
+806, ,FD,Cloth,N
+807, ,FD,Cloth,N
+808, ,FD,Cloth,N
+809, ,Craft,Ronchi Gioielli,Y
+810, ,FD,Co.import,Y
+811, ,IT,GAME,N
+812, ,FD,Kryolan City Milano,N
+813, ,FD,Makeup,N
+814, ,Craft,Craft,N
+815, ,Arch,Design,N
+816, ,Arch,Design,N
+817, ,FD,Royal Britannia Boutique,Y
+818, ,FD,Del Mare 1911,N
+819, ,Arch,Arch,N
+820, ,Craft,Hi-cube s.r.l.,Y
+821, ,FD,METRADAMO,N
+822, ,Craft,Valios Corso Italy 11,N
+823, ,FD,Boggi Milano,N
+824, ,Art,Art,N
+825, ,FD,INCENDIO SRL,N
+826, ,Film,Film,N
+827, ,FD,Cloth,N
+828, ,FD,BMW,Y
+829, ,FD,Baracuta,N
+830, ,FD,Cloth,N
+831, ,FD,Cloth,N
+832, ,FD,Bivio Milano Donna,Y
+833, ,FD,Cloth,N
+834, ,FD,Cloth,N
+835, ,FD,CHACHA Milano,Y
+836, ,FD,Raphael - Groom suits and formal,Y
+837, ,IT,It,N
+838, ,Art,Theator,N
+839, ,Art,Design,N
+840, ,FD,Atelier Orologiaio di GSP S.r.l.,N
+841, ,FD,Scout,Y
+842, ,FD,Goldenpoint,Y
+843, ,FD,Geox,Y
+844, ,Craft,Camper,Y
+845, ,FD,Victoria’s Secret,Y
+846, ,FD,Oysho,Y
+847, ,FD,Foot Locker,Y
+848, ,FD,Mango,Y
+849, ,FD,Desigual,Y
+850, ,FD,Nike Store,Y
+851, ,FD,Bath & Body Works,Y
+852, ,FD,De Meo Letizia,N
+853, ,Craft,Osigem,N
+854, ,FD,Football Team Falcone,N
+855, ,FD,Napoleone,N
+856, ,FD,Vergelio,N
+857, ,FD,Kiko,Y
+858, ,FD,PIMKIE,Y
+859, ,Craft,Accessorize,Y
+860, ,Art,Design,N
+861, ,Craft,Perfume,N
+862, ,Craft,Perfume,N
+863, ,FD,Barello Optics - Milan,Y
+864, ,FD,Yamamay,Y
+865, ,FD,Cloth,N
+866, ,FD,Terranova,Y
+867, ,Art,Supergulp 2,N
+868, ,FD,HM,Y
+869, ,FD,Alcott,Y
+870, ,IT,Trony,N
+871, ,Art,Gallary,N
+872, ,Art,Gallary,N
+873, ,Art,Gallary,N
+874, ,Art,Gallary,N
+875, ,FD,Cloth,N
+876, ,FD,Cloth,N
+877, ,FD,Cloth,N
+878, ,Craft,Craft,N
+879, ,Craft,Craft,N
+880, ,Craft,Craft,N
+881, ,Advertising,AD,N
+882, ,Advertising,AD,N
+883, ,Craft,Target,N
+884, ,Music,Musical Instruments Prina,Y
+885, ,Craft,Craft,N
+886, ,FD,Craft,N
+887, ,Craft,Fortura Giocattoli,N
+888, ,FD,size?,Y
+889, ,FD,Parashop Italy srl,N
+890, ,FD,Yves Rocher Italia,N
+891, ,Craft,Jewel,N
+892, ,FD,Mauro Leone,N
+893, ,FD,Cloth,N
+894, ,FD,Cloth,N
+895, ,Art,Gallary,N
+896, ,FD,Geox,Y
+897, ,FD,Dan John Milano - Via Torino,Y
+898, ,FD,Città del Sole - Milano Via Torino,N
+899, ,Publish,Publish,N
+900, ,FD,Rinascimento,N
+901, ,Craft,Craft,N
+902, ,FD,Nadine,N
+903, ,Craft,Craft,N
+904, ,IT,Software,N
+905, ,FD,Cloth,N
+906, ,Advertising,Ad,N
+907, ,Craft,Tofy Toys,N
+908, ,FD,Cloth,N
+909, ,Art,Design,N
+910, ,Craft,Craft,N
+911, ,Art,Art center,N
+912, ,Advertising,AD,N
+913, ,Publish,Publish,N
+914, ,Advertising,AD,N
+915, ,Arch,Arch,N
+916, ,Art,Design,N
+917, ,Art,Museum,N
+918, ,IT,IT,N
+919, ,Art,Art studio,N
+920, ,Art,Gallary,N
+921, ,FD,Cloth,N
+922, ,Advertising,AD,N
+923, ,IT,IT,N
+924, ,IT,Software,N
+925, ,Arch,Arch,N
+926, ,Music,Musci,N
+927, ,Art,Gallary,N
+928, ,Art,Gallary,N
+929, ,Arch,Arch,N
+930, ,Art,Desigh,N
+931, ,Art,Design,N
+932, ,Advertising,AD,N
+933, ,FD,Cloth,N
+934, ,Art,Design,N
+935, ,Arch,Arch,N
+936, ,Arch,Arch,N
+937, ,Art,Model,N
+938, ,Arch,Arch,N
+939, ,Advertising,AD,N
+940, ,Art,Design,N
+941, ,Film,Video,N
+942, ,Film,Video,N
+943, ,Film,Video,N
+944, ,Art,Model,N
+945, ,Art,Design,N
+946, ,FD,Manufacture Fraizzoli & C.,N
+947, ,Art,Design,N
+948, ,Advertising,AD,N
+949, ,Film,Video,N
+950, ,Art,Design,N
+951, ,Art,Dance,N
+952, ,Craft,Craft,N
+953, ,FD,Cloth,N
+954, ,Art,Museum,N
+955, ,IT,IT,"N
+N"
+956, ,Advertising,AD,N
+957, ,Art,Design,N
+958, ,FD,Cloth,N
+959, ,IT,Camera,N
+960, ,Craft,Craft,N
+961, ,Craft,Craft,N
+962, ,FD,Cloth,N
+963, ,FD,Cloth,N
+964, ,Craft,Craft,N
+965, ,FD,Jaked,Y
+966, ,FD,Cloth,N
+967, ,FD,Muji,Y
+968, ,FD,Cloth,N
+969, ,Craft,Jewel,N
+970, ,IT,TIM,Y
+971, ,FD,ZARA,Y
+972, ,FD,Cloth,N
+973, ,FD,Perfume,N
+974, ,IT,Vodafone,Y
+975, ,FD,Cloth,N
+976, ,FD,Yamamay,Y
+977, ,Arch,Arch,N
+978, ,Craft,Toy,N
+979, ,IT,Wind,Y
+980, ,FD,Brian & Barry,Y
+981, ,FD,Boggi Milano,N
+982, ,FD,L'OCCITANE EN PROVENCE,Y
+983, ,FD,Amedeo D.,N
+984, ,Publish,Publish,N
+985, ,FD,Cloth,N
+986, ,Art,Theator,N
+987, ,FD,Luxottica,Y
+988, ,Art,Theatro,N
+989, ,FD,Cloth,N
+990, ,Publish,Publish,N
+991, ,Arch,Arch,N
+992, ,FD,Glasses,N
+993, ,FD,Outlet Matia's,Y
+994, ,FD,Profumeria Marionnaud,Y
+995, ,FD,Brandy & Melville,Y
+996, ,FD,Moleskine Store,Y
+997, ,FD,Foot Locker,Y
+998, ,FD,Lovable,Y
+999, ,FD,LUSH,Y
+1000, ,FD,OVS,Y
+1001, ,Art,Gallary,N
+1002, ,FD,Swarovski Internazionale,Y
+1003, ,FD,ALDO Shoes,Y
+1004, ,FD,ASICS,Y
+1005, ,FD,Estée Lauder,Y
+1006, ,FD,Silvian Heach Milano,Y
+1007, ,FD,DESIGUAL,Y
+1008, ,FD,Piquadro,Y
+1009, ,Craft,Meravigli,N
+1010, ,FD,Cappelleria Melegari dal 1914,N
+1011, ,FD,Il Vecchio Drappiere,N
+1012, ,FD,Aesop Corso Magenta,Y
+1013, ,FD,Cloth,N
+1014, ,Craft,Dioro,Y
+1015, ,FD,Cloth,N
+1016, ,Arch,Arch,N
+1017, ,Film,Video,N
+1018, ,Craft,Craft,N
+1019, ,Art,Gallary,N
+1020, ,Advertising,AD,N
+1021, ,Film,Vedio,N
+1022, ,FD,Figus Designer,N
+1023, ,Craft,GuFo,N
+1024, ,Art,model,N
+1025, ,Art,Design,N
+1026, ,FD,Cloth,N
+1027, ,Flim,Vedio,N
+1028, ,Film,Vedio,N
+1029, ,FD,Cloth,N
+1030, ,Art,Gallary,N
+1031, ,Craft,Craft,N
+1032, ,Art,Gallary,N
+1033, ,Film,Photo,N
+1034, ,Art,Museum,N
+1035, ,FD,Cloth,N
+1036, ,FD,Cloth,N
+1037, ,FD,Cloth,N
+1038, ,FD,Jo Malone London,Y
+1039, ,IT,Software,N
+1040, ,Art,Design,N
+1041, ,IT,Design,N
+1042, ,Craft,Jewel,N
+1043, ,Art,Gallary,N
+1044, ,Film,Video,N
+1045, ,Publish,Publish,N
+1046, ,Fiim,Camera,N
+1047, ,FD,Warhammer,Y
+1048, ,FD,Circus,Y
+1049, ,Film,Video,N
+1050, ,IT,IT,N
+1051, ,FD,Pati Jò,N
+1052, ,Advertising,AD,N
+1053, ,IT,Game,N
+1054, ,Advertising,AD,N
+1055, ,Advertising,AD,N
+1056, ,IT,IT,N'
+1057, ,Advertising,AD,N
+1058, ,Craft,Fate i Capricci,N
+1059, ,FD,AERE STORE,N
+1060, ,IT,IT,N
+1061, ,FD,Joost Store,N
+1062, ,Art,Dance,N
+1063, ,Craft,ATELIER VM,N
+1064, ,Art,Pilgiò,N
+1065, ,Arch,Arch,N
+1066, ,Art,Art,N
+1067, ,Craft,Craft,N
+1068, ,FD,E. Marinella,Y
+1069, ,FD,Airness,Y
+1070, ,FD,Noriem,N
+1071, ,Craft,Perfume,N
+1072, ,FD,Cloth,N
+1073, ,Art,Gallary,N
+1074, ,Craft,Perfume,N
+1075, ,FD,Cloth,N
+1076, ,Arch,Arch,N
+1077, ,Craft,Watch,N
+1078, ,FD,AW LAB,Y
+1079, ,FD,MUJI,Y
+1080, ,Craft,Pandora,Y
+1081, ,FD,Pull&Bear,Y
+1082, ,FD,Kiehl's,Y
+1083, ,FD,Guess,Y
+1084, ,FD,Tezenis,Y
+1085, ,FD,Tally Weijl,Y
+1086, ,FD,NYX Professional Makeup,Y
+1087, ,Craft,Seiko,Y
+1088, ,Arch,Arch,N
+1089, ,FD,Wait and See,Y
+1090, ,Arch,Arch,N
+1091, ,Craft,I Sentieri del Vento,Y
+1092, ,Art,Gallary,N
+1093, ,Art,Gallary,N
+1094, ,Craft,Craft,N
+1095, ,FD,LUSH,Y
+1096, ,FD,Stradivarius,Y
+1097, ,FD,Trend,Y
+1098, ,FD,Levi's,Y
+1099, ,FD,Tanagra,Y
+1100, ,FD,kontatto,N
+1101, ,FD,Boxeur Des Rues ?,Y
+1102, ,FD,Gianni Mura,Y
+1103, ,FD,John Barritt Flagship Store,Y
+1104, ,FD,DANI - I love this brand,Y
+1105, ,FD,Flying Tiger Copenhagen,Y
+1106, ,FD,Cloth,N
+1107, ,Craft,Fracomina store,N
+1108, ,Film,Cinema,N
+1109, ,IT,WIND,Y
+1110, ,FD,Ader Milano,Y
+1111, ,FD,Cloth,N
+1112, ,Art,Museum,N
+1113, ,FD,Cloth,N
+1114, ,Art,Gallary,N
+1115, ,FD,Flying Tiger Copenhagen,Y
+1116, ,Art,Gallary,N
+1117, ,Art,Gallary,N
+1118, ,FD,Cloth,N
+1119, ,Art,Co-work,N
+1120, ,FD,Bialetti,Y
+1121, ,FD,Orologeria,Y
+1122, ,FD,Blue sand,Y
+1123, ,IT,TIM,Y
+1124, ,IT,Vodafone,Y
+1125, ,FD,Bata,Y
+1126, ,IT,WIND,Y
+1127, ,FD,ZARA,Y
+1128, ,FD,OVS,Y
+1129, ,FD,Magazzini Firme Outlet,Y
+1130, ,FD,Max Mara,Y
+1131, ,FD,Desiree Perfumes,Y
+1132, ,FD,L'Abitino Easy Chic,Y
+1133, ,FD,Cloth,N
+1134, ,FD,Del Mare 1911,Y
+1135, ,FD,Levi's,Y
+1136, ,FD,Under Armour Milano Orefici,Y
+1137, ,FD,Uniqlo Piazza Cordusio,Y
+1138, ,FD,Class,N
+1139, ,FD,Nashi Argan Store Dante,Y
+1140, ,FD,Profumerie Limoni,N
+1141, ,FD,Marco Calzature,Y
+1142, ,Craft,D'Augusta Gioielli,N
+1143, ,FD,Shirts Clerici 1780,Y
+1144, ,Art,Museum,N
+1145, ,Craft,Craft,N
+1146, ,IT,Software,N
+1147, ,Craft,Craft,N
+1148, ,Art,Art,N
+1149, ,FD,Perfume,"N
+"
+1150, ,Film,Film,N
+1151, ,Arch,Arch,N
+1152, ,IT,WIND,Y
+1153, ,Music,Music,N
+1154, ,Art,Gallary,N
+1155, ,Art,Art,N
+1156, ,Advertising,AD,N
+1157, ,Art,Art,N
+1158, ,Art,Design,N
+1159, ,Film,Cinema,N
+1160, ,IT,IT,N
+1161, ,Art,Design,N
+1162, ,Film,Photo,N
+1163, ,FD,IperSoap,N
+1164, ,Craft,Craft,N
+1165, ,FD,Made from Yo!,Y
+1166, ,FD,Treesse Viale Monza,N
+1167, ,Art,Design,N
+1168, ,Film,Music,N
+1169, ,Film,Video,N
+1170, ,Arch,Arch,N
+1171, ,Advertising,AD,N
+1172, ,Art,Dance,N
+1173, ,Film,Photo,N
+1174, ,Art,Dance,N
+1175, ,IT,IT,Y
+1176, ,FD,WEEKEND OFFENDER,N
+1177, ,FD,Cloth,N
+1178, ,IT,IT,IT
+1179, ,Art,Print,N
+1180, ,"IT
+IT",IT,N
+1181, ,"IT
+IT",IT,N
+1182, ,Art,Art,N
+1183, ,Craft,Giocheria Centro Toys,Y
+1184, ,FD,Cloth,N
+1185, ,IT,Game,N
+1186, ,Art,Dance,N
+1187, ,Arch,Arch,N
+1188, ,Film,Photo,N
+1189, ,Arch,Arch,N
+1190, ,IT,Mikamai,Y
+1191, ,FD,Cloth,N
+1192, ,Craft,Jewel,N
+1193, ,FD,Disney,Y
+1194, ,Art,Art,N
+1195, ,IT,IT,N
+1196, ,Arch,Design,N
+1197, ,Arch,Design,N
+1198, ,IT,Software,N
+1199, ,FD,Calcioshop Milano,Y
+1200, ,IT,Game,N
+1201, ,Film,Photo,N
+1202, ,Craft,Craft,N
+1203, ,Film,Photo,N
+1204, ,IT,WIND,Y
+1205, ,FD,Triumph,Y
+1206, ,FD,Cloth,N
+1207, ,FD,Sephora,Y
+1208, ,FD,Outlet del Kasalingo,Y
+1209, ,FD,Cloth,N
+1210, ,Art,Art,N
+1211, ,"IT
+IT",IT,N
+1212, ,Film,Photo,N
+1213, ,FD,Calzedonia,Y
+1214, ,FD,Intimissimi,Y
+1215, ,FD,Bershka,Y
+1216, ,FD,Geox,Y
+1217, ,FD,Thun Shop,Y
+1218, ,Arch,Arch,N
+1219, ,Art,Design,N
+1220, ,FD,Cloth,N
+1221, ,IT,WIND,Y
+1222, ,Craft,Craft,N
+1223, ,Arch,Arch,N
+1224, ,Art,Gallary,N
+1225, ,Art,Gallary,N
+1226, ,FD,The Fountain Pen,Y
+1227, ,FD,O Bag store,Y
+1228, ,FD,Zeel International Store,Y
+1229, ,Art,Art,N
+1230, ,Arch,Arch,N
+1231, ,FD,New York Hip Hop Jeans World,Y
+1232, ,FD,Cloth,N
+1233, ,Craft,Tadino48林氏手 表店,Y
+1234, ,Craft,Carnaby Street,Y
+1235, ,FD,Haas since 1811 - woven carpets and sofas,Y
+1236, ,FD,Okaidi,Y
+1237, ,FD,NAU!,Y
+1238, ,FD,Tezenis,Y
+1239, ,FD,TIMBERLAND,Y
+1240, ,FD,Goldenpoint,Y
+1241, ,FD,Gatsby Milano,N
+1242, ,FD,Bata,Y
+1243, ,FD,Terranova,Y
+1244, ,FD,Underwear De Bernardi,N
+1245, ,FD,Du Pareil Au Meme,Y
+1246, ,FD,Intimissimi Uomo,Y
+1247, ,Craft,Corso Buenos Aires,N
+1248, ,Film,Photo,N
+1249, ,Music,Music,N
+1250, ,Film,Movie,N
+1251, ,Art,Art,N
+1252, ,FIlm,Video,N
+1253, ,IT,IT,N
+1254, ,Craft,Craft,N
+1255, ,FD,QDM | Quelli delle Magliette,Y
+1256, ,IT,Centro Telefonia Pino Milano,Y
+1257, ,FD,Nake Sport,Y
+1258, ,IT,IT,N
+1259, ,FD,Camomilla,Y
+1260, ,FD,La Montagna Sport,Y
+1261, ,IT,Avanade Italy,Y
+1262, ,Publish,Publish,N
+1263, ,FD,Belmonte,N
+1264, ,IT,IT,N
+1265, ,IT,IT,N
+1266, ,FD,LaMari Woman Store,Y
+1267, ,FD,Pupa Forever,N
+1268, ,Arch,Arch,N
+1269, ,FD,Cloth,N
+1270, ,Arch,Design,N
+1271, ,Publish,Publish,N
+1272, ,FD,FD,N
+1273, ,IT,IT,N
+1274, ,FD,FD,N
+1275, ,IT,IT,N
+1276, ,Advertising,AD,N
+1277, ,Film,Video,N
+1278, ,FD,La Prealpina Tessuti,N
+1279, ,Craft,Jewel,N
+1280, ,Craft,Jewel,N
+1281, ,Craft,Jewel,N
+1282, ,Publish,P,N
+1283, ,FD,ES Milano Collection,Y
+1284, ,Craft,Perfume,N
+1285, ,Film,Cinema,N
+1286, ,Film,Cinema,N
+1287, ,FD,Carpe Diem,Y
+1288, ,FD,Stradivarius,Y
+1289, ,Craft,dmail,Y
+1290, ,IT,GameStop,N
+1291, ,FD,I Am,Y
+1292, ,FD,Douglas,Y
+1293, ,Art,Theator,N
+1294, ,FD,AMI MOPS?,N
+1295, ,Art,Yamato Shop,Y
+1296, ,FD,GrandVision by Avanzi,N
+1297, ,FD,Fossil,Y
+1298, ,FD,Cloth,N
+1299, ,Art,Gallary,N
+1300, ,FD,Cloth,N
+1301, ,Film,Cinema,N
+1302, ,Art,Design,N
+1303, ,Film,Photo,N
+1304, ,FD,Spectrum Store Milano / Graffiti Shop & Streetwear,Y
+1305, ,Craft,Design,N
+1306, ,FD,dm Italia,Y
+1307, ,IT,IT,N
+1308, ,Film,Photo,N
+1309, ,Film,Photo,N
+1310, ,FD,La Montagna,Y
+1311, ,Advertising,AD,N
+1312, ,FD,Cloth,N
+1313, ,Art,Gallary,N
+1314, ,Craft,C,N
+1315, ,FD,Calvin Klein Jeans,Y
+1316, ,FD,PUMA Store,Y
+1317, ,FD,HM,Y
+1318, ,FD,Foot Locker,Y
+1319, ,FD,L'OCCITANE EN PROVENCE,Y
+1320, ,FD,Elena Mirò,Y
+1321, ,FD,GEox,Y
+1322, ,FD,Gioielleria Stroili,Y
+1323, ,FD,Yamamay,Y
+1324, ,Arch,Arch,N
+1325, ,Advertising,AD,N
+1326, ,FD,The Ink Well - Stationery and Gifts,Y
+1327, ,FD,Vergelio,N
+1328, ,IT,IT,N
+1329, ,FD,Promod,N
+1330, ,FD,SEPHORA MILANO BUENOS AIRES,Y
+1331, ,IT,WIND,Y
+1332, ,FD,TALLY WEIJL,Y
+1333, ,FD,Cloth,N
+1334, ,FD,Clayton abbigliamento uomo,Y
+1335, ,FD,PittaRosso,Y
+1336, ,Art,Theator,N
+1337, ,Craft,Pandora Concept Store,Y
+1338, ,FD,Kasanova,Y
+1339, ,FD,Bata,Y
+1340, ,Craft,Gioielleria Gagliardi,N
+1341, ,Art,Gallary,N
+1342, ,IT,IT,N
+1343, ,IT,Game,N
+1344, ,FD,Desigual,Y
+1345, ,FD,Camaieu,Y
+1346, ,FD,Yves Rocher,Y
+1347, ,FD,Camper,Y
+1348, ,FD,Parashop Italy Srl,Y
+1349, ,Arch,Arch,N
+1350, ,FD,Mango,Y
+1351, ,FD,Sisley,Y
+1352, ,FD,United Colors of Benetton,Y
+1353, ,Art,Party Magic,N
+1354, ,IT,TTS - Technology Transfer System,N
+1355, ,FD,Pacer,N
+1356, ,Arch,Arch,N
+1357, ,Craft,Craft,N
+1358, ,Film,Camera,N
+1359, ,Music,Music,N
+1360, ,Arch,Arch,N
+1361, ,Art,Grossich Art Supply Store,N
+1362, ,IT,SOFTline,N
+1363, ,Arch,Arch,N
+1364, ,Publish,P,N
+1365, ,Arch,Arch,N
+1366, ,Art,Muesum,N
+1367, ,Film,Camera,N
+1368, ,Craft,Craft,N
+1369, ,Film,Video,N
+1370, ,Arch,Arch,N
+1371, ,Art,Art,N
+1372, ,Music,Music,N
+1373, ,FD,Cloth,N
+1374, ,Craft,Jewel,N
+1375, ,Craft,Bijoux Lina,N
+1376, ,Art,Art,N
+1377, ,Arch,Arch,N
+1378, ,Craft,Lanfossi Gioielli,N
+1379, ,IT,WIND,Y
+1380, ,FD,Profumeria Marionnaud,N
+1381, ,FD,Cloth,N
+1382, ,Advertising,AD,N
+1383, ,Advertising,AD,N
+1384, ,Arch,Arch,N
+1385, ,Art,Design,N
+1386, ,IT,Game,N
+1387, ,FD,Perfume,N
+1388, ,Art,Art,N
+1389, ,Advertising,AD,N
+1390, ,Publish,P,N
+1391, ,Arch,Arch,N
+1392, ,Craft,Craft,N
+1393, ,Art,Art,N
+1394, ,Art,Model,N
+1395, ,Film,Video,N
+1396, ,FD,Cloth,N
+1397, ,Music,Music,N
+1398, ,FD,Facis,N
+1399, ,FD,Cloth,N
+1400, ,Art,Design,N
+1401, ,Arch,Arch,N
+1402, ,IT,IT,N
+1403, ,IT,IT,N
+1404, ,IT,TIM,Y
+1405, ,Craft,Craft,N
+1406, ,Arch,Arch,N
+1407, ,Arch,Arch,N
+1408, ,Craft,Bricocenter,N
+1409, ,IT,IT,N
+1410, ,Craft,Craft,N
+1411, ,IT,Game,N
+1412, ,Art,Art,N
+1413, ,Advertising,AD,N
+1414, ,Art,Theator,N
+1415, ,Advertising,AD,N
+1416, ,Art,Design,N
+1417, ,Art,Dance,N
+1418, ,Film,Photo,N
+1419, ,FD,OVS Outlet,N
+1420, ,Music,Music,N
+1421, ,Craft,C,N
+1422, ,Craft,C,N
+1423, ,Film,Photo,N
+1424, ,IT,TIM,Y
+1425, ,Art,Art,N
+1426, ,Art,Theator,N
+1427, ,FD,Cloth,N
+1428, ,Craft,Craft,N
+1429, ,Craft,Craft,N
+1430, ,FD,Dainese Store Milan,Y
+1431, ,FD,poltronesofà S.p.A.,Y
+1432, ,FD,Perfume,N
+1433, ,Music,Music,N
+1434, ,Film,Photo,N
+1435, ,Film,Photo,N
+1436, ,FD,Cloth,N
+1437, ,Film,Photo,N
+1438, ,Arch,Arch,N
+1439, ,Advertising,AD,N
+1440, ,Art,Design,N
+1441, ,Advertising,AD,N
+1442, ,Arch,Arch,N
+1443, ,Art,Design,N
+1444, ,Art,Design,N
+1445, ,FIlm,Photo,N
+1446, ,Film,Video,N
+1447, ,IT,Software,N
+1448, ,Advertising,AD,N
+1449, ,Art,Theatro,N
+1450, ,Arch,Arch,N
+1451, ,FD,Cloth,N
+1452, ,Advertising,AD,N
+1453, ,FD,Cloth,N
+1454, ,Arch,Arch,N
+1455, ,Music,Music,N
+1456, ,FD,Cloth,N
+1457, ,Art,Art,N
+1458, ,Art,Art,N
+1459, ,FD,Flying Tiger Copenhagen,Y
+1460, ,FD,MAX&Co. Milano Corso XXII Marzo,Y
+1461, ,FD,Intimissimi,N
+1462, ,FD,Yamamay,Y
+1463, ,FD,Libero Milano,Y
+1464, ,IT,Juice Milano 22 Marzo,Y
+1465, ,IT,GameStop,Y
+1466, ,FD,Tezenis,Y
+1467, ,FD,Flea Market Love Milano,Y
+1468, ,Fiilm,Cinema,N
+1469, ,Advertising,Ad,N
+1470, ,Advertising,Ad,N
+1471, ,Arch,Arch,N
+1472, ,Film,Photo,N
+1473, ,FD,Mitsubishi,Y
+1474, ,Art,Art,N
+1475, ,FD,Cloth,N
+1476, ,Art,Dance,N
+1477, ,Advertising,Ad,N
+1478, ,FD,Cloth,N
+1479, ,Art,Design,N
+1480, ,FD,Camiceria Olga,N
+1481, ,IT,IT,N
+1482, ,Publish,P,N
+1483, ,IT,IT,N
+1484, ,Art,Gallary,N
+1485, ,IT,Wetech,N
+1486, ,Art,Design,N
+1487, ,Art,Model,N
+1488, ,Art,Design,N
+1489, ,Craft,Craft,N
+1490, ,FD,HANGAR 107 - Milano,N
+1491, ,IT,IT,N
+1492, ,Arch,Arch,N
+1493, ,Art,Gallary,N
+1494, ,FD,Cloth,N
+1495, ,Art,Theator,N
+1496, ,FD,Cloth,N
+1497, ,FD,Cotton Factory,N
+1498, ,Craft,C,N
+1499, ,Craft,C,N
+1500, ,FD,Lamp,N
+1501, ,FD,Cloth,N
+1502, ,FD,Cloth,N
+1503, ,Film,Photo,N
+1504, ,Craft,C,N
+1505, ,AD,AD,N
+1506, ,Craft,C,N
+1507, ,IT,Vodafone,Y
+1508, ,FD,Cloth,N
+1509, ,Craft,C,N
+1510, ,Music,Music,N
+1511, ,Music,Music,N
+1512, ,Art,Art,N
+1513, ,Art,Dance,N
+1514, ,FD,PUMA Outlet,Y
+1515, ,FD,Cloth,N
+1516, ,Art,Perfome,N
+1517, ,FD,CLM Arredamento,Y
+1518, ,Craft,Sakurasan,N
+1519, ,Craft,C,N
+1520, ,Art,Theator,N
+1521, ,FD,Cloth,N
+1522, ,FD,Cloth,N
+1523, ,FD,Corio 1957,N
+1524, ,Craft,C,N
+1525, ,FD,Glasses,N
+1526, ,AD,AD,N
+1527, ,Art,Gallary,N
+1528, ,Arch,Arch,N
+1529, ,Publish,P,N
+1530, ,FD,Cloth,N
+1531, ,FD,Cloth,N
+1532, ,Music,Music,N
+1533, ,Art,Gallary,N
+1534, ,Publish,P,N
+1535, ,Publish,P,N
+1536, ,IT,IT,N
+1537, ,Music,Music,N
+1538, ,Art,Gallary,N
+1539, ,Art,Gallary,N
+1540, ,Advertising,AD,N
+1541, ,Craft,Craft,N
+1542, ,IT,Software,N
+1543, ,Film,Photo,N
+1544, ,Film,Photo,N
+1545, ,Music,Music,N
+1546, ,Craft,Instrunment,N
+1547, ,Art,Design,N
+1548, ,Craft,Craft,N
+1549, ,Art,Museum,N
+1550, ,Film,Photo,N
+1551, ,Craft,C,N
+1552, ,IT,IT,N
+1553, ,Craft,C,N
+1554, ,IT,IT,N
+1555, ,Music,Music,N
+1556, ,Arch,Arch,N
+1557, ,Music,Music,N
+1558, ,Film,Video,N
+1559, ,Arch,Arch,N
+1560, ,Advertising,AD,N
+1561, ,Advertising,AD,N
+1562, ,Art,Gallary,N
+1563, ,FD,Cloth,N
+1564, ,Art,Art,N
+1565, ,IT,IT,N
+1566, ,FD,Perfume,"N
+"
+1567, ,IT,Game,N
+1568, ,Film,Photo,N
+1569, ,FD,Cloth,N
+1570, ,Film,Video,N
+1571, ,Film,Radio,N
+1572, ,FD,Cloth,N
+1573, ,Art,Art,N
+1574, ,Arch,Arch,N
+1575, ,Art,Gallary,N
+1576, ,Art,Art,N
+1577, ,IT,IT,"N
+"
+1578, ,Art,Design,N
+1579, ,FD,Cloth,N
+1580, ,FD,Cloth,N
+1581, ,Publish,Publish,N
+1582, ,Advertising,AD,N
+1583, ,Advertising,AD,N
+1584, ,Advertising,AD,N
+1585, ,Music,Music,N
+1586, ,Art,Design,N
+1587, ,FD,Cloth,N
+1588, ,Advertising,AD,N
+1589, ,IT,IT,N
+1590, ,IT,Game,N
+1591, ,FD,Cloth,N
+1592, ,IT,TIM,Y
+1593, ,Art,Gallary,N
+1594, ,Art,Gallary,N
+1595, ,FD,Cloth,N
+1596, ,Advertising,AD,N
+1597, ,Arch,Arch,N
+1598, ,Art,Design,N
+1599, ,Art,Gallary,N
+1600, ,Art,Design,N
+1601, ,FD,Milano Contract District,N
+1602, ,Art,Design,N
+1603, ,Art,Gallary,N
+1604, ,FD,Cloth,N
+1605, ,FD,Cloth,N
+1606, ,Film,Video,N
+1607, ,Craft,C,N
+1608, ,FD,Cloth,N
+1609, ,Art,Model,N
+1610, ,Advertising,AD,N
+1611, ,Art,Art,N
+1612, ,Art,Model,N
+1613, ,Art,Art,N
+1614, ,Film,Video,N
+1615, ,Art,Design,N
+1616, ,Craft,C,N
+1617, ,Arch,Arch,N
+1618, ,FD,Kiko,Y
+1619, ,FD,Cloth,N
+1620, ,FD,GANT Store Milano,Y
+1621, ,IT,IT,N
+1622, ,Craft,Antai Riparazione,Y
+1623, ,IT,IT,N
+1624, ,Arch,Arch,N
+1625, ,FD,Cloth,N
+1626, ,Art,Model,N
+1627, ,Advertising,AD,N
+1628, ,IT,IT,N
+1629, ,Craft,C,N
+1630, ,Art,Theator,N
+1631, ,IT,Software,N
+1632, ,FD,Cloth,N
+1633, ,Art,Gallary,N
+1634, ,Art,Design,N
+1635, ,IT,IT,N
+1636, ,Film,Video,N
+1637, ,FD,Dolce&Gabbana,Y
+1638, ,FD,Cloth,N
+1639, ,Advertising,AD,N
+1640, ,FD,Loox Milano,Y
+1641, ,Music,Bassline Music Shop,Y
+1642, ,FD,Spinnaker,Y
+1643, ,Art,Gallary,N
+1644, ,FD,Cloth,N
+1645, ,FD,Dolce & Gabbana,Y
+1646, ,FD,Cloth,N
+1647, ,Film,Video,N
+1648, ,Art,Art,N
+1649, ,FD,Cloth,N
+1650, ,Art,Gallary,N
+1651, ,Craft,C,N
+1652, ,Craft,C,N
+1653, ,FD,BIVIO,Y
+1654, ,Art,Milàn & Antiques Art Gallery,N
+1655, ,FD,HM,Y
+1656, ,FD,Piquadro,N
+1657, ,FD,Nervesa Sartoria Of Europe,Y
+1658, ,FD,Cloth,N
+1659, ,FD,Monry Cuir,N
+1660, ,FD,Città del Sole,N
+1661, ,Art,Gallary,N
+1662, ,IT,TIM,Y
+1663, ,Arch,Arch,N
+1664, ,IT,IT,N
+1665, ,IT,Software,N
+1666, ,Publish,P,N
+1667, ,Art,Museum,N
+1668, ,Art,Gallary,N
+1669, ,Art,Gallary,N
+1670, ,Art,Museum,N
+1671, ,FD,Cloth,N
+1672, ,Art,Design,N
+1673, ,Arch,Arch,N
+1674, ,Publish,P,N
+1675, ,Art,Design,N
+1676, ,FD,Cloth,N
+1677, ,Art,Dance,N
+1678, ,FD,Cloth,N
+1679, ,Art,Design,N
+1680, ,Arch,Arch,N
+1681, ,Arch,Arch,N
+1682, ,Art,Gallary,N
+1683, ,Art,Gallary,N
+1684, ,Advertising,AD,N
+1685, ,FD,Cloth,N
+1686, ,IT,Software,N
+1687, ,FD,Boggi Milano - Temporaneamente Chiuso,Y
+1688, ,FD,Adadis,Y
+1689, ,FD,GrandVision by Avanzi,Y
+1690, ,Craft,SilverX,Y
+1691, ,FD,Flying Tiger Copenhagen,Y
+1692, ,FD,Clarks Milano,Y
+1693, ,FD,Valigeria Canevari,N
+1694, ,FD,Giannetti Giampaolo,N
+1695, ,FD,LA KORE via pecchio 5 Milano,Y
+1696, ,FD,Tiffanys,Y
+1697, ,FD,Game 7 Athletics,Y
+1698, ,FD,Treesse Sport,Y
+1699, ,FD,Original Marines,Y
+1700, ,FD,Miriade,Y
+1701, ,FD,Jaked Store,Y
+1702, ,FD,David Naman,Y
+1703, ,FD,Swatch,Y
+1704, ,FD,Conbipel Spa,Y
+1705, , , , 
+1706, ,FD,Deborah Milano,Y
+1707, ,FD,Tanagra,Y
+1708, ,FD,LUSH,Y
+1709, ,FD,HM,Y
+1710, ,FD,ZARA,Y
+1711, ,FD,John Barritt,Y
+1712, ,FD,Gaudì Store Milano,Y
+1713, ,Art,Gallary,N
+1714, ,Art,Design,N
+1715, ,IT,IT,N
+1716, ,Film,Photo,N
+1717, ,FD,MILAN PRINT TEES,Y
+1718, ,IT,Fuji Digital Printing,N
+1719, ,Film,Photo,N
+1720, ,FD,Zuiki,Y
+1721, ,FD,Coccinelle,N
+1722, ,FD,Walter Calzature,Y
+1723, ,FD,Camicissima,Y
+1724, ,FD,Nadine,Y
+1725, ,FD,NYX Italia,Y
+1726, ,FD,Yamamay,Y
+1727, ,FD,Modern showroom,N
+1728, ,Art,Gallary,N
+1729, ,Craft,Spakka Supply Tattoo and Piercing Shop,Y
+1730, ,FD,Cloth,N
+1731, ,Film,Photo,N
+1732, ,FD,Douglas,Y
+1733, ,FD,MUJI,Y
+1734, ,FD,ZAGO Milano,Y
+1735, ,FD,Nike Store,Y
+1736, ,FD,Carrera Jeans,Y
+1737, ,FD,Havaianas,Y
+1738, ,IT,Fastweb Store,Y
+1739, ,FD,Levi's? Store Milan,Y
+1740, ,Art,Design,N
+1741, ,FD,La Clessidra Orologi,N
+1742, ,IT,Clinic iPhone Milan Buenos Aires,Y
+1743, ,IT,The X-Door Milano,N
+1744, ,FD,Brums corso Buenos Aires,Y
+1745, ,FD,Prénatal,N
+1746, ,FD,VANS Store Milano,Y
+1747, ,FD,Bottega Verde,Y
+1748, ,FD,Motivi,Y
+1749, ,FD,Moleskine Store,Y
+1750, ,FD,Furla Store,Y
+1751, ,FD,Freddy Official Store,Y
+1752, ,FD,Morellato,Y
+1753, ,IT,Vodafone,Y
+1754, ,FD,3INA Flagship Store,Y
+1755, ,FD,Antony Morato,Y
+1756, ,FD,TWINSET,Y
+1757, ,IT,WIND,Y
+1758, ,IT,Software,N
+1759, ,Art,Theator,N
+1760, ,Advertising,AD,N
+1761, ,Art,Music,N
+1762, ,Art,Dance,N
+1763, ,FD,Caddy's,N
+1764, ,IT,TIM,Y
+1765, ,Art,Dance,N
+1766, ,Art,Dance,N
+1767, ,Advertising,AD,N
+1768, ,Music,Music,N
+1769, ,Film,Photo,N
+1770, ,IT,Software,N
+1771, ,Art,Model,N
+1772, ,Film,Photo,N
+1773, ,Advertising,AD,N
+1774, ,Arch,Arch,N
+1775, ,FD,Cloth,Y
+1776, ,Art,Theator,N
+1777, ,Art,Gallary,N
+1778, ,FD,Cloth,N
+1779, ,Art,Theator,N
+1780, ,Advertising,AD,N
+1781, ,Arch,Arch,N
+1782, ,Art,Design,N
+1783, ,IT,IT,N
+1784, ,Advertising,AD,N
+1785, ,Art,Design,N
+1786, ,Art,Design,N
+1787, ,Advertising,AD,N
+1788, ,FD,Buy Watches Milan - Jewelery Workshop,N
+1789, ,IT,Telecom,N
+1790, ,FD,Toy,N
+1791, ,IT,Vodafone,N
+1792, ,IT,IT,N
+1793, ,Advertising,AD,N
+1794, ,FD,Cloth,N
+1795, ,IT,Software,N
+1796, ,Art,Design,N
+1797, ,Craft,Craft,N
+1798, ,Art,Art,N
+1799, ,IT,WIND,Y
+1800, ,Craft,C,N
+1801, ,Art,Gallary,N
+1802, ,FD,Cloth,N
+1803, ,Art,Design,N
+1804, ,Arch,Arch,N
+1805, ,Art,Dance,N
+1806, ,Art,Design,N
+1807, ,Music,M,N
+1808, ,IT,TIM,Y
+1809, ,Art,Dance,N
+1810, ,Craft,C,N
+1811, ,Art,Theator,N
+1812, ,IT,IT,N
+1813, ,IT,Game,N
+1814, ,Arch,Arch,N
+1815, ,Art,Art,N
+1816, ,Arch,Arch,N
+1817, ,Arch,Arch,N
+1818, ,Music,Music,N
+1819, ,Art,Gallary,N
+1820, ,FD,Cloth,N
+1821, ,IT,IT,N
+1822, ,Art,Dance,N
+1823, ,Film,Sky,Y
+1824, ,Arch,Arch,N
+1825, ,Art,Art,N
+1826, ,Craft,Craft,N
+1827, ,IT,IT,N
+1828, ,Arch,Arch,N
+1829, ,Arch,Arch,N
+1830, ,Art,Art,N
+1831, ,Arch,Arch,N
+1832, ,IT,Game,N
+1833, ,FD,Del Mare 1911,N
+1834, ,Art,Gallary,N
+1835, ,FD,Gucci,Y
+1836, ,IT,Game,N
+1837, ,Art,Art,N
+1838, ,Film,Photo,N
+1839, ,Art,Design,N
+1840, ,Arch,Arch,N
+1841, ,FD,Zap Milano Concept Store,Y
+1842, ,IT,IT,N
+1843, ,Craft,Craft,N
+1844, ,Music,Music,N
+1845, ,Arch,Arch,N
+1846, ,Film,Video,N
+1847, ,Film,ega,N
+1848, ,Advertising,AD,N
+1849, ,Art,Art,N
+1850, ,Craft,Craft,N
+1851, ,Film,Radio,N
+1852, ,FD,Cloth,N
+1853, ,Film,Film,N
+1854, ,Art,Art,N
+1855, ,Film,Film,N
+1856, ,Music,Music,N
+1857, ,Film,Radio,N
+1858, ,Craft,Craft,N
+1859, ,Craft,Craft,N
+1860, ,Publish,Publish,N
+1861, ,Music,M,N
+1862, ,IT,BT Italy,Y
+1863, ,FD,Cloth,N
+1864, ,IT,IT,N
+1865, ,Music,Music,N
+1866, ,IT,IT,N
+1867, ,Art,Art,N
+1868, ,Arch,Arch,N
+1869, ,IT,Software,N
+1870, ,Craft,Craft,N
+1871, ,Music,Music,N
+1872, ,Art,Theator,N
+1873, ,Film,Media,N
+1874, ,Art,Exbihition,N
+1875, ,Art,Design,N
+1876, ,IT,Software,N
+1877, ,IT,Software,N
+1878, ,IT,Software,N
+1879, ,"IT
+IT",Software,N
+1880, ,IT,Software,"N
+N
+N"
+1881, ,IT,IT,N
+1882, ,IT,IT,N
+1883, ,Art,Art,N
+1884, ,Art,Art,N
+1885, ,Film,Vedio,N
+1886, ,IT,IT,N
+1887, ,Art,Gallary,N
+1888, ,FD,Cloth,N
+1889, ,Art,Theator,N
+1890, ,Art,Dance,N
+1891, ,Art,Culture,N
+1892, ,IT,Game,N
+1893, ,Art,Art,N
+1894, ,Craft,Perfume,N
+1895, ,Art,Dance,N
+1896, ,FD,Cloth,N
+1897, ,FD,Cloth,N
+1898, ,FD,Cloth,N
+1899, ,FD,Cloth,N
+1900, ,IT,IT,N
+1901, ,Art,Art,N
+1902, ,FD,Cloth,N
+1903, ,Art,Cloth,N
+1904, ,Art,Dance,N
+1905, ,FD,Design,N
+1906, ,FD,Design,N
+1907, ,FD,LVMH Italy,N
+1908, ,FD,Perfume,N
+1909, ,FD,The People'S,Y
+1910, ,Craft,Nexteria,Y
+1911, ,IT,IT,N
+1912, ,Publish,Publish,N
+1913, ,IT,Design,N
+1914, ,IT,TIM,N
+1915, ,Art,Dance,N
+1916, ,IT,Game,N
+1917, ,IT,Software,N
+1918, ,Art,Model,N
+1919, ,Film,Media,N
+1920, ,FD,Cloth,N
+1921, ,FD,Cloth,N
+1922, ,Craft,HANGAR 107,N
+1923, ,Advertising,AD,N
+1924, ,Advertising,AD,N
+1925, ,Art,Design,N
+1926, ,Craft,Craft,N
+1927, ,Advertising,AD,N
+1928, ,Art,Model,N
+1929, ,Art,Design,N
+1930, ,Advertising,AD,N
+1931, ,Art,Perfome,N
+1932, ,FD,Cloth,N
+1933, ,IT,Software,N
+1934, ,Publish,Publish,N
+1935, ,Arch,Arch,N
+1936, ,Advertising,AD,N
+1937, ,Advertising,AD,N
+1938, ,IT,IT,N
+1939, ,Arch,Arch,N
+1940, ,Advertising,AD,N
+1941, ,FD,BMW,N
+1942, ,Art,Theator,N
+1943, ,Advertising,AD,N
+1944, ,IT,IT,N
+1945, ,Advertising,AD,N
+1946, ,Art,Art,N
+1947, ,IT,IT,N
+1948, ,Art,Theator,N
+1949, ,Art,Medel,N
+1950, ,Art,Theator,N
+1951, ,FD,LINKE,N
+1952, ,Film,Video,N
+1953, ,IT,Game,N
+1954, ,IT,IT,N
+1955, ,Film,Video,N
+1956, ,FD,Cloth,N
+1957, ,Art,Art,N
+1958, ,Art,Gallary,N
+1959, ,Publish,Publish,N
+1960, ,Arch,Arch,N
+1961, ,Art,Gallary,N
+1962, ,Art,Art,N
+1963, ,Adversing,AD,N
+1964, ,Art,Design,N
+1965, ,Art,Gallary,N
+1966, ,Advertising,AD,N
+1967, ,Art,Theator,N
+1968, ,IT,TIM,Y
+1969, ,Music,Music,N
+1970, ,Art,Theator,N
+1971, ,Art,Theator,N
+1972, ,Art,Theator,N
+1973, ,Craft,Craft,N
+1974, ,FD,Design,N
+1975, ,Film,Video,N
+1976, ,Art,Dance,N
+1977, ,IT,IT,N
+1978, ,Art,Dance,N
+1979, ,Film,CROSS + STUDIO studio rental photo,Y
+1980, ,Music,Music,N
+1981, ,Art,Dance,N
+1982, ,Film,Video,N
+1983, ,Arch,Arch,N
+1984, ,FD,Biffi Watches,Y
+1985, ,IT,Game,N
+1986, ,FD,Craft,N
+1987, ,Film,Photo,N
+1988, ,Art,Dance,N
+1989, ,IT,Software,N
+1990, ,IT,NTT DATA,Y
+1991, ,IT,IT,N
+1992, ,IT,Software,N
+1993, ,Advertising,AD,N
+1994, ,IT,IT,N
+1995, ,FD,Cloth,N
+1996, ,Advertising,AD,N
+1997, ,Art,Dance,N
+1998, ,Art,Art,N
+1999, ,Craft,C,N
+2000, ,IT,TIM,Y
+2001, ,IT,IT,N
+2002, ,Film,Photo,N
+2003, ,Film,Photo,N
+2004, ,Music,Music,N
+2005, ,Art,Art,N
+2006, ,Film,Photo,N
+2007, ,Art,Art,N
+2008, ,Music,Music,N
+2009, ,Art,Dance,N
+2010, ,Film,Photo,N
+2011, ,Arch,Arch,N
+2012, ,Music,INstrunment,N
+2013, ,Art,Design,N
+2014, ,Art,Gallary,N
+2015, ,Arch,Arch,N
+2016, ,Arch,Arch,N
+2017, ,FD,Cloth,N
+2018, ,Art,Design,N
+2019, ,Art,Design,N
+2020, ,Music,Music,N
+2021, ,FD,Cloth,N
+2022, ,FD,Cloth,N
+2023, ,IT,IT,"N
+N"
+2024, ,Art,Dance,N
+2025, ,IT,Software,N
+2026, ,FD,Cloth,N
+2027, ,Art,Art,N
+2028, ,Advertising,AD,N
+2029, ,Advertising,AD,N
+2030, ,Art,Gallary,N
+2031, ,FD,Cloth,N
+2032, ,Film,Photo,N
+2033, ,Art,Art,N
+2034, ,IT,3 Store Viale Bligny,Y
+2035, ,Publish,Publish,N
+2036, ,FD,Cloth,N
+2037, ,Art,Dance,N
+2038, ,Arch,Arch,N
+2039, ,Publish,Publish,N
+2040, ,Art,Theator,N
+2041, ,IT,WIND,Y
+2042, ,Advertising,AD,N
+2043, ,IT,IT,N
+2044, ,Arch,Arch,N
+2045, ,Film,Video,N
+2046, ,Craft,Craft,N
+2047, ,Film,Photo,N
+2048, ,Music,M,N
+2049, ,Publish,Publish,N
+2050, ,Art,Theator,N
+2051, ,Music,Ins,N
+2052, ,Art,Theator,N
+2053, ,Craft,Fontana Milano 1915,N
+2054, ,Art,Model,N
+2055, ,FD,Cloth,N
+2056, ,Film,Comedy,N
+2057, ,Arch,Arch,N
+2058, ,Advertising,AD,N
+2059, ,Arch,Arch,N
+2060, ,Art,Gallary,N
+2061, ,Arch,Arch,N
+2062, ,IT,IT,N
+2063, ,Craft,Jewel,N
+2064, ,IT,Software,N
+2065, ,FD,Leone 1947 OFFICIAL STORE,Y
+2066, ,FD,Cloth,N
+2067, ,FD,Cloth,N
+2068, ,FD,Cloth,N
+2069, ,Art,Dance,N
+2070, ,Craft,Perfume,N
+2071, ,Craft,Lillapois,Y
+2072, ,Art,Gallary,N
+2073, ,Craft,Watch,N
+2074, ,FD,Cloth,N
+2075, ,FD,Cloth,N
+2076, ,Film,Photo,N
+2077, ,Art,Design,N
+2078, ,Art,Magic,N
+2079, ,Art,Gallary,N
+2080, ,Art,Gallary,N
+2081, ,Advertising,AD,N
+2082, ,IT,Game,N
+2083, ,FD,Cloth,N
+2084, ,FD,Cloth,N
+2085, ,FD,Cloth,N
+2086, ,Publish,P,N
+2087, ,Art,Design,N
+2088, ,Arch,Arch,N
+2089, ,Art,Art,N
+2090, ,Craft,Craft,N
+2091, ,FD,PANTAMAN,Y
+2092, ,Arch,Arch,N
+2093, ,FD,Cloth,N
+2094, ,Craft,Perfume,N
+2095, ,FD,Anne Marie Milano,Y
+2096, ,FD,FD,N
+2097, ,Craft,Douglas,Y
+2098, ,Arch,Arch,N
+2099, ,FD,Cloth,N
+2100, ,FD,Cloth,N
+2101, ,IT,Vodafone,Y
+2102, ,Art,Model,N
+2103, ,IT,Game,N
+2104, ,Advertising,AD,N
+2105, ,Arch,A,N
+2106, ,Arch,A,N
+2107, ,Craft,Watch,N
+2108, ,IT,TIM,Y
+2109, ,Art,Theator,N
+2110, ,FD,Cloth,N
+2111, ,Art,Museum,N
+2112, ,Arch,Arch,N
+2113, ,Art,Gallary,N
+2114, ,Arch,Arch,N
+2115, ,IT,TIM,Y
+2116, ,Craft,Bazar del Naviglio Grande,Y
+2117, ,IT,Software,N
+2118, ,IT,IT,N
+2119, ,IT,SIA S.p.A.,Y
+2120, ,IT,Vodafone,y
+2121, ,IT,Vodafone,Y
+2122, ,IT,Huawei,Y
+2123, ,IT,Software,N
+2124, ,IT,IT,N
+2125, ,Advertising,AD,N
+2126, , , , 
+2127, ,IT,Game,N
+2128, ,Music,Music,N
+2129, ,Art,Museum,N
+2130, ,IT,WIND,Y
+2131, ,IT,Software,N
+2132, ,IT,Software,N
+2133, ,IT,WIND,Y
+2134, ,FD,Cloth,N
+2135, ,Art,Design,N
+2136, ,IT,IT,N
+2137, ,Music,Music,N
+2138, ,Art,Dance,N
+2139, ,Art,Dance,N
+2140, ,Film,Video,N
+2141, ,Music,Music,N
+2142, ,FIlm,Photo,N
+2143, ,Art,Funside Milano,Y
+2144, ,Advertising,AD,N
+2145, ,Art,Design,N
+2146, ,Film,Photo,N
+2147, ,IT,Game,N
+2148, ,Arch,Arch,N
+2149, ,Arch,Arch,N
+2150, ,Art,Art,N
+2151, ,IT,IT,N
+2152, ,Art,Dance,N
+2153, ,IT,IT,N
+2154, ,Art,Gallary,N
+2155, ,Art,Theator,N
+2156, ,Art,Dance,N
+2157, ,IT,Software,N
+2158, ,IT,Software,N
+2159, ,Art,Theator,N
+2160, ,Arch,Arch,N
+2161, ,Arch,Arch,N
+2162, ,Music,Music,N
+2163, ,Music,Music,N
+2164, ,Art,Gallary,N
+2165, ,Arch,Arch,N
+2166, ,Art,Design,N
+2167, ,Music,Music,N
+2168, ,Art,Design,N
+2169, ,Art,Design,N
+2170, ,Art,Dance,N
+2171, ,Music,Music,N
+2172, ,Craft,Toy,N
+2173, ,Film,Photo,N
+2174, ,Art,Theator,N
+2175, ,FD,Cloth,N
+2176, ,IT,IT,N
+2177, ,IT,COM,N
+2178, ,IT,COM,N
+2179, ,IT,COM,N
+2180, ,IT,Software,N
+2181, ,IT,Software,N
+2182, ,IT,COM,N
+2183, ,IT,IT,N
+2184, ,IT,COM,N
+2185, ,IT,COM,N
+2186, ,Craft,Bricocenter,Y
+2187, ,Advertising,AD,N
+2188, ,IT,Software,N
+2189, ,Art,Dance,N
+2190, ,Art,Dance,N
+2191, ,IT,IT,N
+2192, ,Music,Music,N
+2193, ,Music,School,N
+2194, ,IT,IT,N
+2195, ,Arch,Arch,N
+2196, ,Art,Model,N
+2197, ,Craft,Craft,N
+2198, ,IT,Software,N
+2199, ,Art,Dance,N
+2200, ,Art,Design,N
+2201, ,Art,Dance,"N
+"
+2202, ,Advertising,AD,N
+2203, ,Advertising,AD,N
+2204, ,FD,Kia,Y
+2205, ,IT,Game,N
+2206, ,FD,Cloth,N
+2207, ,Music,Music,N
+2208, ,Art,Theator,N
+2209, ,Arch,Arch,N
+2210, ,FD,Cloth,N
+2211, ,Music,Music,N
+2212, ,IT,IT,N
+2213, ,Advertising,AD,N
+2214, ,Advertising,AD,N
+2215, ,Music,Music,N
+2216, ,Art,Theator,N
+2217, ,Art,Theator,N
+2218, ,FD,Make up,N
+2219, ,FD,Forever Living Products,Y
+2220, ,FD,Cloth,N
+2221, ,Film,Photo,N
+2222, ,Art,Design,N
+2223, ,FD,Cloth,N
+2224, ,Craft,Craft,N
+2225, ,IT,Game,N
+2226, ,Publish,P,N
+2227, ,Film,Cinema,N
+2228, ,FD,Cloth,N
+2229, ,Publish,P,N
+2230, ,IT,IT,N
+2231, ,Art,Gallary,N
+2232, ,Arch,Arch,N
+2233, ,IT,IT,N
+2234, ,Art,Design,N
+2235, ,Advertising,AD,N
+2236, ,Art,Gallary,N
+2237, ,Advertising,AD,N
+2238, ,IT,Moblle,N
+2239, ,Advertising,AD,N
+2240, ,Art,Design,N
+2241, ,Art,Model,N
+2242, ,Art,Design,N
+2243, ,Film,Photo,N
+2244, ,FD,Cloth,N
+2245, ,Arch,Arch,N
+2246, ,FD,Cloth,N
+2247, ,Advertising,AD,N
+2248, ,FD,Cloth,N
+2249, ,FD,Cloth,N
+2250, ,Advertising,AD,N
+2251, ,Film,Radio,N
+2252, ,FD,Cloth,N
+2253, ,IT,WIND,Y
+2254, ,Craft,Craft,N
+2255, ,FD,Cloth,N
+2256, ,Music,Ins,N
+2257, ,Craft,Craft,N
+2258, ,Craft,Craft,N
+2259, ,FD,Cloth,N
+2260, ,Craft,Perfume,N
+2261, ,Art,Theator,N
+2262, ,Craft,C,N
+2263, ,IT,Mobile,N
+2264, ,Art,Design,N
+2265, ,IT,IT,N
+2266, ,Arch,Arch,N
+2267, ,Publish,P,N
+2268, ,IT,IT,N
+2269, ,FD,Cloth,N
+2270, ,Art,Model,N
+2271, ,Music,M,N
+2272, ,Advertising,AD,N
+2273, ,Arch,Arch,N
+2274, ,Film,Video,N
+2275, ,FD,Insegne Milano Carda 1972,N
+2276, ,Craft,Craft,N
+2277, ,Music,M,N
+2278, ,FD,Cloth,N
+2279, ,Art,Model,N
+2280, ,Film,Video,N
+2281, ,FD,Cloth,N
+2282, ,FD,Cloth,N
+2283, ,Advertising,AD,N
+2284, ,FD,Cloth,N
+2285, ,Arch,Arch,N
+2286, ,Advertising,AD,N
+2287, ,Art,Design,N
+2288, ,IT,Mobile,N
+2289, ,FD,Suitcases de Angeli,N
+2290, ,IT,TIM,Y
+2291, ,Art,Art,N
+2292, ,Film,Video,N
+2293, ,Art,Design,N
+2294, ,Arch,Arch,N
+2295, ,Advertising,AD,N
+2296, ,Arch,Arch,N
+2297, ,Publish,P,N
+2298, ,FD,Cloth,N
+2299, ,Publish,P,N
+2300, ,Music,Music,N
+2301, ,Arch,Arch,N
+2302, ,Arch,Arch,N
+2303, ,Music,Music,N
+2304, ,Art,Design,N
+2305, ,Art,Dance,N
+2306, ,Advertising,AD,N
+2307, ,Advertising,AD,N
+2308, ,Art,Design,N
+2309, ,Publish,P,N
+2310, ,Film,Photo,N
+2311, ,Music,Music,N
+2312, ,Advertising,AD,N
+2313, ,FD,Piazzaffari Shopping club,N
+2314, ,Arch,Arch,N
+2315, ,Advertising,AD,N
+2316, ,IT,IT,N
+2317, ,Art,Art,N
+2318, ,IT,Mobile,N
+2319, ,Craft,C,N
+2320, ,Film,Radio,N
+2321, ,Art,Art,N
+2322, ,Art,Museum,N
+2323, ,Film,News,N
+2324, ,Advertising,AD,N
+2325, ,FD,Longoni Sport Milano Arona,Y
+2326, ,Craft,C,N
+2327, ,IT,Software,N
+2328, ,FD,Cloth,N
+2329, ,FD,Cloth,N
+2330, ,Advertising,AD,N
+2331, ,IT,Game,N
+2332, ,Film,Photo,N
+2333, ,Art,Dance,N
+2334, ,Music,M,N
+2335, ,IT,IT,N
+2336, ,IT,IT,N
+2337, ,Arch,Arch,N
+2338, ,Arch,A,N
+2339, ,Publish,Il Sole 24 Ore,Y
+2340, ,Film,Radio,N
+2341, ,Art,Comedy,N
+2342, ,Craft,Craft,N
+2343, ,Publish,P,N
+2344, ,Arch,Arch,N
+2345, ,FD,Cloth,N
+2346, ,FD,Cloth,N
+2347, ,Publish,P,N
+2348, ,Film,Video,N
+2349, ,Music,Musci,N
+2350, ,Art,Gallary,N
+2351, ,Craft,C,"N
+"
+2352, ,Craft,C,N
+2353, ,Art,Design,N
+2354, ,Craft,C,N
+2355, ,Arch,Arch,N
+2356, ,Music,Music,N
+2357, ,Art,Dance,N
+2358, ,IT,IT,N
+2359, ,Art,Exbihition,N
+2360, ,Art,Exbihition,N
+2361, ,Art,Exbihition,N
+2362, ,Art,Exbihition,N
+2363, ,Art,Exbihition,N
+2364, ,Art,Exbihition,N
+2365, ,Art,Activity,N
+2366, ,FD,Camicissima,N
+2367, ,FD,Kiko,Y
+2368, ,IT,Vodafone,Y
+2369, ,FD,Levi's,Y
+2370, ,FD,Imperial Fashion,Y
+2371, ,FD,VistaSì,Y
+2372, ,FD,Geox,Y
+2373, ,FD,ZARA,Y
+2374, ,FD,Cloth,N
+2375, ,FD,TALLY WEiJL,Y
+2376, ,FD,ZARA,Y
+2377, ,FD,North Sails Portello,Y
+2378, ,FD,Bottega Verde,Y
+2379, ,FD,Cloth,N
+2380, ,FD,Yamamay,Y
+2381, ,FD,Goldenpoint,Y
+2382, ,IT,Camera,N
+2383, ,FD,Cloth,N
+2384, ,FD,MAX&Co.,Y
+2385, ,FD,Douglas,Y
+2386, ,FD,Oltre,Y
+2387, ,FD,Accessorize,Y
+2388, ,Craft,Swarovski,Y
+2389, ,FD,Guess,Y
+2390, ,FD,Cloth,N
+2391, ,Craft,Kaidor Gioiellerie,Y
+2392, ,FD,HM,Y
+2393, ,Craft,Corner Dodo Coin City Life,Y
+2394, ,FD,AnnaRita N,Y
+2395, ,FD,OVS,Y
+2396, ,FD,Beatrice B,Y
+2397, ,FD,Coin Excelsior,Y
+2398, ,FD,SABON,Y
+2399, ,FD,Levi's? Store Milano City Life,Y
+2400, ,FD,Moleskine Store,Y
+2401, ,FD,Superdry,Y
+2402, ,FD,MAX&Co.,Y
+2403, ,FD,Ray-Ban Store,Y
+2404, ,FD,Imperial,Y
+2405, ,FD,Accessorize,Y
+2406, ,Art,Cinema,N
+2407, ,FD,Nashi Salon CityLife,Y
+2408, ,IT,Dyson Demo Store,Y
+2409, ,FD,Habitat,Y
+2410, ,FD,Democracy Design,Y
+2411, ,IT,Huawei,Y
+2412, ,Arch,Disign,N
+2413, ,FD,Tognana,Y
+2414, ,IT,DJI,Y
+2415, ,FD,Guess,Y
+2416, ,FD,Cloth,N
+2417, ,IT,Game,N
+2418, ,FD,Omai | C/C Citylife,Y
+2419, ,FD,Desiree,Y
+2420, ,FD,Nespresso,Y
+2421, ,FD,dm Italia,Y
+2422, ,Craft,Must,Y
+2423, ,FD,Beatrice B,Y
+2424, ,FD,Valerio 1966,Y
+2425, ,FD,JackJones,Y
+2426, ,FD,Tonali,Y
+2427, ,FD,Foot Locker,Y
+2428, ,IT,Apple,Y
+2429, ,FD,Gioielleria Stroili,Y
+2430, ,FD,CALVIN KLEIN JEANS,Y
+2431, ,Craft,Pandora,Y
+2432, ,FD,Jaked,Y
+2433, ,FD,Timberland,Y
+2434, ,FD,Snipes,Y
+2435, ,FD,Adele Altaman,Y
+2436, ,IT,IT,N
+2437, ,Art,Model,N
+2438, ,IT,IT,N
+2439, ,Advertising,AD,N
+2440, ,Art,Theator,N
+2441, ,Art,Model,N
+2442, ,IT,IT,N
+2443, ,Craft,Craft,N
+2444, ,FD,Le SAC outlet,Y
+2445, ,FD,Cloth,N
+2446, ,Music,Music,N
+2447, ,IT,IT,N
+2448, ,Film,Photo,N
+2449, ,Craft,Craft,N
+2450, ,FD,Rucker Park Basketball Store,Y
+2451, ,Craft,Craft,N
+2452, ,Art,Cinema,N
+2453, ,IT,IT,N
+2454, ,Advertising,AD,N
+2455, ,Publish,"P
+P",N
+2456, ,Publish,P,N
+2457, ,Craft,C,N
+2458, ,Art,Gallary,N
+2459, ,Advertising,AD,N
+2460, ,Arch,Arch,N
+2461, ,Film,Video,N
+2462, ,Arch,Arch,N
+2463, ,Arch,Arch,N
+2464, ,Music,Music,N
+2465, ,Art,Dance,N
+2466, ,Advertising,AD,N
+2467, ,Arch,Arch,N
+2468, ,Art,Design,N
+2469, ,Music,Music,N
+2470, ,Film,Cinema,N
+2471, ,Publish,P,N
+2472, ,Craft,C,N
+2473, ,Film,Photo,N
+2474, ,FD,Selfservice,N
+2475, ,Craft,C,N
+2476, ,Music,Music,N
+2477, ,Film,Video,N
+2478, ,Art,Model,Y
+2479, ,Publish,P,N
+2480, ,Filim,Video,N
+2481, ,FD,Ctaft,N
+2482, ,Art,Model,Y
+2483, ,Advertising,AD,N
+2484, ,Film,TV,N
+2485, ,FD,Cloth,N
+2486, ,FD,Cloth,N
+2487, ,Film,VIdeo,N
+2488, ,Film,Photo,N
+2489, ,Film,Photo,N
+2490, ,Craft,Toy,N
+2491, ,FD,Ipersoap,Y
+2492, ,FD,Occhiali Pelo dal 1930,N
+2493, ,Advertising,AD,N
+2494, ,FD,Cloth,N
+2495, ,Craft,Jewel,N
+2496, ,FD,DOPPELG?NGER,Y
+2497, ,FD,Daniel & Mayer,Y
+2498, ,FD,JOHNSON FITNESS STORE,Y
+2499, ,IT,Game,N
+2500, ,Art,Design,N
+2501, ,IT,Game,N
+2502, ,FD,Nove25 Milano,Y
+2503, ,Art,Design,N
+2504, ,FD,Walter Calzature,Y
+2505, ,Craft,io e Meg,N
+2506, ,Art,Model,N
+2507, ,FD,Max Mara,Y
+2508, ,Art,Gallary,N
+2509, ,IT,WIND,Y
+2510, ,FD,Gant Store Milano,Y
+2511, ,Craft,DEXTER Milano,Y
+2512, ,FD,Conbipel Spa,Y
+2513, ,FD,Yamamay,Y
+2514, ,IT,Vodafone,Y
+2515, ,Arch,Arch,N
+2516, ,FD,Christies,N
+2517, ,FD,SEPHORA MILANO,Y
+2518, ,FD,Matias fashion Outlet,Y
+2519, ,IT,Trony,Y
+2520, ,Publish,Publish,N
+2521, ,FD,Levi’s,Y
+2522, ,Craft,THUN Shop Milano Wagner,Y
+2523, ,Art,Gallary,N
+2524, ,FD,Oud Milano,Y
+2525, ,FD,Cardinale scarpe,N
+2526, ,FD,Belfiore Footwear Artisan since 1953,Y
+2527, ,FD,Subdued,Y
+2528, ,FD,Libero,Y
+2529, ,Craft,Jewel,N
+2530, ,Craft,Idea Oro,N
+2531, ,Arch,Arch,N
+2532, ,Film,Photo,N
+2533, ,Art,Gallary,N
+2534, ,Advertising,AD,N
+2535, ,Music,Music,N
+2536, ,Craft,Giocheria Centro Toys,N
+2537, ,Publish,P,N
+2538, ,FD,Nonostante Marras,N
+2539, ,Advertising,AD,N
+2540, ,Art,Design,N
+2541, ,Art,Perfome,N
+2542, ,Art,Design,N
+2543, ,IT,IT,N
+2544, ,FD,Fendi Showroom,Y
+2545, ,Art,Museum,N
+2546, ,Art,Design,N
+2547, ,FD,Empatica,N
+2548, ,Art,Gallary,N
+2549, ,Art,Model,N
+2550, ,FD,Cloth,N
+2551, ,FD,Moooi Presentation,Y
+2552, ,FD,Sportswear Company,Y
+2553, ,Arch,Arch,N
+2554, ,FD,Perfumery Nardino Marinella,Y
+2555, ,Advertising,AD,N
+2556, ,Arch,Arch,N
+2557, ,FD,WOVO,Y
+2558, ,FD,Cloth,N
+2559, ,IT,Software,N
+2560, ,IT,Museum,N
+2561, ,Art,Mudec,N
+2562, ,FD,Design,N
+2563, ,FD,Cloth,N
+2564, ,Art,sgamo showroom,N
+2565, ,Art,Design,N
+2566, ,FD,Cloth,N
+2567, ,Art,Gallary,N
+2568, ,Art,Museum,N
+2569, ,Art,Design,N
+2570, ,IT,Mobile,N
+2571, ,Art,Dance,N
+2572, ,FD,Panpepato,N
+2573, ,Craft,The Time Lords,Y
+2574, ,Music,Music,N
+2575, ,FD,Cloth,N
+2576, ,IT,Software,N
+2577, ,FD,Cloth,N
+2578, ,Craft,Finest Lady,N
+2579, ,FD,Camiceria GENTILI,N
+2580, ,IT,IT,N
+2581, ,IT,Vodafone,Y
+2582, ,Art,Cinema,N
+2583, ,FD,Dama S.r.l.,Y
+2584, ,FD,Ferretti 1922,Y
+2585, ,Film,Photo,N
+2586, ,IT,IT,"n
+N"
+2587, ,Arch,Arch,N
+2588, ,Film,VIdeo,N
+2589, ,Art,Art,N
+2590, ,Advertising,AD,N
+2591, ,Arch,Arch,N
+2592, ,FD,IKEAtemporary,Y
+2593, ,IT,IT,N
+2594, ,Art,Art,N
+2595, ,Advertising,AD,N
+2596, ,Art,Design,N
+2597, ,Music,The Discomane Snc,N
+2598, ,FD,Cloth,N
+2599, ,Art,Gallary,N
+2600, ,FD,SUN68 - MILAN NAVIGLI,Y
+2601, ,FD,Cloth,N
+2602, ,Craft,Craft,N
+2603, ,Arch,Arch,N
+2604, ,Art,Model,N
+2605, ,Art,Model,N
+2606, ,FD,Design,N
+2607, ,Film,Photo,N
+2608, ,Art,Theator,N
+2609, ,IT,IT,N
+2610, ,Art,Model,N
+2611, ,Art,Design,N
+2612, ,FD,Cloth,N
+2613, ,FD,DMAG outlet,Y
+2614, ,Art,Design,N
+2615, ,Film,Photo,N
+2616, ,Film,Photo,N
+2617, ,Art,Gallary,N
+2618, ,FD,SPACE SIMONA CORSELLINI,N
+2619, ,Art,Model,N
+2620, ,Art,Design,N
+2621, ,Film,Video,N
+2622, ,Art,Design,N
+2623, ,Art,Model,N
+2624, ,Art,Design,N
+2625, ,Arch,Arch,N
+2626, ,Art,Gallary,N
+2627, ,Arch,Arch,N
+2628, ,FD,Cloth,N
+2629, ,Craft,Jewel,N
+2630, ,Advertising,AD,N
+2631, ,Art,Design,N
+2632, ,Art,Design,N
+2633, ,Art,Gallary,N
+2634, ,FD,Cloth,N
+2635, ,Advertising,AD,N
+2636, ,Music,Music,N
+2637, ,Art,Design,N
+2638, ,Art,Gallary,N
+2639, ,Art,Dance,N
+2640, ,IT,IT,N
+2641, ,Music,Music,N
+2642, ,IT,IT,N
+2643, ,Film,Video,N
+2644, ,IT,IT,N
+2645, ,Film,Video,N
+2646, ,FD,Douglas,Y
+2647, ,IT,TIM,Y
+2648, ,Art,Model,N
+2649, ,IT,IT,N
+2650, ,Film,Video,N
+2651, ,Film,VIdeo,N
+2652, ,IT,WIND,Y
+2653, ,Advertising,AD,N
+2654, ,Art,Dance,N
+2655, ,Film,VIdeo,N
+2656, ,Art,Design,N
+2657, ,IT,IT,N
+2658, ,IT,IT,N
+2659, ,Craft,C,N
+2660, ,IT,IT,N
+2661, ,Film,Radio,N
+2662, ,IT,Software,N
+2663, ,Publish,Publish,N
+2664, ,IT,IT,N
+2665, ,IT,IT,N
+2666, ,Arch,Arch,N
+2667, ,Art,Museum,N
+2668, ,Art,Design,N
+2669, ,IT,WIND,Y
+2670, ,Art,Museum/expo,Y
+2671, ,IT,IT,N
+2672, ,Advertising,AD,N
+2673, ,IT,IT,N
+2674, ,Publish,P,N
+2675, ,Film,Photo,N
+2676, ,IT,Software,N
+2677, ,Film,Cinema,N
+2678, ,FD,Centro Porsche Milano Nord,Y
+2679, ,Art,Game,N
+2680, ,Music,Music,N
+2681, ,Art,Art,N
+2682, ,Art,Gallary,N
+2683, ,Craft,IperSoap,Y
+2684, ,Arch,Arch,N
+2685, ,IT,IT,N
+2686, ,Arch,Arch,N
+2687, ,Art,Theator,N
+2688, ,Arch,Arch,N
+2689, ,IT,IT,N
+2690, ,IT,Software,N
+2691, ,FD,PittaRosso,Y
+2692, ,IT,IT,N
+2693, ,Art,Theator,N
+2694, ,Music,Theator,N
+2695, ,IT,Software,N
+2696, ,IT,Vodafone,Y
+2697, ,IT,WIND,Y
+2698, ,FD,Scarpe&Scarpe,Y
+2699, ,FD,Foot Locker,Y
+2700, ,FD,NAU,Y
+2701, ,FD,KASANOVA,Y
+2702, ,Film,Movie,N
+2703, ,FD,Boschini,N
+2704, ,FD,Joyè,Y
+2705, ,FD,OVS,Y
+2706, ,FD,Gioielli Di Valenza,N
+2707, ,IT,WIND,Y
+2708, ,Craft,Stroili,Y
+2709, ,Film,Photo/Presto Service,Y
+2710, ,IT,TIM,Y
+2711, ,Art,Design,N
+2712, ,FD,Fiorella Rubino,Y
+2713, ,FD,HM,Y
+2714, ,Arch,Arch,N
+2715, ,Art,Dance,N
+2716, ,Art,Museum,N
+2717, ,Art,Dance,N
+2718, ,Art,Theator,N
+2719, ,IT,IT,N
+2720, ,FD,Cloth,N
+2721, ,Film,VIdeo,N
+2722, ,IT,IT,N
+2723, ,Film,Photo,N
+2724, ,Art,Dance,N
+2725, ,Art,Design,N
+2726, ,Music,Music,N
+2727, ,FD,Cloth,N
+2728, ,Art,Dance,N
+2729, ,Art,Theator,N
+2730, ,Art,Gallary,N
+2731, ,Art,Theator,N
+2732, ,Art,Theator,N
+2733, ,IT,WIND,Y
+2734, ,Music,Music,N
+2735, ,Music,Music,N
+2736, ,Art,Dance,N
+2737, ,Advertising,AD,N
+2738, ,Art,Theator,N
+2739, ,Publish,Publish,N
+2740, ,Art,Dance,N
+2741, ,Arch,Arch,N
+2742, ,Arch,Arch,N
+2743, ,Film,Video,N
+2744, ,FD,Fiorella Rubino,Y
+2745, ,IT,WIND,Y
+2746, ,FD,Black Station,N
+2747, ,Film,Video,N
+2748, ,IT,IT,N
+2749, ,Film,Photo,N
+2750, ,FD,Cloth,N
+2751, ,Art,Design,N
+2752, ,Arch,Arch,N
+2753, ,FD,Olly Market,N
+2754, ,IT,TIM,Y
+2755, ,FD,PRIMIGI IGI&CO Store,Y
+2756, ,Music,Music,N
+2757, ,IT,Software,N
+2758, ,Art,Design,N
+2759, ,Advertising,AD,N
+2760, ,IT,IT,N
+2761, ,Art,Dance,N
+2762, ,FD,Mirror,Y
+2763, ,FD,Promenade,Y
+2764, ,FD,Desiré,Y
+2765, ,FD,Stella Z,N
+2766, ,FD,Conbipel,Y
+2767, ,FD,Swarovski,Y
+2768, ,FD,Yamamay,Y
+2769, ,FD,Distinto Del Zoppo,Y
+2770, ,FD,Eurobijoux,Y
+2771, ,FD,Marionnaud,Y
+2772, ,FD,Conte of Florence,Y
+2773, ,IT,Game,N
+2774, ,FD,Histoire D'Or,Y
+2775, ,FD,United Colors of Benetton,Y
+2776, ,FD,Un Jour Ailleurs,N
+2777, ,FD,Foot Locker,Y
+2778, ,FD,Promod,Y
+2779, ,FD,Bialetti,Y
+2780, ,FD,Goldenpoint,Y
+2781, ,FD,Kasanova,Y
+2782, ,FD,Pimkie,Y
+2783, ,Craft,Bijou Brigitte,Y
+2784, ,IT,WIND,Y
+2785, ,FD,Bershka,Y
+2786, ,FD,celio,Y
+2787, ,FD,Yves Rocher,Y
+2788, ,IT,Vodafone,Y
+2789, ,IT,3 Store,N
+2790, ,Music,Metropolis Dischi,Y
+2791, ,IT,Game,N
+2792, ,Music,Music,N
+2793, ,IT,Software,N
+2794, ,Craft,Rota Aldo S.a.s,Y
+2795, ,Arch,Arch,N
+2796, ,Music,Musical Instruments Palma,Y
+2797, ,Craft,Craft,N
+2798, ,Publish,P,N
+2799, ,FD,Cosplay,N
+2800, ,Art,Theator,N
+2801, ,Art,Design,N
+2802, ,Art,Design,N
+2803, ,IT,Samsung Smart Home,Y
+2804, ,Art,Museum,N
+2805, ,FD,WOMO,Y
+2806, ,FD,Le Spose di Milano,Y
+2807, ,Art,Gallary,N
+2808, ,IT,Software,N
+2809, ,IT,IT,N
+2810, ,Arch,Arch,N
+2811, ,IT,Amazon Italy,Y
+2812, ,Art,Gallary,N
+2813, ,FD,Shoes... No-Box,Y
+2814, ,Publish,P,N
+2815, ,IT,Microsoft,Y
+2816, ,IT,Vodafone,Y
+2817, ,FD,Caddy's,Y
+2818, ,Publish,P,N
+2819, ,Art,Design,N
+2820, ,Art,Gallary,N
+2821, ,Art,Theator,N
+2822, ,Advertising,AD,N
+2823, ,Music,Music,N
+2824, ,Art,Dance,N
+2825, ,Advertising,AD,N
+2826, ,Art,Dance,N
+2827, ,Film,Photo,N
+2828, ,Film,Photo,N
+2829, ,IT,IT,N
+2830, ,IT,Game,N
+2831, ,IT,Game,N
+2832, ,Art,Theator,N
+2833, ,IT,Software,N
+2834, ,Publish,P,N
+2835, ,Art,Dance,N
+2836, ,Arch,Arch,N
+2837, ,IT,IT,N
+2838, ,IT,IT,N
+2839, ,FD,Toysuper Toys Milan,Y
+2840, ,Arch,Arch,N
+2841, ,Publish,P,N
+2842, ,Art,Design,N
+2843, ,IT,IT,N
+2844, ,Art,Design,N
+2845, ,IT,Software,N
+2846, ,Film,Photo,N
+2847, ,IT,IT,N
+2848, ,Arch,Arch,N
+2849, ,Art,Theator,N
+2850, ,IT,IT,N
+2851, ,IT,Software,N
+2852, ,Film,Photo,N
+2853, ,Arch,Arch,N
+2854, ,Film,Photo,N
+2855, ,IT,Software,N
+2856, ,IT,Software,N
+2857, ,Music,Music,N
+2858, ,Art,Gallary,N
+2859, ,FD,Cargo,Y
+2860, ,Art,Dance,N
+2861, ,IT,IT,N
+2862, ,Music,M,N
+2863, ,FD,Cosplay,N
+2864, ,Arch,Arch,N
+2865, ,IT,IT,N
+2866, ,IT,IT,"N
+"
+2867, ,Arch,Arch,N
+2868, ,Art,Dance,N
+2869, ,Art,Theator,N
+2870, ,Art,Deisgn,N
+2871, ,Music,Music,N
+2872, ,Art,Design,N
+2873, ,Film,TV,N
+2874, ,Advertising,AD,N
+2875, ,Film,Photo,N
+2876, ,Arch,Arch,N
+2877, ,Advertising,AD,N
+2878, ,Arch,Arch,N
+2879, ,Film,Photo,N
+2880, ,IT,IT,N
+2881, ,Film,Radio,N
+2882, ,IT,Software,N
+2883, ,Art,Theator,N
+2884, ,Arch,Arch,N
+2885, ,IT,Game,N
+2886, ,Art,Gallary,N
+2887, ,FD,Cloth,N
+2888, ,Craft,Craft,N
+2889, ,Publish,P,N
+2890, ,IT,TIM,Y
+2891, ,IT,WIND,Y
+2892, ,IT,Game,N
+2893, ,Craft,C,N
+2894, ,Film,Video,N
+2895, ,FIlm,Photo,N
+2896, ,Film,News,N
+2897, ,IT,WEB,N
+2898, ,Art,Theator,N
+2899, ,FD,Cloth,N
+2900, ,Art,Theator,N
+2901, ,Craft,C,N
+2902, ,Art,Design,N
+2903, ,IT,IT,N
+2904, ,FD,Cloth,N
+2905, ,Music,Music,N
+2906, ,Art,Design,N
+2907, ,Art,Dance,N
+2908, ,Film,Photo,N
+2909, ,Publish,P,N
+2910, ,Art,Design,N
+2911, ,IT,IT,"N
+N"
+2912, ,Advertising,AD,N
+2913, ,IT,IT,N
+2914, ,Music,Music,N
+2915, ,Art,Gallary,N
+2916, ,Music,Music,N
+2917, ,Film,Radio,N
+2918, ,Film,Video,N
+2919, ,IT,IT,N
+2920, ,Music,Music,N
+2921, ,IT,TIM,Y
+2922, ,Craft,C,N
+2923, ,Advertising,AD,N
+2924, ,FD,Cloth,N
+2925, ,Craft,Craft,N
+2926, ,FD,Lillapois,Y
+2927, ,Art,Design,N
+2928, ,IT,IT,N
+2929, ,IT,IT,"N
+"
+2930, ,Art,Dance,N
+2931, ,IT,IT,N
+2932, ,IT,IT,N
+2933, ,IT,IT,N
+2934, ,Advertising,AD,N
+2935, ,Art,Model,N
+2936, ,Arch,Arch,N
+2937, ,Art,Museum,N
+2938, ,Advertising,AD,N
+2939, ,Art,Design,N
+2940, ,Advertising,AD,N
+2941, ,"FD
+FD",Boggi Factory Outlet Store,Y
+2942, ,Art,Gallary,N
+2943, ,FD,Cloth,N
+2944, ,IT,Software,N
+2945, ,IT,IT,N
+2946, ,Art,Gallary,N
+2947, ,IT,IT,N
+2948, ,Advertising,AD,N
+2949, ,Music,Music,N
+2950, ,Music,Sony Music,Y
+2951, ,Music,Music,N
+2952, ,Art,Gallary,N
+2953, ,IT,IT,N
+2954, ,Art,Dance,N
+2955, ,IT,Software,N
+2956, ,Art,Art,N
+2957, ,Arch,Arch,N
+2958, ,Advertising,AD,N
+2959, ,Arch,Arch,N
+2960, ,Arch,"Arch
+Arch",N
+2961, ,Arch,Arch,N
+2962, ,Music,Music,N
+2963, ,Music,Music,N
+2964, ,IT,WIND,Y
+2965, ,Music,Music,N
+2966, ,IT,WIND,N
+2967, ,FD,IperSoap,Y
+2968, ,Music,Music,N
+2969, ,Art,Dance,N
+2970, ,FD,Spazio Zero,N
+2971, ,Music,Music,N
+2972, ,Music,Music,N
+2973, ,Film,Radio,N
+2974, ,Film,Radio,N
+2975, ,Publish,Publish,N
+2976, ,Art,Gallary,N
+2977, ,Craft,Craft,N
+2978, ,Music,Music,N
+2979, ,Arch,Arch,N
+2980, ,Publish,Publish,N
+2981, ,Art,Gallary,N
+2982, ,Art,Design,N
+2983, ,Publish,Publish,N
+2984, ,IT,Software,N
+2985, ,FD,Wrangler VF ITALY,Y
+2986, ,Music,Music,N
+2987, ,Music,Music,N
+2988, ,Arch,Arch,N
+2989, ,Art,Dance,N
+2990, ,Publish,P,N
+2991, ,FIlm,Photo,N
+2992, ,Art,Design,N
+2993, ,Art,Theator,N
+2994, ,Art,Design,N
+2995, ,Advertising,AD,N
+2996, ,Art,Theator,N
+2997, ,Art,Gallary,N
+2998, ,FD,Abiti da Cerimonia,N
+2999, ,Arch,Arch,N
+3000, ,Art,Gallary,N
+3001, ,IT,Software,N
+3002, ,IT,Software,N
+3003, ,IT,Game,N
+3004, ,FD,Mac,Y
+3005, ,FD,Le Ore D'oro,Y
+3006, ,IT,WIND,Y
+3007, ,FD,Cloth,N
+3008, ,FD,Libero,Y
+3009, ,Arch,Arch,N
+3010, ,Art,Dance,N
+3011, ,FD,Kammi Footwear Valassina,Y
+3012, ,Film,Photo,N
+3013, ,Art,Dance,N
+3014, ,Advertising,AD,N
+3015, ,Film,Radio,N
+3016, ,Music,Music,N
+3017, ,Music,Music,N
+3018, ,FD,Le SAC outlet,Y
+3019, ,Art,Dance,N
+3020, ,Art,Design,N
+3021, ,Art,La Scighera,N
+3022, ,Publish,P,N
+3023, ,IT,IT,N
+3024, ,IT,IT,N
+3025, ,Arch,Arch,N
+3026, ,Film,Photo,N
+3027, ,Art,Design,N
+3028, ,IT,IT,N
+3029, ,Music,Music,N
+3030, ,Music,Music,N
+3031, ,IT,Game,N
+3032, ,Art,Design,N
+3033, ,Art,Design,N
+3034, ,Advertising,AD,N
+3035, ,IT,IT,N
+3036, ,IT,IT,N
+3037, ,Arch,Arch,N
+3038, ,Art,Dance,N
+3039, ,Arch,Arch,N
+3040, ,Music,Music,N
+3041, ,FIlm,Video,N
+3042, ,FD,Le SAC outlet,Y
+3043, ,FD,Store Mix Dergano,Y
+3044, ,Arch,Arch,N
+3045, ,Arch,Arch,N
+3046, ,Arch,Arch,N
+3047, ,Arch,Arch,N
+3048, ,Arch,Arch,N
+3049, ,IT,TIM,Y
+3050, ,Art,Dance,N
+3051, ,FIlm,Video,N
+3052, ,Advertising,AD,N
+3053, ,Arch,Design,N
+3054, ,Film,Photo,N
+3055, ,Film,Video,N
+3056, ,Arch,Arch,N
+3057, ,Art,Museum,N
+3058, ,Film,Video,N
+3059, ,Art,Museum,N
+3060, ,Art,Gallary,N
+3061, ,Art,Gallary,N
+3062, ,Film,Video,N
+3063, ,Publish,P,N
+3064, ,FD,LABO.ART,N
+3065, ,Art,Design,N
+3066, ,IT,IT,N
+3067, ,Film,Video,N
+3068, ,FD,Natsuko Toyofuku,Y
+3069, ,FD,adidas Originals Store,Y
+3070, ,Art,Dance,N
+3071, ,FD,Momonì,N
+3072, ,FD,Pinko Boutique Milano,Y
+3073, ,FD,Sandro-Paris,Y
+3074, ,FD,G-SHOCK Corso Como,Y
+3075, ,FD,Natsuko Toyofuku,Y
+3076, ,Craft,C,N
+3077, ,FD,Gabs Flagship Store,Y
+3078, ,FD,Eral 55,Y
+3079, ,Arch,Arch. Andrea Galeazzi,Y
+3080, ,Arch,Arch,N
+3081, ,Art,Museum,N
+3082, ,FD,Y-3 Milan,Y
+3083, ,FD,Dsquared2 Concept Store,Y
+3084, ,FD,Just Cavalli,Y
+3085, ,Craft,C,N
+3086, ,FD,GCDS,Y
+3087, ,FD,Chiara Ferragni Store,Y
+3088, ,FD,Christian Louboutin,Y
+3089, ,Art,Gallary,N
+3090, ,FD,Hydrogen Icon Store,N
+3091, ,Craft,Campomaggi Flagship Store,N
+3092, ,Arch,Arch,N
+3093, ,IT,IBM Studios,Y
+3094, ,FD,MUJI Milan Porta Garibaldi Store,Y
+3095, ,FD,Colmar Lab,Y
+3096, ,FD,Profumeria Douglas,Y
+3097, ,FD,Under Armour Gae Aulenti,Y
+3098, ,FD,Nike,Y
+3099, ,FD,Moleskine Store,Y
+3100, ,FD,Swatch Milano Gae Aulenti,Y
+3101, ,FD,Bebe' Srl,Y
+3102, ,FD,Airness Basketball Store,Y
+3103, ,FD,New Balance Milano,Y
+3104, ,FD,MDF Store,Y
+3105, ,FD,Marcelo,Y
+3106, ,Arch,Arch,N
+3107, ,Film,Video,N
+3108, ,IT,IT,N
+3109, ,Craft,Craft,N
+3110, ,Advertising,AD,N
+3111, ,Publish,P,N
+3112, ,Film,Radio,N
+3113, ,IT,Fastweb,N
+3114, ,Film,Photo,N
+3115, ,IT,IT,N
+3116, ,FD,Cloth,N
+3117, ,Arch,Arch,N
+3118, ,FD,Ragno Srl,N
+3119, ,Art,Design,N
+3120, ,IT,Juice - Premium Apple Reseller,Y
+3121, ,FD,Little Zoo Srl,Y
+3122, ,IT,Software,N
+3123, ,Art,Museum,N
+3124, ,FD,Ganz Sas Di Ganz Paolo & C.,N
+3125, ,IT,Software,N
+3126, ,Art,Dance,N
+3127, ,Music,Music,N
+3128, ,FD,Cloth,N
+3129, ,FD,Cloth,N
+3130, ,Art,Theator,N
+3131, ,Music,Music,N
+3132, ,Film,Photo,N
+3133, ,Advertising,AD,N
+3134, ,Art,Gallary,N
+3135, ,Arch,Arch,N
+3136, ,Art,Gallary,N
+3137, ,IT,IT,N
+3138, ,IT,Game,N
+3139, ,Music,Music,N
+3140, ,Art,Gallary,N
+3141, ,Craft,Craft,N
+3142, ,Craft,C,N
+3143, ,Art,Design,N
+3144, ,IT,NEXT S.p.A. Hardware & Software,N
+3145, ,Film,Radio,N
+3146, ,Art,Museum,N
+3147, ,FD,Cloth,N
+3148, ,Music,Music,N
+3149, ,IT,Software,N
+3150, ,FD,Bassetti Outlet,N
+3151, ,Film,Video,N
+3152, ,Publish,P,N
+3153, ,FD,Gaya Boutique,Y
+3154, ,Craft,D'Augusta Gioielli,N
+3155, ,FD,L'Outlet del Kasalingo,N
+3156, ,IT,3 Store Milano,Y
+3157, ,Film,Video,N
+3158, ,Music,Music,N
+3159, ,Advertising,AD,N
+3160, ,Publish,P,N
+3161, ,IT,Vodafone,Y
+3162, ,IT,WIND,Y
+3163, ,Publish,P,N
+3164, ,Art,Dance,N
+3165, ,Film,Video,N
+3166, ,Film,Video,N
+3167, ,Art,Design,N
+3168, ,Art,Design,N
+3169, ,Film,VIdeo,N
+3170, ,FD,Lirecento Store - Milano,Y
+3171, ,Art,Model,N
+3172, ,Film,Radio,N
+3173, ,Arch,Arch,N
+3174, ,Art,Design,N
+3175, ,Music,Music,N
+3176, ,IT,Software,N
+3177, ,FD,Cloth,N
+3178, ,Film,Video,N
+3179, ,Advertising,AD,N
+3180, ,Film,Photo,N
+3181, ,IT,IT,N
+3182, ,IT,Huawei,Y
+3183, ,Publish,P,N
+3184, ,Film,VIdeo,N
+3185, ,Advertising,AD,N
+3186, ,Art,Design,N
+3187, ,FD,Pivert Store Milano,Y
+3188, ,Film,Radio,N
+3189, ,Music,Music,N
+3190, ,Craft,C,N
+3191, ,Art,Museum,N
+3192, ,Advertising,AD,N
+3193, ,Film,Video,N
+3194, ,Arch,Arch,N
+3195, ,Art,Design,N
+3196, ,Art,Art,N
+3197, ,Film,Video,N
+3198, ,Art,Design,N
+3199, ,FD,米兰东方袜业 Alan Socks,Y
+3200, ,IT,Game,N
+3201, ,IT,KTV,N
+3202, ,IT,TIM,Y
+3203, ,FD,Party Wan,N
+3204, ,Art,Design,N
+3205, ,Film,VIdeo,N
+3206, ,Art,Design,N
+3207, ,Film,Radio,N
+3208, ,Film,Video,N
+3209, ,Film,Video,N
+3210, ,Advertising,AD,N
+3211, ,FD,Cloth,N
+3212, ,FD,Cloth,N
+3213, ,FD,Cloth,N
+3214, ,FD,Cloth,N
+3215, ,"FD
+FD",Cloth,N
+3216, ,FD,Cloth,N
+3217, ,Art,Design,N
+3218, ,Advertising,AD,N
+3219, ,Craft,Model,N
+3220, ,Advertising,AD,N
+3221, ,FD,Cloth,N
+3222, ,Arch,Arch,N
+3223, ,FD,Cloth,N
+3224, ,FD,Nuova Nanfang,Y
+3225, ,Art,Theator,N
+3226, ,Film,Photo,N
+3227, ,FD,Z&Z Punk Shop,N
+3228, ,Craft,C,N
+3229, ,FD,Cloth,N
+3230, ,Film,Radio,N
+3231, ,Advertising,AD,N
+3232, ,Art,Design,N
+3233, ,Art,Gallary,N
+3234, ,FD,Cappelleria Melegari dal 1914,N
+3235, ,FD,箱包 Valigeria Luggage,N
+3236, ,Craft,Perfume,N
+3237, ,Advertising,AD,N
+3238, ,Film,Photo,"N
+N"
+3239, ,Art,Theator,N
+3240, ,Publish,P,N
+3241, ,IT,WIND,N
+3242, ,Publish,P,N
+3243, ,Music,Music,N
+3244, ,Film,Photo,N
+3245, ,Art,Theator,N
+3246, ,Craft,Model,N
+3247, ,Art,Design,N
+3248, ,Art,Theator,N
+3249, ,FD,Ottica Giansanti dal 1980,N
+3250, ,Advertising,AD,N
+3251, ,Craft,Model,N
+3252, ,Advertising,AD,N
+3253, ,Music,Music,N
+3254, ,IT,IT,N
+3255, ,Art,Theator,N
+3256, ,IT,Data,N
+3257, ,FD,Boarder,N
+3258, ,Craft,Gioielleria BAGNOLI,Y
+3259, ,Advertising,AD,N
+3260, ,Art,Museum,N
+3261, ,Advertising,AD,N
+3262, ,IT,IT,N
+3263, ,IT,IT,N
+3264, ,Film,Radio,N
+3265, ,Film,TV,N
+3266, ,Film,Radio,N
+3267, ,Publish,News,N
+3268, ,Art,Design,N
+3269, ,IT,IT,N
+3270, ,"IT
+iT",IT,N
+3271, ,Art,Gallary,N
+3272, ,Craft,Model,N
+3273, ,IT,TIM,"N
+"
+3274, ,Art,Design,N
+3275, ,Art,Design,N
+3276, ,Arch,Arch,N
+3277, ,Art,Gallary,N
+3278, ,Art,Art,N
+3279, ,IT,Game,N
+3280, ,Advertising,AD,N
+3281, ,FD,Cloth,N
+3282, ,Art,Museum,N
+3283, ,Publish,P,N
+3284, ,Arch,Arch,N
+3285, ,Art,Dance,N
+3286, ,IT,WIND,Y
+3287, ,IT,3 store,Y
+3288, ,FD,OVS,Y
+3289, ,IT,"IT
+IT",N
+3290, ,"IT
+IT",IT,N
+3291, ,IT,IT,N
+3292, ,"IT
+IT",IT,N
+3293, ,Craft,African Oriental Craft,N
+3294, ,Arch,Arch,N
+3295, ,Art,Theator,N
+3296, ,Advertising,AD,N
+3297, ,Film,Radio,N
+3298, ,IT,Data,N
+3299, ,Art,Gallary,N
+3300, ,FD,PANDORA,Y
+3301, ,IT,Google,Y
+3302, ,Publish,P,N
+3303, ,IT,Software,N
+3304, ,FD,T.E.V.E. srl,Y
+3305, ,Art,Design,N
+3306, ,FD,Cloth,N
+3307, ,Arch,Arch,N
+3308, ,Arch,Arch,N
+3309, ,Film,Video,N
+3310, ,Art,Design,N
+3311, ,IT,IT,N
+3312, ,Art,Theator,N
+3313, ,FD,Cloth,N
+3314, ,Music,Music,N
+3315, ,Advertising,AD,N
+3316, ,IT,IT,N
+3317, ,Film,Video,N
+3318, ,Art,Gallary,N
+3319, ,Art,Gallary,N
+3320, ,Art,Gallary,N
+3321, ,IT,IT,N
+3322, ,Publish,Publish,N
+3323, ,Art,Design,N
+3324, ,IT,IT,N
+3325, ,Film,Video,N
+3326, ,IT,IT,N
+3327, ,Publish,P,N
+3328, ,IT,Software,N
+3329, ,"iT
+IT",Software,N
+3330, ,Craft,Craft,N
+3331, ,Music,Music,N
+3332, ,Music,Music,N
+3333, ,Advertising,AD,N
+3334, ,Film,VIdeo,N
+3335, ,Art,Theator,N
+3336, ,Art,Theator,N
+3337, ,FD,Mabel,Y
+3338, ,IT,IT,N
+3339, ,Art,Deisgn,N
+3340, ,IT,Game,N
+3341, ,FD,HANGAR 107 - Milano,Y
+3342, ,Art,Design,N
+3343, ,Advertising,AD,N
+3344, ,IT,IT,N
+3345, ,Art,Museum,N
+3346, ,Art,Theator,N
+3347, ,Art,Dance,N
+3348, ,Arch,Arch,N
+3349, ,Arch,Arch,N
+3350, ,Arch,Arch,N
+3351, ,Art,Design,N
+3352, ,Art,Theator,N
+3353, ,Art,Museum,N
+3354, ,IT,IT,N
+3355, ,Art,Gallary,N
+3356, ,IT,Game,N
+3357, ,FD,Delsey,Y
+3358, ,IT,IT,N
+3359, ,Film,Photo,N
+3360, ,IT,IT,N
+3361, ,Art,Dance,N
+3362, ,Craft,Craft,N
+3363, ,IT,IT,"N
+N"
+3364, ,Craft,Craft,N
+3365, ,Arch,Boeri,Y
+3366, ,Arch,Arch,N
+3367, ,Film,Video,N
+3368, ,Art,Gallary,N
+3369, ,Arch,Arch,N
+3370, ,Advertising,AD,N
+3371, ,Art,Model,N
+3372, ,Art,Model,N
+3373, ,Art,Dance,N
+3374, ,Publish,P,N
+3375, ,Film,Photo,N
+3376, ,Publish,P,N
+3377, ,Arch,Arch,N
+3378, ,IT,IT,N
+3379, ,Art,Design,N
+3380, ,Art,Design,N
+3381, ,Art,Design,N
+3382, ,Arch,Arch,N
+3383, ,IT,Software,N
+3384, ,Film,TV,N
+3385, ,Arch,Arch,N
+3386, ,Advertising,AD,N
+3387, ,Film,Video,N
+3388, ,Film,Video,N
+3389, ,Arch,Arch,N
+3390, ,Music,Music,N
+3391, ,Film,Cinema,N
+3392, ,Advertising,AD,N
+3393, ,IT,Data,N
+3394, ,Art,Dance,N
+3395, ,Advertising,AD,N
+3396, ,Arch,Arch,N
+3397, ,Art,Model,N
+3398, ,Film,Photo,N
+3399, ,Publish,P,N
+3400, ,FIlm,Video,N
+3401, ,IT,IT,N
+3402, ,Art,Dance,N
+3403, ,Art,Design,N
+3404, ,Art,Dance,N
+3405, ,Arch,Arch,N
+3406, ,Publish,P,N
+3407, ,FIlm,Photo,N
+3408, ,IT,IT,N
+3409, ,Publish,Publish,N
+3410, ,Publish,P,N
+3411, ,FD,Cloth,N
+3412, ,Arch,Arch,N
+3413, ,FIlm,TV,N
+3414, ,Art,Dance,N
+3415, ,IT,Game,N
+3416, ,Art,Design,N
+3417, ,IT,Data,N
+3418, ,IT,CPU,"N
+N"
+3419, ,Advertising,AD,N
+3420, ,Arch,Arch,N
+3421, ,Arch,Arch,N
+3422, ,IT,Software,N
+3423, ,IT,IT,N
+3424, ,IT,IT,N
+3425, ,Art,Dance,N
+3426, ,Art,Model,N
+3427, ,Art,Design,N
+3428, ,Art,Art,N
+3429, ,IT,IT,N
+3430, ,Advertising,AD,N
+3431, ,Art,Art,N
+3432, ,Art,Design,N
+3433, ,Film,Video,N
+3434, ,Film,Video,N
+3435, ,Publish,P,N
+3436, ,Music,Music,N
+3437, ,Art,Design,N
+3438, ,Arch,Arch,N
+3439, ,Art,Design,N
+3440, ,FD,Cloth,N
+3441, ,FD,Space 23,Y
+3442, ,FD,120% Lino store,Y
+3443, ,FD,Vintage Watches Milano,Y
+3444, ,Arch,Arch,N
+3445, ,IT,Software,N
+3446, ,Advertising,AD,N
+3447, ,Music,Music,N
+3448, ,Art,Design,N
+3449, ,Art,Design,N
+3450, ,Advertising,AD,N
+3451, ,Art,Model,N
+3452, ,Art,Gallary,N
+3453, ,Arch,Arch,N
+3454, ,Art,Design,N
+3455, ,Film,Cinema,N
+3456, ,Advertising,AD,N
+3457, ,IT,Software,N
+3458, ,IT,Software,N
+3459, ,Publish,P,N
+3460, ,Arch,Arch,N
+3461, ,Film,Radio,N
+3462, ,Film,Radio,N
+3463, ,Arch,Arch,N
+3464, ,Publish,P,N
+3465, ,IT,Software,N
+3466, ,Publish,P,"N
+N"
+3467, ,Arch,Arch,N
+3468, ,Arch,Arch,N
+3469, ,Publish,P,N
+3470, ,Arch,Arch,N
+3471, ,Arch,Arch,N
+3472, ,Arch,Arch,N
